@@ -7,6 +7,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
@@ -85,6 +88,9 @@
   </action>
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="shift f" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="GotoBookmark0" />
   <action id="GotoBookmark1" />
