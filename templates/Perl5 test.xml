@@ -1,0 +1,124 @@
+<templateSet group="Perl5 test">
+  <template name="subtest" value="subtest $NAME$ =&gt; sub{&#10;    $END$&#10;};" description="Subtest" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="testname" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="ok" value="ok( $COND$, '$NAME$' );&#10;$END$" description="ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="is" value="is( $COND$, $EXPECTED$, '$NAME$' );&#10;$END$" description="is assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="isnt" value="isnt( $COND$, $EXPECTED$, '$NAME$' );&#10;$END$" description="isnt assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="like" value="like( $COND$, $EXPECTED$, '$NAME$' );&#10;$END$" description="like assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="unlike" value="unlike( $COND$, $EXPECTED$, '$NAME$' );&#10;$END$" description="unlike assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="cmp_ok" value="cmp_ok( $COND$, '$OP$', $EXPECTED$, '$NAME$' );&#10;$END$" description="cmp_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OP" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="can_ok" value="can_ok( $COND$, qw/$SUBS$/ );&#10;$END$" description="can_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SUBS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="isa_ok" value="isa_ok( $COND$, '$CLASS$', '$OBJECT_NAME$' );&#10;$END$" description="isa_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="new_ok" value="new_ok( $CLASS$ =&gt; $ARGS$, '$OBJECT_NAME$' );&#10;$END$" description="new_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ARGS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="OBJECT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="pass" value="pass( '$TEST_NAME$' );&#10;$END$" description="pass statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="fail" value="fail( '$TEST_NAME$' );&#10;$END$" description="fail statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="require_ok" value="require_ok( '$MODULE_OR_PACKAGE$' );&#10;$END$" description="require_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="MODULE_OR_PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="use_ok" value="use_ok( '$MODULE_OR_PACKAGE$' );&#10;$END$" description="use_ok assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="MODULE_OR_PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="is_deeply" value="is_deeply( $GOT$, $EXPECTED$, '$NAME$' );&#10;$END$" description="is_deepy assertion" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="GOT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="diag" value="diag( '$TEST_NAME$' );&#10;$END$" description="diag statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="note" value="note( '$TEST_NAME$' );&#10;$END$" description="note statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="explain" value="explain( $REFERENCE$ );&#10;$END$" description="explain statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="REFERENCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="SKIP" value="SKIP: {&#10;    skip '$REASON$', $HOW_MANY$ if $CONDITION$;&#10;    &#10;    $END$&#10;}" description="skip block" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="REASON" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HOW_MANY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="TODO" value="TODO: {&#10;    local $TODO = '$REASON$';&#10;    &#10;    $END$&#10;}" description="todo block" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="REASON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="TODO skip" value="TODO: {&#10;    todo_skip '$REASON$', $HOW_MANY$ if $CONDITION$;&#10;    &#10;    $END$&#10;}" description="todo_skip block" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="REASON" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="HOW_MANY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="BAIL_OUT" value="BAIL_OUT( '$RESAON$' );&#10;$END$" description="bail_out statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="RESAON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="plan tests" value="plan tests =&gt; $NUMBER_OF_TESTS$;&#10;$END$" description="plan tests statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="NUMBER_OF_TESTS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="plan skip_all" value="plan skip_all =&gt; '$REASON$';&#10;$END$" description="plan skip_all statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="REASON" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="no_plan" value="plan 'no_plan';&#10;$END$" description="plan no_plan statement" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+</templateSet>
