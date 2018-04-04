@@ -1,0 +1,9 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="org.apache.shiro." />
+      </list>
+    </option>
+  </component>
+</application>
