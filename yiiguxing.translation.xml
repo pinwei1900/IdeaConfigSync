@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
     <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="maxHistorySize" value="10" />
     <histories>
       <item value="spring" />
     </histories>
