@@ -1,8 +1,30 @@
 <templateSet group="funcion">
-  <template name="pvn" value="public void $FUNC_NAME$($FUNC_PARAMS$){&#10;    $FUNC_CONTENT$&#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="pvn" value="public void $FUNC_NAME$($FUNC_PARAMS$){&#10;    $FUNC_BODY$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <variable name="FUNC_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="FUNC_PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="FUNC_CONTENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC_BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="plg" value="public List&lt;$ENTRY$&gt; get$ENTRY$s($FUNC_PARAM$){&#10;    $FUNC_BODY$&#10;}" toReformat="true" toShortenFQNames="true">
+    <variable name="ENTRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC_PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC_BODY" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="plgi" value="public List&lt;$ENTRY$&gt; get$ENTRY$s($FUNC_PARAM$);" toReformat="false" toShortenFQNames="true">
+    <variable name="ENTRY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC_PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pvni" value="public void $FUNC_NAME$($FUNC_PARAMS$);" toReformat="false" toShortenFQNames="true">
+    <variable name="FUNC_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNC_PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
