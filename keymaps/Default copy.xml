@@ -120,6 +120,9 @@
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="shift insert" />
   </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="MethodHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
