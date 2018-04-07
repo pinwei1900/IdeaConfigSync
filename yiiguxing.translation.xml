@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="Delegat" />
+      <item value="Async" />
       <item value="Mask Format Annotation Formatter Factory" />
       <item value="add Formatters" />
       <item value="注解" />
