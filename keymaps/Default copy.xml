@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="$Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
@@ -29,7 +32,7 @@
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
   <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -39,6 +42,9 @@
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -67,6 +73,9 @@
   </action>
   <action id="EditorNextWord">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
@@ -113,6 +122,12 @@
   </action>
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="alt h" />
   </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl 5" />
