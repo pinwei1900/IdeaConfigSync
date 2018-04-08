@@ -1,12 +1,15 @@
 <templateSet group="Perl5 Switch">
   <template name="switch" value="switch ($VAL$)&#10;{&#10;    $END$&#10;}" description="switch block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="case" value="case $COND$ { $CODE$ }&#10;$END$" description="case block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="else" value="else { $CODE$ }&#10;$END$" description="else block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CODE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
