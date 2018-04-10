@@ -34,6 +34,9 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="Debugger.PopFrame">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
   </action>
@@ -84,6 +87,7 @@
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -146,6 +150,9 @@
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt f11" />
