@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="10" />
     <histories>
+      <item value="factorial" />
       <item value="Delegat" />
       <item value="Async" />
       <item value="Mask Format Annotation Formatter Factory" />
