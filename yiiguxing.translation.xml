@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
+      <item value="suspend" />
       <item value="chunked" />
       <item value="Once inserted, you can write a ChunkedInput so that the ChunkedWriteHandler can pick it up and fetch the content of the stream chunk by chunk and write the fetched chunk downstream:" />
       <item value="Chunked Input" />
@@ -32,8 +34,6 @@
       <item value="add Formatters" />
       <item value="注解" />
       <item value="get Root Config Classes" />
-      <item value="Abstract Annotation Config Dispatcher Servlet Initializer" />
-      <item value="Mvc Showcase App Initializer" />
     </histories>
   </component>
 </application>
