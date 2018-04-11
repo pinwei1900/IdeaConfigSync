@@ -43,6 +43,9 @@
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
   </action>
@@ -88,6 +91,9 @@
   <action id="EditorScrollUp" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />

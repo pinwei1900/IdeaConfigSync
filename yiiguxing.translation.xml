@@ -1,19 +1,39 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="AUTO" />
-    <option name="maxHistorySize" value="10" />
+    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="factorial" />
+      <item value="tail" />
+      <item value="enabled" />
+      <item value="Returns a channel where the I/O operation associated with this future takes place." />
+      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
+      <item value="suspend" />
+      <item value="chunked" />
+      <item value="Once inserted, you can write a ChunkedInput so that the ChunkedWriteHandler can pick it up and fetch the content of the stream chunk by chunk and write the fetched chunk downstream:" />
+      <item value="Chunked Input" />
+      <item value="complicated" />
+      <item value="manages" />
+      <item value="Chunked Write Handler" />
+      <item value="A ChannelHandler that adds support for writing a large data stream asynchronously neither spending a lot of memory nor getting OutOfMemoryError. Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties." />
+      <item value="String Decoder" />
+      <item value="File Server Handler" />
+      <item value="Line Based Frame Decoder" />
+      <item value="String Encoder" />
+      <item value="Simple Channel Inbound Handler" />
+      <item value="Discard Server Handler" />
+      <item value="splits" />
+      <item value="exception" />
+      <item value="decode" />
+      <item value="soon" />
+      <item value="maximum" />
+      <item value="* @param maxLength the maximum length of the decoded frame." />
+      <item value="hello" />
+      <item value="discarding" />
+      <item value="exclusive" />
       <item value="Delegat" />
       <item value="Async" />
       <item value="Mask Format Annotation Formatter Factory" />
-      <item value="add Formatters" />
-      <item value="注解" />
-      <item value="get Root Config Classes" />
-      <item value="Abstract Annotation Config Dispatcher Servlet Initializer" />
-      <item value="Mvc Showcase App Initializer" />
-      <item value="spring" />
     </histories>
   </component>
 </application>
