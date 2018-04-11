@@ -4,8 +4,6 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="// Note that we can use any event loop to ensure certain local channels // are handled by the same event loop thread which drives a certain socket channel // to reduce the communication latency between socket channels and local channels." />
-      <item value="certain" />
       <item value="tail" />
       <item value="enabled" />
       <item value="Returns a channel where the I/O operation associated with this future takes place." />
@@ -34,6 +32,8 @@
       <item value="discarding" />
       <item value="exclusive" />
       <item value="Delegat" />
+      <item value="Async" />
+      <item value="Mask Format Annotation Formatter Factory" />
     </histories>
   </component>
 </application>
