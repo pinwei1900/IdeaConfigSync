@@ -127,6 +127,16 @@
   <action id="GotoBookmark7" />
   <action id="GotoBookmark8" />
   <action id="GotoBookmark9" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
   <action id="Images.Editor.ActualSize">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
@@ -145,11 +155,20 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl 4" />
   </action>
+  <action id="NextOccurence" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="Print">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ResetToMySettings">
     <mouse-shortcut keystroke="shift control alt button3" />
@@ -162,6 +181,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl alt f11" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="ToggleBookmark0" />
   <action id="ToggleBookmark1" />
