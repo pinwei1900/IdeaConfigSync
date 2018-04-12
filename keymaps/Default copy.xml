@@ -34,6 +34,9 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
