@@ -4,6 +4,21 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
+      <item value="// Close the connection if the connection attempt has failed." />
+      <item value="// connection complete start to read first data" />
+      <item value="therefore" />
+      <item value="volatile" />
+      <item value="// As we use inboundChannel.eventLoop() when building the Bootstrap this does not need to be volatile as // the outboundChannel will use the same EventLoop (and therefore Thread) as the inboundChannel." />
+      <item value="// was able to flush out data, start to read the next chunk" />
+      <item value="complete" />
+      <item value="connection complete start to read first data" />
+      <item value="Hex Dump Proxy Frontend Handler" />
+      <item value="Event Loop Group" />
+      <item value="Hex Dump Proxy" />
+      <item value="Connection refused" />
+      <item value="Custom Mo Service Impl" />
+      <item value="custom Mo Service" />
       <item value="Binary Memcache Object Aggregator" />
       <item value="tail" />
       <item value="enabled" />
@@ -19,21 +34,14 @@
       <item value="A ChannelHandler that adds support for writing a large data stream asynchronously neither spending a lot of memory nor getting OutOfMemoryError. Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties." />
       <item value="String Decoder" />
       <item value="File Server Handler" />
-      <item value="Line Based Frame Decoder" />
-      <item value="String Encoder" />
-      <item value="Simple Channel Inbound Handler" />
-      <item value="Discard Server Handler" />
-      <item value="splits" />
-      <item value="exception" />
-      <item value="decode" />
-      <item value="soon" />
-      <item value="maximum" />
-      <item value="* @param maxLength the maximum length of the decoded frame." />
-      <item value="hello" />
-      <item value="discarding" />
-      <item value="exclusive" />
-      <item value="Delegat" />
-      <item value="Async" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5c565298cc6d41a2" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
