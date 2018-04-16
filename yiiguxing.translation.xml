@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="// connection complete start to read first data" />
+      <item value="complete" />
+      <item value="connection complete start to read first data" />
+      <item value="Hex Dump Proxy Frontend Handler" />
       <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
       <item value="Connection refused" />
@@ -30,10 +34,6 @@
       <item value="Discard Server Handler" />
       <item value="splits" />
       <item value="exception" />
-      <item value="decode" />
-      <item value="soon" />
-      <item value="maximum" />
-      <item value="* @param maxLength the maximum length of the decoded frame." />
     </histories>
   </component>
   <component name="Settings">
