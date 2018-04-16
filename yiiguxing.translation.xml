@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Connection refused" />
       <item value="Custom Mo Service Impl" />
       <item value="custom Mo Service" />
       <item value="Binary Memcache Object Aggregator" />
@@ -33,7 +34,6 @@
       <item value="* @param maxLength the maximum length of the decoded frame." />
       <item value="hello" />
       <item value="discarding" />
-      <item value="exclusive" />
     </histories>
   </component>
 </application>
