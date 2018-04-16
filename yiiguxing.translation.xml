@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
       <item value="Connection refused" />
       <item value="Custom Mo Service Impl" />
@@ -33,7 +34,15 @@
       <item value="soon" />
       <item value="maximum" />
       <item value="* @param maxLength the maximum length of the decoded frame." />
-      <item value="hello" />
     </histories>
+  </component>
+  <component name="Settings">
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="5c565298cc6d41a2" />
+        <option name="appKeyConfigured" value="true" />
+      </youdao-translate>
+    </option>
   </component>
 </application>
