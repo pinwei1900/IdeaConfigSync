@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="obtained" />
       <item value="download" />
       <item value="tear Down" />
       <item value="后缀" />
@@ -33,7 +34,6 @@
       <item value="Once inserted, you can write a ChunkedInput so that the ChunkedWriteHandler can pick it up and fetch the content of the stream chunk by chunk and write the fetched chunk downstream:" />
       <item value="Chunked Input" />
       <item value="complicated" />
-      <item value="manages" />
     </histories>
   </component>
   <component name="Settings">
