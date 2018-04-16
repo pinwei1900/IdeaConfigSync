@@ -1,94 +1,147 @@
 <templateSet group="Perl5">
   <template name="if" value="if ($CONDITION$)&#10;{&#10;    $END$&#10;}" description="if block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="sub" value="sub $NAME$ &#10;{&#10;    my ($ARGUMENTS$) = @_;&#10;    $END$&#10;}" description="new sub" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="&quot;subname&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="ARGUMENTS" expression="&quot;$self&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="use strict" value="use strict;&#10;$END$&#10;" description="strict header" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="use strict" value="use strict;&#10;$END$&#10;" description="strict header" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="use parent" value="use parent qw/$PACKAGE$/;&#10;$END$" description="inheritance header" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="PACKAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="use warnings" value="use warnings FATAL =&gt; 'all';&#10;$END$&#10;" description="warnings header" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="use warnings" value="use warnings FATAL =&gt; 'all';&#10;$END$&#10;" description="warnings header" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="foreach" value="foreach my $ELEMENT$ ($LIST$)&#10;{&#10;    $END$&#10;}" description="foreach block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ELEMENT" expression="&quot;$element&quot;" defaultValue="" alwaysStopAt="true" />
     <variable name="LIST" expression="&quot;@list&quot;" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="do" value="do&#10;{&#10;    $END$&#10;} " description="do block" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="do" value="do&#10;{&#10;    $END$&#10;} " description="do block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="map" value="map {$END$} $LIST$" description="map expression" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="LIST" expression="" defaultValue="&quot;@list&quot;" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="sql" value="my $query = &lt;&lt;'SQL';&#10;    $END$&#10;SQL&#10;" description="query" toReformat="false" toShortenFQNames="true" deactivated="true" />
+  <template name="sql" value="my $query = &lt;&lt;'SQL';&#10;    $END$&#10;SQL&#10;" description="query" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="for" value="for(my $INIT$; $CONDITION$; $INCREMENT$)&#10;{&#10;    $END$&#10;}" description="for block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="INIT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="INCREMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="else" value="else&#10;{&#10;    $END$&#10;}" description="else block" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="else" value="else&#10;{&#10;    $END$&#10;}" description="else block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="elsif" value="elsif($CONDITION$)&#10;{&#10;    $END$&#10;}" description="elsif block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="grep" value="grep {$END$} $LIST$" description="grep expression" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="LIST" expression="" defaultValue="@list" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="unless" value="unless ($EXPRESSION$)&#10;{&#10;    $END$&#10;}" description="unless block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="given" value="given ($EXPRESSION$)&#10;{&#10;    $END$&#10;}" description="given block" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="while" value="while ($EXPR$)&#10;{&#10;    $END$&#10;}" description="while block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="continue" value="continue&#10;{&#10;    $END$&#10;}" description="continue block" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="eval" value="eval{ $END$ }" description="eval block" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with block" value="{&#10;    $SELECTION$&#10;}" description="wrap with braces" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with array" value="[&#10;    $SELECTION$&#10;]" description="wrap with brackets" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with list" value="(&#10;    $SELECTION$&#10;)" description="wrap with parentheses" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with eval block" value="eval&#10;{&#10;    $SELECTION$&#10;};" description="wrap with eval block" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="continue" value="continue&#10;{&#10;    $END$&#10;}" description="continue block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="eval" value="eval{ $END$ }" description="eval block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with block" value="{&#10;    $SELECTION$&#10;}" description="wrap with braces" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with array" value="[&#10;    $SELECTION$&#10;]" description="wrap with brackets" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with list" value="(&#10;    $SELECTION$&#10;)" description="wrap with parentheses" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with eval block" value="eval&#10;{&#10;    $SELECTION$&#10;};" description="wrap with eval block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="wrap with for" value="for (my $INIT$; $CONDITION$; $INCREMENT$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap in for block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="INIT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="INCREMENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with foreach" value="foreach my $ELEMENT$ ($LIST$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with foreach block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ELEMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="LIST" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with unless" value="unless ($EXPRESSION$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with unless block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with elsif" value="elsif ($CONDITION$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with elsif block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="wrap with else" value="else&#10;{&#10;    $SELECTION$&#10;}" description="wrap with else block" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with continue" value="continue&#10;{&#10;    $SELECTION$&#10;}" description="wrap with continue block" toReformat="true" toShortenFQNames="true" deactivated="true" />
-  <template name="wrap with do" value="do&#10;{&#10;    $SELECTION$&#10;} " description="wrap with do block" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="wrap with else" value="else&#10;{&#10;    $SELECTION$&#10;}" description="wrap with else block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with continue" value="continue&#10;{&#10;    $SELECTION$&#10;}" description="wrap with continue block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="wrap with do" value="do&#10;{&#10;    $SELECTION$&#10;} " description="wrap with do block" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="wrap with given" value="given ($EXPR$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with given block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with while" value="while ($EXPR$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap in while block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="until" value="until ($EXR$)&#10;{&#10;    $END$&#10;}" description="until block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with until" value="until ($EXR$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with until block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="EXR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="wrap with if" value="if ($CONDITION$)&#10;{&#10;    $SELECTION$&#10;}" description="wrap with if block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="doc" value="=head3 $SUBNAME$&#10;&#10;$END$&#10;&#10;=cut&#10;" description="quick pod template" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="SUBNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="const" value="use constant {&#10;    $CONST_NAME$ =&gt; $CONST_VAL$&#10;};" description="Constant definition" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="CONST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CONST_VAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
-  <template name="sub{}" value="sub { $END$ }" description="new anon sub" toReformat="true" toShortenFQNames="true" deactivated="true" />
+  <template name="sub{}" value="sub { $END$ }" description="new anon sub" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
   <template name="sort" value="sort {$END$} $LIST$" description="sort expression" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="LIST" expression="" defaultValue="&quot;@list&quot;" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
