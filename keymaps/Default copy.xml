@@ -40,9 +40,6 @@
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
-  <action id="EditorBackSpace">
-    <keyboard-shortcut first-keystroke="back_space" />
-  </action>
   <action id="EditorBackwardParagraph">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>

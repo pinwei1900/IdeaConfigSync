@@ -4,6 +4,14 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns a pseudorandom, uniformly distributed int value between 0 (inclusive) and the specified value (exclusive), drawn from this random number generator's sequence. The general contract of nextInt is that one int value in the specified range is pseudorandomly generated and returned. All bound possible int values are produced with (approximately) equal probability. The method nextInt(int bound) is implemented by class Random as if by" />
+      <item value="quotes" />
+      <item value="next Quote" />
+      <item value="&quot;The weak can never forgive. Forgiveness is the attribute of the strong.&quot;," />
+      <item value="&quot;Be the change you want to see in the world.&quot;," />
+      <item value="&quot;First they ignore you, then they laugh at you, then they fight you, then you win.&quot;," />
+      <item value="&quot;Where there is love there is life.&quot;," />
+      <item value="A UDP server that responds to the QOTM (quote of the moment) request to a {@link QuoteOfTheMomentClient}." />
       <item value="startuml" />
       <item value="salt" />
       <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
@@ -26,14 +34,6 @@
       <item value="enabled" />
       <item value="Returns a channel where the I/O operation associated with this future takes place." />
       <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
-      <item value="suspend" />
-      <item value="chunked" />
-      <item value="Once inserted, you can write a ChunkedInput so that the ChunkedWriteHandler can pick it up and fetch the content of the stream chunk by chunk and write the fetched chunk downstream:" />
-      <item value="Chunked Input" />
-      <item value="complicated" />
-      <item value="manages" />
-      <item value="Chunked Write Handler" />
-      <item value="A ChannelHandler that adds support for writing a large data stream asynchronously neither spending a lot of memory nor getting OutOfMemoryError. Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties." />
     </histories>
   </component>
   <component name="Settings">
