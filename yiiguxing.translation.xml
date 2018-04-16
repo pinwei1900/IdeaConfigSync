@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="startuml" />
+      <item value="salt" />
       <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
       <item value="// Close the connection if the connection attempt has failed." />
       <item value="// connection complete start to read first data" />
@@ -32,8 +34,6 @@
       <item value="manages" />
       <item value="Chunked Write Handler" />
       <item value="A ChannelHandler that adds support for writing a large data stream asynchronously neither spending a lot of memory nor getting OutOfMemoryError. Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties." />
-      <item value="String Decoder" />
-      <item value="File Server Handler" />
     </histories>
   </component>
   <component name="Settings">
