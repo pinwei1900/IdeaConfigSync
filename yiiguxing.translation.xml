@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
       <item value="// Close the connection if the connection attempt has failed." />
       <item value="// connection complete start to read first data" />
       <item value="therefore" />
@@ -33,11 +34,9 @@
       <item value="A ChannelHandler that adds support for writing a large data stream asynchronously neither spending a lot of memory nor getting OutOfMemoryError. Large data streaming such as file transfer requires complicated state management in a ChannelHandler implementation. ChunkedWriteHandler manages such complicated states so that you can send a large data stream without difficulties." />
       <item value="String Decoder" />
       <item value="File Server Handler" />
-      <item value="Line Based Frame Decoder" />
     </histories>
   </component>
   <component name="Settings">
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
