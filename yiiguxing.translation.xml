@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Custom Mo Service Impl" />
+      <item value="custom Mo Service" />
       <item value="Binary Memcache Object Aggregator" />
       <item value="tail" />
       <item value="enabled" />
@@ -32,8 +34,6 @@
       <item value="hello" />
       <item value="discarding" />
       <item value="exclusive" />
-      <item value="Delegat" />
-      <item value="Async" />
     </histories>
   </component>
 </application>
