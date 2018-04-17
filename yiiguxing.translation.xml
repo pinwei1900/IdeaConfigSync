@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="SQL error or missing database (Connection is closed)" />
       <item value="peek" />
       <item value="Suffix" />
       <item value="Attempts to establish a connection to the given database URL. The DriverManager attempts to select an appropriate driver from the set of registered JDBC drivers." />
@@ -33,7 +34,6 @@
       <item value="Connection refused" />
       <item value="Custom Mo Service Impl" />
       <item value="custom Mo Service" />
-      <item value="Binary Memcache Object Aggregator" />
     </histories>
   </component>
   <component name="Settings">
