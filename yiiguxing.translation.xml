@@ -4,6 +4,12 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Once session is secured, send a greeting and register the channel to the global channel // list so the channel received the messages from others." />
+      <item value="Add SSL handler first to encrypt and decrypt everything. // In this example, we use a bogus certificate in the server side // and accept any invalid certificates in the client side. // You will need something more complicated to identify both // and server in the real world." />
+      <item value="complicated" />
+      <item value="invalid" />
+      <item value="certificate" />
+      <item value="bogus" />
       <item value="Unable to create Channel from class class io.netty.channel.sctp.nio.NioSctpChannel" />
       <item value="Unable to create Channel from class class io.netty.channel.sctp.nio.NioSctpServerChannel" />
       <item value="config.properties (系统找不到指定的文件。)" />
@@ -28,12 +34,6 @@
       <item value="Hex Dump Proxy" />
       <item value="Connection refused" />
       <item value="Custom Mo Service Impl" />
-      <item value="custom Mo Service" />
-      <item value="Binary Memcache Object Aggregator" />
-      <item value="tail" />
-      <item value="enabled" />
-      <item value="Returns a channel where the I/O operation associated with this future takes place." />
-      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
     </histories>
   </component>
   <component name="Settings">
