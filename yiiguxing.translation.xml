@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="* very simple stomp client implementation example, requires running stomp server to actually work * uses default username/password and destination values from hornetq message broker" />
       <item value="Detects the version of the current SOCKS connection and initializes the pipeline with Socks4ServerDecoder or Socks5InitialRequestDecoder." />
       <item value="Once session is secured, send a greeting and register the channel to the global channel // list so the channel received the messages from others." />
       <item value="Add SSL handler first to encrypt and decrypt everything. // In this example, we use a bogus certificate in the server side // and accept any invalid certificates in the client side. // You will need something more complicated to identify both // and server in the real world." />
@@ -33,7 +34,6 @@
       <item value="Hex Dump Proxy Frontend Handler" />
       <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
-      <item value="Connection refused" />
     </histories>
   </component>
   <component name="Settings">
