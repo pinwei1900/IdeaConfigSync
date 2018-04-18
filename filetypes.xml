@@ -12,6 +12,7 @@
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="db" type="Native" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="mdmp" type="PLAIN_TEXT" />
