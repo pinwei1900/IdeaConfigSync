@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Cannot determine local hostname" />
       <item value="DiscoveryClient represents operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
       <item value="Disconnecting due to no inbound traffic" />
       <item value="due to no inbound traffic" />
@@ -33,7 +34,6 @@
       <item value="前缀" />
       <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
       <item value="// Close the connection if the connection attempt has failed." />
-      <item value="// connection complete start to read first data" />
     </histories>
   </component>
   <component name="Settings">
