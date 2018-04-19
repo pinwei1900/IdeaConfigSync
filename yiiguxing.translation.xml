@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="DiscoveryClient represents operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
       <item value="Disconnecting due to no inbound traffic" />
       <item value="due to no inbound traffic" />
       <item value="Connects to a server periodically to measure and print the uptime of the server. This example demonstrates how to implement reliable reconnection mechanism in Netty." />
@@ -33,7 +34,6 @@
       <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
       <item value="// Close the connection if the connection attempt has failed." />
       <item value="// connection complete start to read first data" />
-      <item value="therefore" />
     </histories>
   </component>
   <component name="Settings">
