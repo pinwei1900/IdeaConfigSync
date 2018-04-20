@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="engaged" />
       <item value="&lt; tr &gt;" />
       <item value="Cannot determine local hostname" />
       <item value="DiscoveryClient represents operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
@@ -33,7 +34,6 @@
       <item value="tear Down" />
       <item value="后缀" />
       <item value="前缀" />
-      <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
     </histories>
   </component>
   <component name="Settings">
