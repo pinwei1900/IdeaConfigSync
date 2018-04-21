@@ -1,0 +1,8 @@
+<templateSet group="html/xml">
+  <template name="temp" value="&lt;result property=&quot;$PROP$&quot; column=&quot;$PROP$&quot;/&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="PROP" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
