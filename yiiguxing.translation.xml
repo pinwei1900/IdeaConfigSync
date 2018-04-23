@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="toggle" />
       <item value="engaged" />
       <item value="&lt; tr &gt;" />
       <item value="Cannot determine local hostname" />
@@ -33,7 +34,6 @@
       <item value="download" />
       <item value="tear Down" />
       <item value="后缀" />
-      <item value="前缀" />
     </histories>
   </component>
   <component name="Settings">
