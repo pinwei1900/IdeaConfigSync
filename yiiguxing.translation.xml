@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="pristine" />
       <item value="pagination" />
       <item value="toggle" />
       <item value="engaged" />
@@ -33,7 +34,6 @@
       <item value="enter Local Passive Mode" />
       <item value="obtained" />
       <item value="download" />
-      <item value="tear Down" />
     </histories>
   </component>
   <component name="Settings">
