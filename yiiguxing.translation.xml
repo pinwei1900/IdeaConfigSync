@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This method should be used when an object that has been borrowed is determined (due to an exception or other problem) to be invalid." />
       <item value="pristine" />
       <item value="pagination" />
       <item value="toggle" />
@@ -33,7 +34,6 @@
       <item value="indication" />
       <item value="enter Local Passive Mode" />
       <item value="obtained" />
-      <item value="download" />
     </histories>
   </component>
   <component name="Settings">
