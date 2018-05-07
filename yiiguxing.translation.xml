@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Fetch waiting message count by channel identity" />
       <item value="SUGERRESPONSE" />
       <item value="sugerresponse" />
       <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
@@ -33,7 +34,6 @@
       <item value="invalid" />
       <item value="certificate" />
       <item value="bogus" />
-      <item value="Unable to create Channel from class class io.netty.channel.sctp.nio.NioSctpChannel" />
     </histories>
   </component>
   <component name="Settings">
