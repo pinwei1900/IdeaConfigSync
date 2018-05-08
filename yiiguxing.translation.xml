@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Attaches an object to this context to store a stateful information specific to the ChannelHandler which is associated with this context." />
+      <item value="The runtime context,Provides a way to identify a user across more than one request" />
+      <item value="audit Dispatcher" />
+      <item value="default Dispatcher" />
       <item value="Fetch waiting message count by channel identity" />
       <item value="SUGERRESPONSE" />
       <item value="sugerresponse" />
@@ -30,13 +34,10 @@
       <item value="Detects the version of the current SOCKS connection and initializes the pipeline with Socks4ServerDecoder or Socks5InitialRequestDecoder." />
       <item value="Once session is secured, send a greeting and register the channel to the global channel // list so the channel received the messages from others." />
       <item value="Add SSL handler first to encrypt and decrypt everything. // In this example, we use a bogus certificate in the server side // and accept any invalid certificates in the client side. // You will need something more complicated to identify both // and server in the real world." />
-      <item value="complicated" />
-      <item value="invalid" />
-      <item value="certificate" />
-      <item value="bogus" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
