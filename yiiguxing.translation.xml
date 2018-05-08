@@ -4,6 +4,16 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="is Async Persist" />
+      <item value="Billing Filter" />
+      <item value="Flip Frame Filter" />
+      <item value="Routing Failed Filter" />
+      <item value="Static filter group, it's made up of pre-defined static filters." />
+      <item value="Identity certified filter" />
+      <item value="Temporary pack of the message pack data" />
+      <item value="BUSINESS CHANGE" />
+      <item value="CHANNEL CHANGE" />
+      <item value="AUDITING" />
       <item value="UNDLER LINE" />
       <item value="SUGER RESPONSE" />
       <item value="SUGERRESPONSE" />
@@ -24,16 +34,6 @@
       <item value="&lt; tr &gt;" />
       <item value="Cannot determine local hostname" />
       <item value="DiscoveryClient represents operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
-      <item value="Disconnecting due to no inbound traffic" />
-      <item value="due to no inbound traffic" />
-      <item value="Connects to a server periodically to measure and print the uptime of the server. This example demonstrates how to implement reliable reconnection mechanism in Netty." />
-      <item value="Uptime server is served as a connection server. So it simply discards all message received." />
-      <item value="Connect a Channel to the remote peer." />
-      <item value="xamples show how to use UDT Message Rendezvous" />
-      <item value="Telnet" />
-      <item value="mismatch" />
-      <item value="* very simple stomp client implementation example, requires running stomp server to actually work * uses default username/password and destination values from hornetq message broker" />
-      <item value="Detects the version of the current SOCKS connection and initializes the pipeline with Socks4ServerDecoder or Socks5InitialRequestDecoder." />
     </histories>
   </component>
   <component name="Settings">
