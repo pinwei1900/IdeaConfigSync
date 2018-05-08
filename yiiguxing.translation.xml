@@ -4,12 +4,14 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="UNDLER LINE" />
+      <item value="SUGER RESPONSE" />
+      <item value="SUGERRESPONSE" />
       <item value="Attaches an object to this context to store a stateful information specific to the ChannelHandler which is associated with this context." />
       <item value="The runtime context,Provides a way to identify a user across more than one request" />
       <item value="audit Dispatcher" />
       <item value="default Dispatcher" />
       <item value="Fetch waiting message count by channel identity" />
-      <item value="SUGERRESPONSE" />
       <item value="sugerresponse" />
       <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
       <item value="- when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
@@ -32,8 +34,6 @@
       <item value="mismatch" />
       <item value="* very simple stomp client implementation example, requires running stomp server to actually work * uses default username/password and destination values from hornetq message broker" />
       <item value="Detects the version of the current SOCKS connection and initializes the pipeline with Socks4ServerDecoder or Socks5InitialRequestDecoder." />
-      <item value="Once session is secured, send a greeting and register the channel to the global channel // list so the channel received the messages from others." />
-      <item value="Add SSL handler first to encrypt and decrypt everything. // In this example, we use a bogus certificate in the server side // and accept any invalid certificates in the client side. // You will need something more complicated to identify both // and server in the real world." />
     </histories>
   </component>
   <component name="Settings">
