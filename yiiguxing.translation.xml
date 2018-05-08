@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="KEY GENERATOR" />
+      <item value="Sends a message to this channel asynchronously. If this channel was created by a connectionless transport (e.g. DatagramChannel) and is not connected yet, you have to call write(Object, SocketAddress) instead. Otherwise, the write request will fail with NotYetConnectedException and an 'exceptionCaught' event will be triggered." />
       <item value="is Async Persist" />
       <item value="Billing Filter" />
       <item value="Flip Frame Filter" />
@@ -32,8 +34,6 @@
       <item value="toggle" />
       <item value="engaged" />
       <item value="&lt; tr &gt;" />
-      <item value="Cannot determine local hostname" />
-      <item value="DiscoveryClient represents operations commonly available to Discovery service such as Netflix Eureka or consul.io" />
     </histories>
   </component>
   <component name="Settings">
