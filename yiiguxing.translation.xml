@@ -4,6 +4,18 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Local cache impliment, load the black or white list from local" />
+      <item value="A MsgPack of kryo Serializer for redis" />
+      <item value="Availability RedisCache handler, the redis operator" />
+      <item value="A kryo Serializer for redis" />
+      <item value="Token Bucket" />
+      <item value="Abstract rate limiter config" />
+      <item value="Default Traffic Limit Handler" />
+      <item value="remove the mark of Limit the duplicate send" />
+      <item value="Limit the duplicate send, will return true if limited, false or not." />
+      <item value="Drizzt" />
+      <item value="BUSINESS CHANGE" />
+      <item value="CHANNEL CHANGE" />
       <item value="KEY GENERATOR" />
       <item value="Sends a message to this channel asynchronously. If this channel was created by a connectionless transport (e.g. DatagramChannel) and is not connected yet, you have to call write(Object, SocketAddress) instead. Otherwise, the write request will fail with NotYetConnectedException and an 'exceptionCaught' event will be triggered." />
       <item value="is Async Persist" />
@@ -13,8 +25,6 @@
       <item value="Static filter group, it's made up of pre-defined static filters." />
       <item value="Identity certified filter" />
       <item value="Temporary pack of the message pack data" />
-      <item value="BUSINESS CHANGE" />
-      <item value="CHANNEL CHANGE" />
       <item value="AUDITING" />
       <item value="UNDLER LINE" />
       <item value="SUGER RESPONSE" />
@@ -24,16 +34,6 @@
       <item value="audit Dispatcher" />
       <item value="default Dispatcher" />
       <item value="Fetch waiting message count by channel identity" />
-      <item value="sugerresponse" />
-      <item value="when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
-      <item value="- when the number of threads is greater than the core, this is the maximum time that excess idle threads will wait for new tasks before terminating." />
-      <item value="Connection closed without indication." />
-      <item value="This method should be used when an object that has been borrowed is determined (due to an exception or other problem) to be invalid." />
-      <item value="pristine" />
-      <item value="pagination" />
-      <item value="toggle" />
-      <item value="engaged" />
-      <item value="&lt; tr &gt;" />
     </histories>
   </component>
   <component name="Settings">
