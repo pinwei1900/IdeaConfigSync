@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Big Decimal" />
       <item value="Exclusive" />
       <item value="get Exclusive Owner Thread" />
       <item value="Performs non-fair tryLock. tryAcquire is implemented in * subclasses, but both need nonfair try for trylock method." />
@@ -33,7 +34,6 @@
       <item value="Static filter group, it's made up of pre-defined static filters." />
       <item value="Identity certified filter" />
       <item value="Temporary pack of the message pack data" />
-      <item value="AUDITING" />
     </histories>
   </component>
   <component name="Settings">
