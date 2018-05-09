@@ -4,6 +4,9 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Exclusive" />
+      <item value="get Exclusive Owner Thread" />
+      <item value="Performs non-fair tryLock. tryAcquire is implemented in * subclasses, but both need nonfair try for trylock method." />
       <item value="don't retain ref while waiting" />
       <item value="he wait queue is a variant of a &quot;CLH&quot; (Craig, Landin, and Hagersten) lock queue. CLH locks are normally used for spinlocks. We instead use them for blocking synchronizers, but use the same basic tactic of holding some of the control information about a thread in the predecessor of its node. A &quot;status&quot; field in each node keeps track of whether a thread should block. A node is signalled when its predecessor releases. Each node of the queue otherwise serves as a specific-notification-style monitor holding a single waiting thread. The status field does NOT control whether threads are granted locks etc though. A thread may try to acquire if it is first in the queue. But being first does not guarantee success; it only gives the right to contend. So the currently released contender thread may need to rewait." />
       <item value="Base of synchronization control for this lock. Subclassed into fair and nonfair versions below. Uses AQS state to represent the number of holds on the lock." />
@@ -31,9 +34,6 @@
       <item value="Identity certified filter" />
       <item value="Temporary pack of the message pack data" />
       <item value="AUDITING" />
-      <item value="UNDLER LINE" />
-      <item value="SUGER RESPONSE" />
-      <item value="SUGERRESPONSE" />
     </histories>
   </component>
   <component name="Settings">
