@@ -55,10 +55,6 @@
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="shift ctrl delete" />
   </action>
-  <action id="EditorDown">
-    <keyboard-shortcut first-keystroke="down" />
-    <keyboard-shortcut first-keystroke="ctrl j" />
-  </action>
   <action id="EditorDuplicate" />
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -70,10 +66,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
   </action>
   <action id="EditorJoinLines" />
-  <action id="EditorLeft">
-    <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
@@ -86,10 +78,6 @@
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
-  </action>
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
   <action id="EditorSelectLine">
@@ -99,10 +87,6 @@
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
-  <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
-    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="alt f" />
