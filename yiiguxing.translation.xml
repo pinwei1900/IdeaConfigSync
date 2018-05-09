@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Acquires the lock unless the current thread is interrupted. Acquires the lock if it is available and returns immediately." />
       <item value="Local cache impliment, load the black or white list from local" />
       <item value="A MsgPack of kryo Serializer for redis" />
       <item value="Availability RedisCache handler, the redis operator" />
@@ -33,7 +34,6 @@
       <item value="The runtime context,Provides a way to identify a user across more than one request" />
       <item value="audit Dispatcher" />
       <item value="default Dispatcher" />
-      <item value="Fetch waiting message count by channel identity" />
     </histories>
   </component>
   <component name="Settings">
