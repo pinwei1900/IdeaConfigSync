@@ -4,6 +4,11 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="DIRECT" />
+      <item value="Pavani Diwanji" />
+      <item value="Each message is routed from one machine to * another based solely on information contained within that packet. * Multiple packets sent from one machine to another might be routed * differently, and might arrive in any order. Packet delivery is * not guaranteed." />
+      <item value="connectionless" />
+      <item value="represents" />
       <item value="Big Decimal" />
       <item value="Exclusive" />
       <item value="get Exclusive Owner Thread" />
@@ -29,11 +34,6 @@
       <item value="Sends a message to this channel asynchronously. If this channel was created by a connectionless transport (e.g. DatagramChannel) and is not connected yet, you have to call write(Object, SocketAddress) instead. Otherwise, the write request will fail with NotYetConnectedException and an 'exceptionCaught' event will be triggered." />
       <item value="is Async Persist" />
       <item value="Billing Filter" />
-      <item value="Flip Frame Filter" />
-      <item value="Routing Failed Filter" />
-      <item value="Static filter group, it's made up of pre-defined static filters." />
-      <item value="Identity certified filter" />
-      <item value="Temporary pack of the message pack data" />
     </histories>
   </component>
   <component name="Settings">
