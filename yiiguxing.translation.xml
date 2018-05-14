@@ -4,6 +4,9 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="length Recursive" />
+      <item value="second Last Recursion" />
+      <item value="last Recursive" />
       <item value="complement" />
       <item value="run Only Once Guard" />
       <item value="DIRECT" />
@@ -31,9 +34,6 @@
       <item value="Limit the duplicate send, will return true if limited, false or not." />
       <item value="Drizzt" />
       <item value="BUSINESS CHANGE" />
-      <item value="CHANNEL CHANGE" />
-      <item value="KEY GENERATOR" />
-      <item value="Sends a message to this channel asynchronously. If this channel was created by a connectionless transport (e.g. DatagramChannel) and is not connected yet, you have to call write(Object, SocketAddress) instead. Otherwise, the write request will fail with NotYetConnectedException and an 'exceptionCaught' event will be triggered." />
     </histories>
   </component>
   <component name="Settings">
