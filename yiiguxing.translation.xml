@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This method executes the given closure against the RepositoryHandler for this project. The RepositoryHandler is passed to the closure as the closure's delegate." />
       <item value="Sorting a list of lists according to length of sublists" />
       <item value="length Recursive" />
       <item value="second Last Recursion" />
@@ -33,7 +34,6 @@
       <item value="Default Traffic Limit Handler" />
       <item value="remove the mark of Limit the duplicate send" />
       <item value="Limit the duplicate send, will return true if limited, false or not." />
-      <item value="Drizzt" />
     </histories>
   </component>
   <component name="Settings">
