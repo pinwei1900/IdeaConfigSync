@@ -46,8 +46,12 @@
           <option name="url" value="https://github.com/spring-projects/spring-mvc-showcase.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shekhargulati/99-problems.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\workspace\IdeaProject" />
+    <option name="cloneParentDir" value="F:\songlin\problem99" />
   </component>
 </application>
