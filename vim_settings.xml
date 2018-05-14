@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="F:/project/test_ams/trunk/ams-web/src/main/webapp/views/conf/audit/auditDetail.html" timestamp="1502782554836">
@@ -63,7 +63,6 @@
         <mark key="^" line="21" column="16" />
         <mark key="." line="21" column="16" />
       </file>
-      <file name="F:/project/MOS/gateway_5.2.0/centrumserver/src/main/java/com/xuanwu/msggate/centrum/core/framefetch/FrameDispatchChannelHandler.java" timestamp="1525923322930" />
       <file name="F:/project/ams-3.2.0_1/ams-sdk/src/main/java/com/xuanwu/ams/sdk/conf/file/ConfInfoVo.java" timestamp="1507771815440">
         <mark key="[" line="92" column="9" />
       </file>
@@ -101,7 +100,6 @@
       <file name="F:/project/ams-3.2.0_1/ams-server/src/main/java/com/xuanwu/ams/dao/impl/ReportTaskDaoImpl.java" timestamp="1507703325814">
         <mark key="[" line="36" column="13" />
       </file>
-      <file name="F:/project/MOS/gateway_5.2.0/centrumserver/src/main/java/com/xuanwu/msggate/centrum/core/framefetch/MixOnePoolFrameExecutor.java" timestamp="1525922980234" />
       <file name="F:/gitpro/springInaction/chapter1/src/main/java/com/springinaction/knights/DamselRescuingKnights.java" timestamp="1502758545138">
         <mark key="[" line="5" column="35" />
       </file>
@@ -222,7 +220,6 @@
         <mark key="^" line="295" column="57" />
         <mark key="." line="295" column="57" />
       </file>
-      <file name="F:/project/MOS/gateway_5.2.0/centrumserver/src/main/java/com/xuanwu/msggate/centrum/core/framefetch/MakeStateReportExecutor.java" timestamp="1525923144314" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" timestamp="1526019459790">
         <mark key="'" line="730" column="28" />
       </file>
