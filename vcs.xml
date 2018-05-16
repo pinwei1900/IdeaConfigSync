@@ -58,8 +58,16 @@
           <option name="url" value="F:\songlin\centraldogma" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud-samples/configserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-cloud-samples/customers-stores.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\songlin\centraldogma" />
+    <option name="cloneParentDir" value="F:\songlin\customers-stores" />
   </component>
 </application>
