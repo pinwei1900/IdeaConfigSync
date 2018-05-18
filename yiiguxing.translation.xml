@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="label" />
+      <item value="profile" />
       <item value="find Results" />
       <item value="find Result Count" />
       <item value="update Specify" />
@@ -32,8 +34,6 @@
       <item value="Base of synchronization control for this lock. Subclassed into fair and nonfair versions below. Uses AQS state to represent the number of holds on the lock." />
       <item value="ase of synchronization control for this lock. Subclassed into fair and nonfair versions below. Uses AQS state to represent the number of holds on the lock." />
       <item value="Acquires the lock unless the current thread is interrupted. Acquires the lock if it is available and returns immediately." />
-      <item value="Local cache impliment, load the black or white list from local" />
-      <item value="A MsgPack of kryo Serializer for redis" />
     </histories>
   </component>
   <component name="Settings">
