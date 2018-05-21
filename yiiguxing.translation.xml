@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Envoloper" />
+      <item value="Frame Envoloper" />
       <item value="Http 2 Gate Dispatcher" />
       <item value="7070" />
       <item value="Add the specified member having the specifeid score to the sorted set stored at key. If member is already a member of the sorted set the score is updated, and the element reinserted in the right position to ensure sorting. If key does not exist a new sorted set with the specified member as sole member is crated. If the key exists but does not hold a sorted set value an error is returned." />
@@ -32,8 +34,6 @@
       <item value="Big Decimal" />
       <item value="Exclusive" />
       <item value="get Exclusive Owner Thread" />
-      <item value="Performs non-fair tryLock. tryAcquire is implemented in * subclasses, but both need nonfair try for trylock method." />
-      <item value="don't retain ref while waiting" />
     </histories>
   </component>
   <component name="Settings">
