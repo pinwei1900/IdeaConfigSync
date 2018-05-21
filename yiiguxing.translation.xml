@@ -4,6 +4,11 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="put Reserved Frame" />
+      <item value="put Ticket 2 Queue" />
+      <item value="handle Fail Ticket" />
+      <item value="handle Overspeed Ticket" />
+      <item value="get Mass Phone Num" />
       <item value="decrement" />
       <item value="decre Tickets Map" />
       <item value="elapsed" />
@@ -29,11 +34,6 @@
       <item value="last Recursive" />
       <item value="complement" />
       <item value="run Only Once Guard" />
-      <item value="DIRECT" />
-      <item value="Pavani Diwanji" />
-      <item value="Each message is routed from one machine to * another based solely on information contained within that packet. * Multiple packets sent from one machine to another might be routed * differently, and might arrive in any order. Packet delivery is * not guaranteed." />
-      <item value="connectionless" />
-      <item value="represents" />
     </histories>
   </component>
   <component name="Settings">
