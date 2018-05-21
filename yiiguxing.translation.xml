@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="decre Tickets Map" />
+      <item value="decrement" />
       <item value="elapsed" />
       <item value="Http 2 Gate Dispatcher" />
       <item value="Envoloper" />
@@ -32,8 +34,6 @@
       <item value="Each message is routed from one machine to * another based solely on information contained within that packet. * Multiple packets sent from one machine to another might be routed * differently, and might arrive in any order. Packet delivery is * not guaranteed." />
       <item value="connectionless" />
       <item value="represents" />
-      <item value="Big Decimal" />
-      <item value="Exclusive" />
     </histories>
   </component>
   <component name="Settings">
