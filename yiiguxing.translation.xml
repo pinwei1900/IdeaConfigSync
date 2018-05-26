@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="CHINESE" />
+    <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
       <item value="prematurely" />
@@ -37,6 +37,7 @@
     </histories>
   </component>
   <component name="Settings">
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />

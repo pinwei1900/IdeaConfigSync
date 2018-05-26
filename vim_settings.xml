@@ -220,6 +220,12 @@
         <mark key="^" line="295" column="57" />
         <mark key="." line="295" column="57" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" timestamp="1526019459790">
+        <mark key="'" line="730" column="28" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayDeque.java" timestamp="1526021378109">
+        <mark key="'" line="745" column="19" />
+      </file>
       <file name="F:/project/ams/trunk/ams-web/src/main/webapp/views/conf/switchover/index.html" timestamp="1502959462873">
         <mark key="[" line="9" column="66" />
       </file>
@@ -279,6 +285,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="F:/project/jxxxfspt/branches/project/IotDemo/web-server/server-sqlmapper/src/main/resources/com/xuanwu/mos/mapper/LotAuditMapper.xml" timestamp="1524390763236">
+        <mark key="." line="46" column="83" />
       </file>
       <file name="F:/project/ams-3.2.0_1/ams-server/src/main/resources/jdbc.properties" timestamp="1509075448186">
         <mark key="[" line="3" column="46" />
@@ -470,6 +479,13 @@
       <file name="F:/Java-master/Java-master/structurizr/pom.xml" timestamp="1507624070389">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="G:/work/java/src/java/net/Proxy.java" timestamp="1525921061484">
+        <mark key="'" line="94" column="25" />
+        <mark key="[" line="95" column="19" />
+        <mark key="]" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="^" line="91" column="48" />
+      </file>
       <file name="F:/project/xuanwu_project/trunk/ams-server/src/main/java/com/xuanwu/ams/monitor/rest/ChartTemplateRestService.java" timestamp="1501728584653">
         <mark key="[" line="26" column="15" />
       </file>
@@ -502,6 +518,9 @@
       </file>
       <file name="F:/gitpro/springInaction/chapter1/src/main/java/com/springinaction/knights/Quest.java" timestamp="1502759056234">
         <mark key="[" line="5" column="24" />
+      </file>
+      <file name="F:/workspace/DbGenerater/src/main/java/utils/Utils.java" timestamp="1526537827421">
+        <mark key="." line="52" column="214" />
       </file>
       <file name="F:/project/ams-3.2.0_1/ams-server/target/classes/ams-node/ams-node.json" timestamp="1509074556299">
         <mark key="[" line="4" column="17" />
@@ -603,6 +622,13 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="G:/work/java/src/java/net/Authenticator.java" timestamp="1525921220100">
+        <mark key="'" line="62" column="19" />
+        <mark key="[" line="62" column="7" />
+        <mark key="]" line="62" column="6" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="62" column="6" />
+      </file>
       <file name="F:/songlin/netty-4.1/common/src/main/java/io/netty/util/concurrent/MultithreadEventExecutorGroup.java" timestamp="1509443426511">
         <mark key="'" line="84" column="34" />
         <mark key="[" line="117" column="55" />
@@ -621,6 +647,9 @@
       </file>
       <file name="F:/project/xuanwu_project/trunk/ams-server/src/main/java/com/xuanwu/ams/monitor/rest/MTOSwitchRestService.java" timestamp="1501730611163">
         <mark key="[" line="32" column="16" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/IllegalArgumentException.java" timestamp="1525921073771">
+        <mark key="'" line="51" column="11" />
       </file>
       <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/DefaultChannelPipeline.java" timestamp="1509416754920">
         <mark key="'" line="942" column="52" />
@@ -693,13 +722,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/DefaultMaxBytesRecvByteBufAllocator.java" />
-      <jump line="74" column="49" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/nio/AbstractNioMessageChannel.java" />
-      <jump line="942" column="52" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/DefaultChannelPipeline.java" />
-      <jump line="31" column="13" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/ChannelInboundHandlerAdapter.java" />
-      <jump line="184" column="27" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/nio/AbstractNioMessageChannel.java" />
-      <jump line="293" column="28" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/nio/AbstractNioByteChannel.java" />
-      <jump line="219" column="50" filename="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/nio/AbstractNioByteChannel.java" />
       <jump line="334" column="6" filename="F:/songlin/netty-4.1/common/src/main/java/io/netty/util/concurrent/SingleThreadEventExecutor.java" />
       <jump line="345" column="75" filename="F:/songlin/netty-4.1/common/src/main/java/io/netty/util/concurrent/SingleThreadEventExecutor.java" />
       <jump line="347" column="65" filename="F:/songlin/netty-4.1/common/src/main/java/io/netty/util/concurrent/SingleThreadEventExecutor.java" />
@@ -793,13 +815,20 @@
       <jump line="54" column="31" filename="F:/workspace/lot_server/src/main/java/example/proxy/TargetServer.java" />
       <jump line="42" column="28" filename="F:/workspace/lot_server/src/main/java/example/proxy/TargetServer.java" />
       <jump line="52" column="54" filename="F:/workspace/lot_server/src/main/java/example/proxy/TargetServer.java" />
+      <jump line="73" column="48" filename="G:/work/java/src/java/net/Proxy.java" />
+      <jump line="94" column="25" filename="G:/work/java/src/java/net/Proxy.java" />
+      <jump line="50" column="11" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/IllegalArgumentException.java" />
+      <jump line="51" column="11" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/IllegalArgumentException.java" />
+      <jump line="62" column="19" filename="G:/work/java/src/java/net/Authenticator.java" />
+      <jump line="730" column="28" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
+      <jump line="745" column="19" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayDeque.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>ng-if=&quot;hasPermission('statistics.operate.index.enterprise')&quot;</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>ChannelPipeine</text>
