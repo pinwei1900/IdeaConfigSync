@@ -42,6 +42,11 @@
       <file name="F:/project/ams/trunk/ams-web/src/main/webapp/assets/style/theme_styles.css" timestamp="1506307375143">
         <mark key="[" line="1257" column="18" />
       </file>
+      <file name="F:/project/spring_demo/src/main/java/com/xuanwu/controller/HelloController.java" timestamp="1527475346563">
+        <mark key="[" line="23" column="13" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="12" />
+      </file>
       <file name="F:/project/ams-3.2.0_1/ams-server/src/main/java/com/xuanwu/ams/repository/impl/EtcdRepository.java" timestamp="1507799573901">
         <mark key="[" line="151" column="25" />
       </file>
@@ -788,7 +793,7 @@
       <jump line="40" column="22" filename="F:/my_project/netty_pro/src/main/java/factorial/FactorialClientHandler.java" />
       <jump line="1560" column="8" filename="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/util/report_util_3.2.js" />
       <jump line="0" column="0" filename="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/util/report_util_3.2.js" />
-      <jump line="807" column="31" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.13.Final/netty-all-4.1.13.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java" />
+      <jump line="807" column="31" filename="$USER_HOME$/.m2/repository/io/netty/netty-all/4.1.13.Final/netty-all-4.1.13.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java" />
       <jump line="204" column="46" filename="F:/project/ams-3.2.0_1/ams-web/src/main/java/com/xuanwu/ams/web/controller/statistics/ReportPreviewController.java" />
       <jump line="237" column="52" filename="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/controllers/home.js" />
       <jump line="166" column="15" filename="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/controllers/home.js" />
@@ -825,10 +830,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>ChannelPipeine</text>
