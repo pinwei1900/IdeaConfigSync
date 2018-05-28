@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="inspect" />
       <item value="Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely." />
       <item value="Returns the maximum allowed number of threads." />
       <item value="Returns the current number of threads in the pool." />
@@ -33,7 +34,6 @@
       <item value="means nesting-related" />
       <item value="Metric Support" />
       <item value="Asserts that an object isn't null. If it is an AssertionError is thrown with the given message." />
-      <item value="Management endpoint context-path." />
     </histories>
   </component>
   <component name="Settings">
