@@ -4,36 +4,36 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="inspect" />
-      <item value="Maximum amount of time (in milliseconds) a connection allocation should block before throwing an exception when the pool is exhausted. Use a negative value to block indefinitely." />
-      <item value="Returns the maximum allowed number of threads." />
-      <item value="Returns the current number of threads in the pool." />
-      <item value="Returns the approximate number of threads that are actively executing tasks." />
-      <item value="Returns the approximate number of threads that are actively * executing tasks." />
-      <item value="the number of threads" />
-      <item value="Default dependency information for projects that inherit from this one. The dependencies in this section are not immediately resolved. Instead, when a POM derived from this one declares a dependency described by a matching groupId and artifactId, the version and other values from this section are used for that dependency if they were not already specified." />
-      <item value="put Reserved Frame" />
-      <item value="put Ticket 2 Queue" />
-      <item value="handle Fail Ticket" />
-      <item value="handle Overspeed Ticket" />
-      <item value="get Mass Phone Num" />
-      <item value="decrement" />
-      <item value="decre Tickets Map" />
-      <item value="elapsed" />
-      <item value="Http 2 Gate Dispatcher" />
-      <item value="Envoloper" />
-      <item value="Frame Envoloper" />
-      <item value="7070" />
-      <item value="Add the specified member having the specifeid score to the sorted set stored at key. If member is already a member of the sorted set the score is updated, and the element reinserted in the right position to ensure sorting. If key does not exist a new sorted set with the specified member as sole member is crated. If the key exists but does not hold a sorted set value an error is returned." />
-      <item value="If the key does not exist null is returned. If the value stored at key is not a string an error is returned because GET can only handle string values." />
-      <item value="label" />
-      <item value="profile" />
-      <item value="find Results" />
-      <item value="find Result Count" />
-      <item value="update Specify" />
-      <item value="means nesting-related" />
-      <item value="Metric Support" />
-      <item value="Asserts that an object isn't null. If it is an AssertionError is thrown with the given message." />
+      <item value="prematurely" />
+      <item value="Retrieves a named file from the server and writes it to the given * OutputStream. This method does NOT close the given OutputStream. * If the current file type is ASCII, line separators in the file are * converted to the local representation." />
+      <item value="config.properties (系统找不到指定的文件。)" />
+      <item value="indication" />
+      <item value="enter Local Passive Mode" />
+      <item value="obtained" />
+      <item value="download" />
+      <item value="tear Down" />
+      <item value="后缀" />
+      <item value="前缀" />
+      <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
+      <item value="// Close the connection if the connection attempt has failed." />
+      <item value="// connection complete start to read first data" />
+      <item value="therefore" />
+      <item value="volatile" />
+      <item value="// As we use inboundChannel.eventLoop() when building the Bootstrap this does not need to be volatile as // the outboundChannel will use the same EventLoop (and therefore Thread) as the inboundChannel." />
+      <item value="// was able to flush out data, start to read the next chunk" />
+      <item value="complete" />
+      <item value="connection complete start to read first data" />
+      <item value="Hex Dump Proxy Frontend Handler" />
+      <item value="Event Loop Group" />
+      <item value="Hex Dump Proxy" />
+      <item value="Connection refused" />
+      <item value="Custom Mo Service Impl" />
+      <item value="custom Mo Service" />
+      <item value="Binary Memcache Object Aggregator" />
+      <item value="tail" />
+      <item value="enabled" />
+      <item value="Returns a channel where the I/O operation associated with this future takes place." />
+      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
     </histories>
   </component>
   <component name="Settings">
