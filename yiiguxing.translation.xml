@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Comma-separated list of active profiles. Can be overridden by a command line switch." />
       <item value="prematurely" />
       <item value="Retrieves a named file from the server and writes it to the given * OutputStream. This method does NOT close the given OutputStream. * If the current file type is ASCII, line separators in the file are * converted to the local representation." />
       <item value="config.properties (系统找不到指定的文件。)" />
@@ -33,7 +34,6 @@
       <item value="tail" />
       <item value="enabled" />
       <item value="Returns a channel where the I/O operation associated with this future takes place." />
-      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
     </histories>
   </component>
   <component name="Settings">
