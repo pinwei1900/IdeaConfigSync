@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="REPORT DENY" />
       <item value="ALL FRAME BIZFORM LENGTH" />
       <item value="AUDIT DOES NOT PASS" />
       <item value="INSUFFICIENT BALANCE" />
@@ -33,7 +34,6 @@
       <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
       <item value="Connection refused" />
-      <item value="Custom Mo Service Impl" />
     </histories>
   </component>
   <component name="Settings">
