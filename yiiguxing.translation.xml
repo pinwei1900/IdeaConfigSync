@@ -4,6 +4,13 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="REPORT DENY" />
+      <item value="ALL FRAME BIZFORM LENGTH" />
+      <item value="AUDIT DOES NOT PASS" />
+      <item value="INSUFFICIENT BALANCE" />
+      <item value="INNER END FLAG" />
+      <item value="assemble Number Detail Vos" />
+      <item value="Comma-separated list of active profiles. Can be overridden by a command line switch." />
       <item value="prematurely" />
       <item value="Retrieves a named file from the server and writes it to the given * OutputStream. This method does NOT close the given OutputStream. * If the current file type is ASCII, line separators in the file are * converted to the local representation." />
       <item value="config.properties (系统找不到指定的文件。)" />
@@ -27,13 +34,6 @@
       <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
       <item value="Connection refused" />
-      <item value="Custom Mo Service Impl" />
-      <item value="custom Mo Service" />
-      <item value="Binary Memcache Object Aggregator" />
-      <item value="tail" />
-      <item value="enabled" />
-      <item value="Returns a channel where the I/O operation associated with this future takes place." />
-      <item value="A data stream of indefinite length which is consumed by {@link ChunkedWriteHandler}." />
     </histories>
   </component>
   <component name="Settings">
