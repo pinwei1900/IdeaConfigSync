@@ -5,9 +5,9 @@
     <option name="maxHistorySize" value="30" />
     <histories>
       <item value="REPORT DENY" />
+      <item value="INSUFFICIENT BALANCE" />
       <item value="ALL FRAME BIZFORM LENGTH" />
       <item value="AUDIT DOES NOT PASS" />
-      <item value="INSUFFICIENT BALANCE" />
       <item value="INNER END FLAG" />
       <item value="assemble Number Detail Vos" />
       <item value="Comma-separated list of active profiles. Can be overridden by a command line switch." />
