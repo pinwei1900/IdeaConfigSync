@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="REJECTED" />
       <item value="REPORT DENY" />
       <item value="INSUFFICIENT BALANCE" />
       <item value="ALL FRAME BIZFORM LENGTH" />
@@ -33,7 +34,6 @@
       <item value="Hex Dump Proxy Frontend Handler" />
       <item value="Event Loop Group" />
       <item value="Hex Dump Proxy" />
-      <item value="Connection refused" />
     </histories>
   </component>
   <component name="Settings">
