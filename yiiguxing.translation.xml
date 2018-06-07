@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The presence of this annotation on an API indicates that the method may not be used with the Google Web Toolkit (GWT)." />
       <item value="temporary pessimism" />
       <item value="verify idempotence of hasNext()" />
       <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the // second, then signals that it's reached the end of the data" />
@@ -33,7 +34,6 @@
       <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
       <item value="// Close the connection if the connection attempt has failed." />
       <item value="// connection complete start to read first data" />
-      <item value="therefore" />
     </histories>
   </component>
   <component name="Settings">
