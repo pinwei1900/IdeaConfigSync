@@ -4,6 +4,12 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="temporary pessimism" />
+      <item value="verify idempotence of hasNext()" />
+      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the // second, then signals that it's reached the end of the data" />
+      <item value="reached" />
+      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the" />
+      <item value="Bourrillion" />
       <item value="The presence of this annotation on a type indicates that the type may be used with the &lt;a * href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a method, * the return type of the method is GWT compatible. It's useful to indicate that an instance created * by factory methods has a GWT serializable type. In the following example," />
       <item value="Prints an Object and then terminate the line. This method calls at first String.valueOf(x) to get the printed object's string value, then behaves as though it invokes print(String) and then println(). Parameters:" />
       <item value="REJECTED" />
@@ -28,12 +34,6 @@
       <item value="// Close the connection if the connection attempt has failed." />
       <item value="// connection complete start to read first data" />
       <item value="therefore" />
-      <item value="volatile" />
-      <item value="// As we use inboundChannel.eventLoop() when building the Bootstrap this does not need to be volatile as // the outboundChannel will use the same EventLoop (and therefore Thread) as the inboundChannel." />
-      <item value="// was able to flush out data, start to read the next chunk" />
-      <item value="complete" />
-      <item value="connection complete start to read first data" />
-      <item value="Hex Dump Proxy Frontend Handler" />
     </histories>
   </component>
   <component name="Settings">
