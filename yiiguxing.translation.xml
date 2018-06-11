@@ -4,10 +4,24 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="SYS DENY" />
+      <item value="The annotation type java.lang.annotation.Repeatable is used to indicate that the annotation type whose declaration it (meta-)annotates is repeatable. The value of @Repeatable indicates the containing annotation type for the repeatable annotation type." />
+      <item value="Read annotation of class declaration" />
+      <item value="Checks if id is conflicting with another @Factory annotated class with the same id" />
+      <item value="The presence of this annotation on an API indicates that the method may not be used with the Google Web Toolkit (GWT)." />
+      <item value="temporary pessimism" />
+      <item value="verify idempotence of hasNext()" />
+      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the // second, then signals that it's reached the end of the data" />
+      <item value="reached" />
+      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the" />
+      <item value="Bourrillion" />
+      <item value="The presence of this annotation on a type indicates that the type may be used with the &lt;a * href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a method, * the return type of the method is GWT compatible. It's useful to indicate that an instance created * by factory methods has a GWT serializable type. In the following example," />
+      <item value="Prints an Object and then terminate the line. This method calls at first String.valueOf(x) to get the printed object's string value, then behaves as though it invokes print(String) and then println(). Parameters:" />
+      <item value="REJECTED" />
       <item value="REPORT DENY" />
+      <item value="INSUFFICIENT BALANCE" />
       <item value="ALL FRAME BIZFORM LENGTH" />
       <item value="AUDIT DOES NOT PASS" />
-      <item value="INSUFFICIENT BALANCE" />
       <item value="INNER END FLAG" />
       <item value="assemble Number Detail Vos" />
       <item value="Comma-separated list of active profiles. Can be overridden by a command line switch." />
@@ -20,20 +34,6 @@
       <item value="download" />
       <item value="tear Down" />
       <item value="后缀" />
-      <item value="前缀" />
-      <item value="Unable to create Channel from class interface io.netty.channel.socket.SocketChannel" />
-      <item value="// Close the connection if the connection attempt has failed." />
-      <item value="// connection complete start to read first data" />
-      <item value="therefore" />
-      <item value="volatile" />
-      <item value="// As we use inboundChannel.eventLoop() when building the Bootstrap this does not need to be volatile as // the outboundChannel will use the same EventLoop (and therefore Thread) as the inboundChannel." />
-      <item value="// was able to flush out data, start to read the next chunk" />
-      <item value="complete" />
-      <item value="connection complete start to read first data" />
-      <item value="Hex Dump Proxy Frontend Handler" />
-      <item value="Event Loop Group" />
-      <item value="Hex Dump Proxy" />
-      <item value="Connection refused" />
     </histories>
   </component>
   <component name="Settings">
