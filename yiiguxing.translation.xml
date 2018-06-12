@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="REPORT DENY" />
       <item value="SYS DENY" />
       <item value="The annotation type java.lang.annotation.Repeatable is used to indicate that the annotation type whose declaration it (meta-)annotates is repeatable. The value of @Repeatable indicates the containing annotation type for the repeatable annotation type." />
       <item value="Read annotation of class declaration" />
@@ -18,7 +19,6 @@
       <item value="The presence of this annotation on a type indicates that the type may be used with the &lt;a * href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a method, * the return type of the method is GWT compatible. It's useful to indicate that an instance created * by factory methods has a GWT serializable type. In the following example," />
       <item value="Prints an Object and then terminate the line. This method calls at first String.valueOf(x) to get the printed object's string value, then behaves as though it invokes print(String) and then println(). Parameters:" />
       <item value="REJECTED" />
-      <item value="REPORT DENY" />
       <item value="INSUFFICIENT BALANCE" />
       <item value="ALL FRAME BIZFORM LENGTH" />
       <item value="AUDIT DOES NOT PASS" />
