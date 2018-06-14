@@ -4,6 +4,9 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="* judge is exist key?" />
+      <item value="bind key with value, and expire in timeOut seconds" />
+      <item value="seconds" />
       <item value="logger.debug(&quot;===================: {}&quot;, futureTask.get());" />
       <item value="Waits if necessary for the computation to complete, and then retrieves its result." />
       <item value="evit" />
@@ -31,9 +34,6 @@
       <item value="Prints an Object and then terminate the line. This method calls at first String.valueOf(x) to get the printed object's string value, then behaves as though it invokes print(String) and then println(). Parameters:" />
       <item value="REJECTED" />
       <item value="INSUFFICIENT BALANCE" />
-      <item value="ALL FRAME BIZFORM LENGTH" />
-      <item value="AUDIT DOES NOT PASS" />
-      <item value="INNER END FLAG" />
     </histories>
   </component>
   <component name="Settings">
