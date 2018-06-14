@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Commands will be queued and can then be executed by calling RedisOperations.exec() or rolled back using RedisOperations.discard()" />
       <item value="Increment an integer value stored as string value under key by delta." />
       <item value="commodity Id" />
       <item value="audit Mms Filter Biz Forms" />
@@ -33,7 +34,6 @@
       <item value="prematurely" />
       <item value="Retrieves a named file from the server and writes it to the given * OutputStream. This method does NOT close the given OutputStream. * If the current file type is ASCII, line separators in the file are * converted to the local representation." />
       <item value="config.properties (系统找不到指定的文件。)" />
-      <item value="indication" />
     </histories>
   </component>
   <component name="Settings">
