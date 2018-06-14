@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Increment a floating point number value stored as string value under {@code key} by {@code delta}." />
+      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
       <item value="Commands will be queued and can then be executed by calling RedisOperations.exec() or rolled back using RedisOperations.discard()" />
       <item value="Increment an integer value stored as string value under key by delta." />
       <item value="commodity Id" />
@@ -32,8 +34,6 @@
       <item value="assemble Number Detail Vos" />
       <item value="Comma-separated list of active profiles. Can be overridden by a command line switch." />
       <item value="prematurely" />
-      <item value="Retrieves a named file from the server and writes it to the given * OutputStream. This method does NOT close the given OutputStream. * If the current file type is ASCII, line separators in the file are * converted to the local representation." />
-      <item value="config.properties (系统找不到指定的文件。)" />
     </histories>
   </component>
   <component name="Settings">
