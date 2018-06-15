@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Interface that specified a basic set of Redis operations, implemented by RedisTemplate. Not often used but a useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
       <item value="Get multiple keys. Values are returned in the order of the requested keys." />
       <item value="Set multiple keys to multiple values using key-value pairs provided in tuple." />
       <item value="multi Set" />
@@ -33,7 +34,6 @@
       <item value="reached" />
       <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the" />
       <item value="Bourrillion" />
-      <item value="The presence of this annotation on a type indicates that the type may be used with the &lt;a * href=&quot;http://code.google.com/webtoolkit/&quot;&gt;Google Web Toolkit&lt;/a&gt; (GWT). When applied to a method, * the return type of the method is GWT compatible. It's useful to indicate that an instance created * by factory methods has a GWT serializable type. In the following example," />
     </histories>
   </component>
   <component name="Settings">
