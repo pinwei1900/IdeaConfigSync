@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Enables" />
+      <item value="A hint object that provides human-readable message for easier resource leak tracking." />
+      <item value="not relay on the returned null value." />
+      <item value="As it is possible that a null value is used to mark the future as successful you also need to check if the future is really done with isDone() and not relay on the returned null value." />
       <item value="Registration" />
       <item value="Registration on the EventLoop failed so fail the ChannelPromise directly to not cause an // IllegalStateException once we try to access the EventLoop of the Channel." />
       <item value="Registration future is almost always fulfilled already, but just in case it's not." />
@@ -30,10 +34,6 @@
       <item value="Checks if id is conflicting with another @Factory annotated class with the same id" />
       <item value="The presence of this annotation on an API indicates that the method may not be used with the Google Web Toolkit (GWT)." />
       <item value="temporary pessimism" />
-      <item value="verify idempotence of hasNext()" />
-      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the // second, then signals that it's reached the end of the data" />
-      <item value="reached" />
-      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the" />
     </histories>
   </component>
   <component name="Settings">
