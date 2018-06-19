@@ -4,6 +4,21 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="It is important to call {@link #close()} or {@link #close(ChannelPromise)} to release all * resources once you are done with the {@link Channel}. This ensures all resources are * released in a proper way, i.e. filehandles." />
+      <item value="Down-cast the {@link Channel} to sub-type to invoke such * operations. For example, with the old I/O datagram transport, multicast * join / leave operations are provided by {@link DatagramChannel}" />
+      <item value="Some transports exposes additional operations that is specific to the * transport." />
+      <item value="Downcast to access transport-specific operations" />
+      <item value="For example, you could * write a new {@link Channel} implementation that creates the sub-channels that * share one socket connection, as &lt;a href=&quot;http://beepcore.org/&quot;&gt;BEEP&lt;/a&gt; and * &lt;a href=&quot;http://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; do." />
+      <item value="The semantics of the hierarchical structure depends on the transport * implementation where the {@link Channel} belongs to." />
+      <item value="For instance, a {@link SocketChannel}, that was accepted * by {@link ServerSocketChannel}, will return the {@link ServerSocketChannel} * as its parent on {@link #parent()}." />
+      <item value="hierarchical" />
+      <item value="A nexus to a network socket or a component which is capable of I/O * operations such as read, write, connect, and bind." />
+      <item value="nexus" />
+      <item value="Returns an internal-use-only object that provides unsafe operations." />
+      <item value="Unsafe operations that should never be called from user-code. These methods are only provided to implement the actual transport, and must be invoked from an I/O thread except for the following methods:" />
+      <item value="Channel Promise" />
+      <item value="Channel Future" />
+      <item value="deregister" />
       <item value="This will result in having the ChannelOutboundHandler.bind(ChannelHandlerContext, SocketAddress, ChannelPromise) method called of the next ChannelOutboundHandler contained in the ChannelPipeline of the Channel." />
       <item value="contained" />
       <item value="This interface imposes a total ordering on the objects of each class that * implements it." />
@@ -19,21 +34,6 @@
       <item value="Waits if necessary for the computation to complete, and then retrieves its result." />
       <item value="evit" />
       <item value="Increment a floating point number value stored as string value under {@code key} by {@code delta}." />
-      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
-      <item value="Commands will be queued and can then be executed by calling RedisOperations.exec() or rolled back using RedisOperations.discard()" />
-      <item value="Increment an integer value stored as string value under key by delta." />
-      <item value="commodity Id" />
-      <item value="audit Mms Filter Biz Forms" />
-      <item value="audit Sms Filter Biz Forms" />
-      <item value="DENY" />
-      <item value="REPORT DENY" />
-      <item value="SYS DENY" />
-      <item value="The annotation type java.lang.annotation.Repeatable is used to indicate that the annotation type whose declaration it (meta-)annotates is repeatable. The value of @Repeatable indicates the containing annotation type for the repeatable annotation type." />
-      <item value="Read annotation of class declaration" />
-      <item value="Checks if id is conflicting with another @Factory annotated class with the same id" />
-      <item value="The presence of this annotation on an API indicates that the method may not be used with the Google Web Toolkit (GWT)." />
-      <item value="temporary pessimism" />
-      <item value="verify idempotence of hasNext()" />
     </histories>
   </component>
   <component name="Settings">
