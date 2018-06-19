@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This interface imposes a total ordering on the objects of each class that * implements it." />
+      <item value="imposes" />
       <item value="Interface that specified a basic set of Redis operations, implemented by RedisTemplate. Not often used but a useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
       <item value="Get multiple keys. Values are returned in the order of the requested keys." />
       <item value="Set multiple keys to multiple values using key-value pairs provided in tuple." />
@@ -32,8 +34,6 @@
       <item value="verify idempotence of hasNext()" />
       <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the // second, then signals that it's reached the end of the data" />
       <item value="reached" />
-      <item value="// This sample AbstractIterator returns 0 on the first call, 1 on the" />
-      <item value="Bourrillion" />
     </histories>
   </component>
   <component name="Settings">
