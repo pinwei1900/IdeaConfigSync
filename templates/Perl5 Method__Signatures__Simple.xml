@@ -2,11 +2,9 @@
   <template name="method" value="method $NAME$ ($SIGNATURE$)&#10;{&#10;    $END$&#10;}" description="method definition" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SIGNATURE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="func" value="func $NAME$ ($SIGNATURE$)&#10;{&#10;    $END$&#10;}" description="function definition" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="SIGNATURE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
