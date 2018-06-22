@@ -4,6 +4,9 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Prepend values to key before value." />
+      <item value="Removes and returns first element in list stored at key." />
+      <item value="Get elements between begin and end from list at key." />
       <item value="Get multiple keys. Values are returned in the order of the requested keys." />
       <item value="It is important to call {@link #close()} or {@link #close(ChannelPromise)} to release all * resources once you are done with the {@link Channel}. This ensures all resources are * released in a proper way, i.e. filehandles." />
       <item value="Down-cast the {@link Channel} to sub-type to invoke such * operations. For example, with the old I/O datagram transport, multicast * join / leave operations are provided by {@link DatagramChannel}" />
@@ -31,9 +34,6 @@
       <item value="bind key with value, and expire in timeOut seconds" />
       <item value="seconds" />
       <item value="logger.debug(&quot;===================: {}&quot;, futureTask.get());" />
-      <item value="Waits if necessary for the computation to complete, and then retrieves its result." />
-      <item value="evit" />
-      <item value="Increment a floating point number value stored as string value under {@code key} by {@code delta}." />
     </histories>
   </component>
   <component name="Settings">
