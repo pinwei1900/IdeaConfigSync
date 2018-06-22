@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Get entry set (values) of hash at key." />
       <item value="ERR increment or decrement would overflow; nested exception is redis.clients.jedis.exceptions.JedisDataException: ERR increment or decrement would overflow" />
       <item value="Removes the first count occurrences of value from the list stored at key." />
       <item value="Prepend values to key before value." />
@@ -33,7 +34,6 @@
       <item value="Set multiple keys to multiple values using key-value pairs provided in tuple." />
       <item value="multi Set" />
       <item value="* judge is exist key?" />
-      <item value="bind key with value, and expire in timeOut seconds" />
     </histories>
   </component>
   <component name="Settings">
