@@ -25,6 +25,29 @@
       <item value="Registration future is almost always fulfilled already, but just in case it's not." />
       <item value="fashion" />
       <item value="Suppress Warnings" />
+      <item value="Get multiple keys. Values are returned in the order of the requested keys." />
+      <item value="It is important to call {@link #close()} or {@link #close(ChannelPromise)} to release all * resources once you are done with the {@link Channel}. This ensures all resources are * released in a proper way, i.e. filehandles." />
+      <item value="Down-cast the {@link Channel} to sub-type to invoke such * operations. For example, with the old I/O datagram transport, multicast * join / leave operations are provided by {@link DatagramChannel}" />
+      <item value="Some transports exposes additional operations that is specific to the * transport." />
+      <item value="Downcast to access transport-specific operations" />
+      <item value="For example, you could * write a new {@link Channel} implementation that creates the sub-channels that * share one socket connection, as &lt;a href=&quot;http://beepcore.org/&quot;&gt;BEEP&lt;/a&gt; and * &lt;a href=&quot;http://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; do." />
+      <item value="The semantics of the hierarchical structure depends on the transport * implementation where the {@link Channel} belongs to." />
+      <item value="For instance, a {@link SocketChannel}, that was accepted * by {@link ServerSocketChannel}, will return the {@link ServerSocketChannel} * as its parent on {@link #parent()}." />
+      <item value="hierarchical" />
+      <item value="A nexus to a network socket or a component which is capable of I/O * operations such as read, write, connect, and bind." />
+      <item value="nexus" />
+      <item value="Returns an internal-use-only object that provides unsafe operations." />
+      <item value="Unsafe operations that should never be called from user-code. These methods are only provided to implement the actual transport, and must be invoked from an I/O thread except for the following methods:" />
+      <item value="Channel Promise" />
+      <item value="Channel Future" />
+      <item value="deregister" />
+      <item value="This will result in having the ChannelOutboundHandler.bind(ChannelHandlerContext, SocketAddress, ChannelPromise) method called of the next ChannelOutboundHandler contained in the ChannelPipeline of the Channel." />
+      <item value="contained" />
+      <item value="This interface imposes a total ordering on the objects of each class that * implements it." />
+      <item value="imposes" />
+      <item value="Interface that specified a basic set of Redis operations, implemented by RedisTemplate. Not often used but a useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
+      <item value="Set multiple keys to multiple values using key-value pairs provided in tuple." />
+      <item value="multi Set" />
       <item value="* judge is exist key?" />
       <item value="bind key with value, and expire in timeOut seconds" />
       <item value="seconds" />
@@ -37,9 +60,11 @@
     </histories>
   </component>
   <component name="Settings">
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
+        <option name="appKeyConfigured" value="true" />
       </youdao-translate>
     </option>
   </component>
