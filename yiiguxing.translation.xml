@@ -1,18 +1,30 @@
 <application>
   <component name="AppStorage">
     <option name="lastSourceLanguage" value="AUTO" />
-    <option name="lastTargetLanguage" value="AUTO" />
+    <option name="lastTargetLanguage" value="CHINESE" />
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Returns geospatial specific operations interface bound to the given key." />
-      <item value="Returns the cluster specific operations interface." />
-      <item value="Returns geospatial specific operations interface." />
-      <item value="Get entry set (values) of hash at key." />
-      <item value="ERR increment or decrement would overflow; nested exception is redis.clients.jedis.exceptions.JedisDataException: ERR increment or decrement would overflow" />
-      <item value="Removes the first count occurrences of value from the list stored at key." />
-      <item value="Prepend values to key before value." />
-      <item value="Removes and returns first element in list stored at key." />
-      <item value="Get elements between begin and end from list at key." />
+      <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
+      <item value="We must set the read flag here as it is possible the user didn't read in the last read loop," />
+      <item value="/ Only fire a channelActive if the channel has never been registered. This prevents firing // multiple channel actives if the channel is deregistered and re-registered." />
+      <item value="/ This must happen outside of the synchronized(...) block as otherwise handlerAdded(...) may be called while // holding the lock and so produce a deadlock if handlerAdded(...) will try to add another handler from outside // the EventLoop." />
+      <item value="// Ensure we call handlerAdded(...) before we actually notify the promise. This is needed as the // user may already fire events through the pipeline in the ChannelFutureListener." />
+      <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
+      <item value="Its ordered if its driven by the EventLoop or the given Executor is an instanceof OrderedEventExecutor." />
+      <item value="Lazily instantiated tasks used to trigger events to a handler with different executor. // There is no need to make this volatile as at worse it will just create a few more instances then needed." />
+      <item value="REMOVE COMPLETE" />
+      <item value="ADD COMPLETE" />
+      <item value="PENDING" />
+      <item value="ADD PENDING" />
+      <item value="Enables" />
+      <item value="A hint object that provides human-readable message for easier resource leak tracking." />
+      <item value="not relay on the returned null value." />
+      <item value="As it is possible that a null value is used to mark the future as successful you also need to check if the future is really done with isDone() and not relay on the returned null value." />
+      <item value="Registration" />
+      <item value="Registration on the EventLoop failed so fail the ChannelPromise directly to not cause an // IllegalStateException once we try to access the EventLoop of the Channel." />
+      <item value="Registration future is almost always fulfilled already, but just in case it's not." />
+      <item value="fashion" />
+      <item value="Suppress Warnings" />
       <item value="Get multiple keys. Values are returned in the order of the requested keys." />
       <item value="It is important to call {@link #close()} or {@link #close(ChannelPromise)} to release all * resources once you are done with the {@link Channel}. This ensures all resources are * released in a proper way, i.e. filehandles." />
       <item value="Down-cast the {@link Channel} to sub-type to invoke such * operations. For example, with the old I/O datagram transport, multicast * join / leave operations are provided by {@link DatagramChannel}" />
@@ -34,6 +46,17 @@
       <item value="This interface imposes a total ordering on the objects of each class that * implements it." />
       <item value="imposes" />
       <item value="Interface that specified a basic set of Redis operations, implemented by RedisTemplate. Not often used but a useful option for extensibility and testability (as it can be easily mocked or stubbed)." />
+      <item value="Set multiple keys to multiple values using key-value pairs provided in tuple." />
+      <item value="multi Set" />
+      <item value="* judge is exist key?" />
+      <item value="bind key with value, and expire in timeOut seconds" />
+      <item value="seconds" />
+      <item value="logger.debug(&quot;===================: {}&quot;, futureTask.get());" />
+      <item value="Waits if necessary for the computation to complete, and then retrieves its result." />
+      <item value="evit" />
+      <item value="Increment a floating point number value stored as string value under {@code key} by {@code delta}." />
+      <item value="Increment an integer value stored as string value under {@code key} by {@code delta}." />
+      <item value="Commands will be queued and can then be executed by calling RedisOperations.exec() or rolled back using RedisOperations.discard()" />
     </histories>
   </component>
   <component name="Settings">
