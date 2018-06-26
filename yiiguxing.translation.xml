@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Check for null as it may be set to null if the channel is closed already" />
       <item value="Mark all pending write requests as failure if the channel is inactive." />
       <item value="Call forceFlush which will also take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory." />
@@ -33,7 +34,6 @@
       <item value="PENDING" />
       <item value="ADD PENDING" />
       <item value="Enables" />
-      <item value="A hint object that provides human-readable message for easier resource leak tracking." />
     </histories>
   </component>
   <component name="Settings">
