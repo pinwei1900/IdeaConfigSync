@@ -4,11 +4,11 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="write Spin Count" />
       <item value="nothing was read. release the buffer." />
       <item value="DEFAULT MAX COMPONENTS" />
       <item value="expand Nio Buffer Array" />
       <item value="The maximum amount of buffers that will be added to the return value." />
-      <item value="write Spin Count" />
       <item value="The number of bytes, possibly zero, that were actually transferred" />
       <item value="Check for null as it may be set to null if the channel is closed already" />
       <item value="Mark all pending write requests as failure if the channel is inactive." />
