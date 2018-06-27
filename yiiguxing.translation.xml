@@ -4,8 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Request to flush all pending messages via this ChannelOutboundInvoker." />
       <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
+      <item value="Request to flush all pending messages via this ChannelOutboundInvoker." />
       <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
       <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
       <item value="This key's ready-operation set" />
