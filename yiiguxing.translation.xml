@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="the fetched chunk. null if there is no data left in the stream. Please note that null does not necessarily mean that the stream has reached at its end. In a slow stream, the next chunk might be unavailable just momentarily." />
+      <item value="Pending Write" />
       <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
       <item value="Request to flush all pending messages via this ChannelOutboundInvoker." />
       <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
@@ -32,8 +34,6 @@
       <item value="Add a flush to this ChannelOutboundBuffer. This means all previous added messages are marked as flushed and so you will be able to handle them." />
       <item value="// Also check for readOps of 0 to workaround possible JDK bug which may otherwise lead // to a spin loop" />
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory" />
-      <item value="// We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
-      <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise" />
     </histories>
   </component>
   <component name="Settings">
