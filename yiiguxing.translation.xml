@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
+      <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
       <item value="This key's ready-operation set" />
       <item value="max Pending Writes" />
       <item value="Calls ChannelHandlerContext.fireChannelReadComplete() to forward to the next ChannelInboundHandler in the ChannelPipeline. Sub-classes may override this method to change behavior." />
@@ -32,8 +34,6 @@
       <item value="// We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
       <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise" />
       <item value="Set key to hold the string value if key is absent." />
-      <item value="Set time to live for given key.." />
-      <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
     </histories>
   </component>
   <component name="Settings">
