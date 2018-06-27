@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="max Pending Writes" />
       <item value="Calls ChannelHandlerContext.fireChannelReadComplete() to forward to the next ChannelInboundHandler in the ChannelPipeline. Sub-classes may override this method to change behavior." />
       <item value="The user called Channel.read() or ChannelHandlerContext.read() in channelRead(...) method" />
       <item value="Check if there is a readPending which was not processed yet." />
@@ -33,7 +34,6 @@
       <item value="Set time to live for given key.." />
       <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
       <item value="We must set the read flag here as it is possible the user didn't read in the last read loop," />
-      <item value="/ Only fire a channelActive if the channel has never been registered. This prevents firing // multiple channel actives if the channel is deregistered and re-registered." />
     </histories>
   </component>
   <component name="Settings">
