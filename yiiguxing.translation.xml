@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="All written so clear OP_WRITE" />
+      <item value="Directly return here so incompleteWrite(...) is not called." />
+      <item value="Returns true if there are flushed messages in this ChannelOutboundBuffer or false otherwise." />
+      <item value="We have something else beside ByteBuffers to write so fallback to normal writes." />
       <item value="the fetched chunk. null if there is no data left in the stream. Please note that null does not necessarily mean that the stream has reached at its end. In a slow stream, the next chunk might be unavailable just momentarily." />
       <item value="Pending Write" />
       <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
@@ -30,10 +34,6 @@
       <item value="Was cancelled so make sure we free up memory and notify about the freed bytes" />
       <item value="(Transport implementors only) an internal data structure used by AbstractChannel to store its pending outbound write requests. All methods must be called by a transport implementation from an I/O thread, except the following ones:" />
       <item value="true if and only if successfully marked this future as uncancellable or it is already done without being cancelled. false if this future has been cancelled already." />
-      <item value="// There is no need to process all entries if there was already a flush before and no new messages // where added in the meantime." />
-      <item value="Add a flush to this ChannelOutboundBuffer. This means all previous added messages are marked as flushed and so you will be able to handle them." />
-      <item value="// Also check for readOps of 0 to workaround possible JDK bug which may otherwise lead // to a spin loop" />
-      <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory" />
     </histories>
   </component>
   <component name="Settings">
