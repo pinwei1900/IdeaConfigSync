@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Calls ChannelHandlerContext.fireChannelReadComplete() to forward to the next ChannelInboundHandler in the ChannelPipeline. Sub-classes may override this method to change behavior." />
+      <item value="The user called Channel.read() or ChannelHandlerContext.read() in channelRead(...) method" />
+      <item value="Check if there is a readPending which was not processed yet." />
+      <item value="Transfers the content of the specified channel to this buffer starting at the current writerIndex and increases the writerIndex by the number of the transferred bytes." />
       <item value="write Spin Count" />
       <item value="nothing was read. release the buffer." />
       <item value="DEFAULT MAX COMPONENTS" />
@@ -30,10 +34,6 @@
       <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
       <item value="We must set the read flag here as it is possible the user didn't read in the last read loop," />
       <item value="/ Only fire a channelActive if the channel has never been registered. This prevents firing // multiple channel actives if the channel is deregistered and re-registered." />
-      <item value="/ This must happen outside of the synchronized(...) block as otherwise handlerAdded(...) may be called while // holding the lock and so produce a deadlock if handlerAdded(...) will try to add another handler from outside // the EventLoop." />
-      <item value="// Ensure we call handlerAdded(...) before we actually notify the promise. This is needed as the // user may already fire events through the pipeline in the ChannelFutureListener." />
-      <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
-      <item value="Its ordered if its driven by the EventLoop or the given Executor is an instanceof OrderedEventExecutor." />
     </histories>
   </component>
   <component name="Settings">
