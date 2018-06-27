@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Request to flush all pending messages via this ChannelOutboundInvoker." />
       <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
       <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
       <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
@@ -33,7 +34,6 @@
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory" />
       <item value="// We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
       <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise" />
-      <item value="Set key to hold the string value if key is absent." />
     </histories>
   </component>
   <component name="Settings">
