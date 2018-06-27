@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
       <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
       <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
       <item value="This key's ready-operation set" />
@@ -23,7 +24,6 @@
       <item value="Call forceFlush which will also take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory." />
       <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
-      <item value="Request to write a message via this ChannelHandlerContext through the ChannelPipeline. This method will not request to actual flush, so be sure to call flush() once you want to request to flush all pending data to the actual transport." />
       <item value="Was cancelled so make sure we free up memory and notify about the freed bytes" />
       <item value="(Transport implementors only) an internal data structure used by AbstractChannel to store its pending outbound write requests. All methods must be called by a transport implementation from an I/O thread, except the following ones:" />
       <item value="true if and only if successfully marked this future as uncancellable or it is already done without being cancelled. false if this future has been cancelled already." />
