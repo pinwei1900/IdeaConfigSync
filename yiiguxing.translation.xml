@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="nothing was read. release the buffer." />
+      <item value="DEFAULT MAX COMPONENTS" />
       <item value="expand Nio Buffer Array" />
       <item value="The maximum amount of buffers that will be added to the return value." />
       <item value="write Spin Count" />
@@ -32,8 +34,6 @@
       <item value="// Ensure we call handlerAdded(...) before we actually notify the promise. This is needed as the // user may already fire events through the pipeline in the ChannelFutureListener." />
       <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
       <item value="Its ordered if its driven by the EventLoop or the given Executor is an instanceof OrderedEventExecutor." />
-      <item value="Lazily instantiated tasks used to trigger events to a handler with different executor. // There is no need to make this volatile as at worse it will just create a few more instances then needed." />
-      <item value="REMOVE COMPLETE" />
     </histories>
   </component>
   <component name="Settings">
