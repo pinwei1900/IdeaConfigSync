@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Invocation Target Exception" />
       <item value="All written so clear OP_WRITE" />
       <item value="Directly return here so incompleteWrite(...) is not called." />
       <item value="Returns true if there are flushed messages in this ChannelOutboundBuffer or false otherwise." />
@@ -33,7 +34,6 @@
       <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
       <item value="Was cancelled so make sure we free up memory and notify about the freed bytes" />
       <item value="(Transport implementors only) an internal data structure used by AbstractChannel to store its pending outbound write requests. All methods must be called by a transport implementation from an I/O thread, except the following ones:" />
-      <item value="true if and only if successfully marked this future as uncancellable or it is already done without being cancelled. false if this future has been cancelled already." />
     </histories>
   </component>
   <component name="Settings">
