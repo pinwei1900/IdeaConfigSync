@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="capital" />
+      <item value="gsms capital account" />
       <item value="Invocation Target Exception" />
       <item value="All written so clear OP_WRITE" />
       <item value="Directly return here so incompleteWrite(...) is not called." />
@@ -32,8 +34,6 @@
       <item value="Call forceFlush which will also take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory." />
       <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
-      <item value="Was cancelled so make sure we free up memory and notify about the freed bytes" />
-      <item value="(Transport implementors only) an internal data structure used by AbstractChannel to store its pending outbound write requests. All methods must be called by a transport implementation from an I/O thread, except the following ones:" />
     </histories>
   </component>
   <component name="Settings">
