@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Remove the following line if you don't want automatic content decompression." />
       <item value="capital" />
       <item value="gsms capital account" />
       <item value="Invocation Target Exception" />
@@ -33,7 +34,6 @@
       <item value="Mark all pending write requests as failure if the channel is inactive." />
       <item value="Call forceFlush which will also take care of clear the OP_WRITE once there is nothing left to write" />
       <item value="Process OP_WRITE first as we may be able to write some queued buffers and so free memory." />
-      <item value="We first need to call finishConnect() before try to trigger a read(...) or write(...) as otherwise // the NIO JDK channel implementation may throw a NotYetConnectedException." />
     </histories>
   </component>
   <component name="Settings">
