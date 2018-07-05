@@ -4,6 +4,10 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Annotation-specified bean name 'cancelCardResource' for bean class [com.xuanwu.iot.resources.storage.CancelCardResource] conflicts with existing, non-compatible bean definition of same name and class [com.xuanwu.iot.resources.CancelCardResource]" />
+      <item value="Balance" />
+      <item value="set Balance" />
+      <item value="get Exsit Bind Account Of User" />
       <item value="Identify and stop the process that's listening on port 8010 or configure this application to listen on another port." />
       <item value="Returns an estimate of the number of bytes that can be read (or skipped over) from this input stream without blocking by the next invocation of a method for this input stream." />
       <item value="pcontact" />
@@ -30,10 +34,6 @@
       <item value="This key's ready-operation set" />
       <item value="max Pending Writes" />
       <item value="Calls ChannelHandlerContext.fireChannelReadComplete() to forward to the next ChannelInboundHandler in the ChannelPipeline. Sub-classes may override this method to change behavior." />
-      <item value="The user called Channel.read() or ChannelHandlerContext.read() in channelRead(...) method" />
-      <item value="Check if there is a readPending which was not processed yet." />
-      <item value="Transfers the content of the specified channel to this buffer starting at the current writerIndex and increases the writerIndex by the number of the transferred bytes." />
-      <item value="write Spin Count" />
     </histories>
   </component>
   <component name="Settings">
