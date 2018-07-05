@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="town" />
       <item value="Annotation-specified bean name 'cancelCardResource' for bean class [com.xuanwu.iot.resources.storage.CancelCardResource] conflicts with existing, non-compatible bean definition of same name and class [com.xuanwu.iot.resources.CancelCardResource]" />
       <item value="Balance" />
       <item value="set Balance" />
@@ -33,7 +34,6 @@
       <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
       <item value="This key's ready-operation set" />
       <item value="max Pending Writes" />
-      <item value="Calls ChannelHandlerContext.fireChannelReadComplete() to forward to the next ChannelInboundHandler in the ChannelPipeline. Sub-classes may override this method to change behavior." />
     </histories>
   </component>
   <component name="Settings">
