@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The servlet must be specified before calling onStartup(javax.servlet.ServletContext). URL mapping can be configured used setUrlMappings(java.util.Collection&lt;java.lang.String&gt;) or omitted when mapping to '/*' (unless alwaysMapUrl is set to false). The servlet name will be deduced if not specified." />
       <item value="town" />
       <item value="Annotation-specified bean name 'cancelCardResource' for bean class [com.xuanwu.iot.resources.storage.CancelCardResource] conflicts with existing, non-compatible bean definition of same name and class [com.xuanwu.iot.resources.CancelCardResource]" />
       <item value="Balance" />
@@ -33,7 +34,6 @@
       <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
       <item value="Fetches a chunked data from the stream. Once this method returns the last chunk and thus the stream has reached at its end, any subsequent isEndOfInput() call must return true." />
       <item value="This key's ready-operation set" />
-      <item value="max Pending Writes" />
     </histories>
   </component>
   <component name="Settings">
