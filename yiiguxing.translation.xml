@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Export" />
+      <item value="Import" />
       <item value="Notice Service" />
       <item value="Mapped Statements collection does not contain value for com.x" />
       <item value="The servlet must be specified before calling onStartup(javax.servlet.ServletContext). URL mapping can be configured used setUrlMappings(java.util.Collection&lt;java.lang.String&gt;) or omitted when mapping to '/*' (unless alwaysMapUrl is set to false). The servlet name will be deduced if not specified." />
@@ -32,8 +34,6 @@
       <item value="We have something else beside ByteBuffers to write so fallback to normal writes." />
       <item value="the fetched chunk. null if there is no data left in the stream. Please note that null does not necessarily mean that the stream has reached at its end. In a slow stream, the next chunk might be unavailable just momentarily." />
       <item value="Pending Write" />
-      <item value="Request to flush all pending messages via this ChannelOutboundInvoker." />
-      <item value="Returns true if and only if the I/O thread will perform the requested write operation immediately. Any write requests made when this method returns false are queued until the I/O thread is ready to process the queued write requests." />
     </histories>
   </component>
   <component name="Settings">
