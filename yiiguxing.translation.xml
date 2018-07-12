@@ -4,6 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="user Notice Pre Version Map" />
+      <item value="user Notice Cur Version Map" />
       <item value="find Result Count By User Id" />
       <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
       <item value="We must set the read flag here as it is possible the user didn't read in the last read loop," />
@@ -32,8 +34,6 @@
       <item value="Some transports exposes additional operations that is specific to the * transport." />
       <item value="Downcast to access transport-specific operations" />
       <item value="For example, you could * write a new {@link Channel} implementation that creates the sub-channels that * share one socket connection, as &lt;a href=&quot;http://beepcore.org/&quot;&gt;BEEP&lt;/a&gt; and * &lt;a href=&quot;http://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; do." />
-      <item value="The semantics of the hierarchical structure depends on the transport * implementation where the {@link Channel} belongs to." />
-      <item value="For instance, a {@link SocketChannel}, that was accepted * by {@link ServerSocketChannel}, will return the {@link ServerSocketChannel} * as its parent on {@link #parent()}." />
     </histories>
   </component>
   <component name="Settings">
