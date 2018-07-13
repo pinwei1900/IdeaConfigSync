@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="receive User Id" />
       <item value="user Notice Pre Version Map" />
       <item value="user Notice Cur Version Map" />
       <item value="find Result Count By User Id" />
@@ -33,7 +34,6 @@
       <item value="Down-cast the {@link Channel} to sub-type to invoke such * operations. For example, with the old I/O datagram transport, multicast * join / leave operations are provided by {@link DatagramChannel}" />
       <item value="Some transports exposes additional operations that is specific to the * transport." />
       <item value="Downcast to access transport-specific operations" />
-      <item value="For example, you could * write a new {@link Channel} implementation that creates the sub-channels that * share one socket connection, as &lt;a href=&quot;http://beepcore.org/&quot;&gt;BEEP&lt;/a&gt; and * &lt;a href=&quot;http://en.wikipedia.org/wiki/Secure_Shell&quot;&gt;SSH&lt;/a&gt; do." />
     </histories>
   </component>
   <component name="Settings">
