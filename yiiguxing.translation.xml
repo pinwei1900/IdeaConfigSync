@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Task Envelope" />
       <item value="convert Import Task Info" />
       <item value="IMPORT" />
       <item value="EXPORT" />
@@ -33,7 +34,6 @@
       <item value="Registration future is almost always fulfilled already, but just in case it's not." />
       <item value="fashion" />
       <item value="Suppress Warnings" />
-      <item value="Get multiple keys. Values are returned in the order of the requested keys." />
     </histories>
   </component>
   <component name="Settings">
