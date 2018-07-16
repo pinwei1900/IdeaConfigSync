@@ -4,8 +4,8 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="un Load Task I Ds" />
       <item value="Task Envelope" />
+      <item value="un Load Task I Ds" />
       <item value="convert Import Task Info" />
       <item value="IMPORT" />
       <item value="EXPORT" />
