@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="convert Import Task Info" />
       <item value="IMPORT" />
       <item value="EXPORT" />
       <item value="get Announcement List" />
@@ -33,7 +34,6 @@
       <item value="fashion" />
       <item value="Suppress Warnings" />
       <item value="Get multiple keys. Values are returned in the order of the requested keys." />
-      <item value="It is important to call {@link #close()} or {@link #close(ChannelPromise)} to release all * resources once you are done with the {@link Channel}. This ensures all resources are * released in a proper way, i.e. filehandles." />
     </histories>
   </component>
   <component name="Settings">
