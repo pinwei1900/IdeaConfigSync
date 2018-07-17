@@ -4,12 +4,12 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="get Announcement List" />
       <item value="Task Envelope" />
       <item value="un Load Task I Ds" />
       <item value="convert Import Task Info" />
       <item value="IMPORT" />
       <item value="EXPORT" />
-      <item value="get Announcement List" />
       <item value="receive User Id" />
       <item value="user Notice Pre Version Map" />
       <item value="user Notice Cur Version Map" />
