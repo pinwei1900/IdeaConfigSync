@@ -7,20 +7,14 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml,*" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>。</mask>
-      <mask>.</mask>
       <mask>.x</mask>
       <mask>.xm</mask>
       <mask>.xml</mask>
       <mask>ja</mask>
       <mask>j</mask>
       <mask>*.x'm</mask>
-      <mask>*.x'm'l</mask>
       <mask>*.js</mask>
       <mask>*.xmml</mask>
       <mask>*</mask>
@@ -29,15 +23,22 @@
       <mask>*。x'm</mask>
       <mask>*。x'm'l</mask>
       <mask>*。xml</mask>
-      <mask>*xml</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.x'm'l</mask>
+      <mask>*xml</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*java</mask>
+      <mask>*.xml,*jav</mask>
+      <mask>*.xml,*ja</mask>
+      <mask>*.xml,*j</mask>
+      <mask>*.xml,*</mask>
     </recentFileMasks>
   </component>
 </application>
