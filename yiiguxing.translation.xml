@@ -4,6 +4,7 @@
     <option name="lastTargetLanguage" value="AUTO" />
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="I Data Convert For Export" />
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
       <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
       <item value="SYS BIND" />
@@ -33,7 +34,6 @@
       <item value="A hint object that provides human-readable message for easier resource leak tracking." />
       <item value="not relay on the returned null value." />
       <item value="As it is possible that a null value is used to mark the future as successful you also need to check if the future is really done with isDone() and not relay on the returned null value." />
-      <item value="Registration" />
     </histories>
   </component>
   <component name="Settings">
