@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
       <item value="Forward channel total statistics list page failed" />
       <item value="I Data Convert For Export" />
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
@@ -31,7 +32,6 @@
       <item value="ADD PENDING" />
       <item value="Enables" />
       <item value="A hint object that provides human-readable message for easier resource leak tracking." />
-      <item value="not relay on the returned null value." />
     </histories>
   </component>
   <component name="Settings">
