@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Apply Change Info Service" />
       <item value="- Any keys that need to be passed to the script" />
       <item value="Any keys that need to be passed to the script" />
       <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
@@ -31,7 +32,6 @@
       <item value="REMOVE COMPLETE" />
       <item value="ADD COMPLETE" />
       <item value="PENDING" />
-      <item value="ADD PENDING" />
     </histories>
   </component>
   <component name="Settings">
