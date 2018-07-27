@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Save Change Info" />
+      <item value="Deduct Type" />
+      <item value="Capital Account" />
       <item value="Apply Change Info Service" />
       <item value="- Any keys that need to be passed to the script" />
       <item value="Any keys that need to be passed to the script" />
@@ -29,9 +32,6 @@
       <item value="check if the channel is still open as it could be closed in the mean time when the register // call was outside of the eventLoop" />
       <item value="Its ordered if its driven by the EventLoop or the given Executor is an instanceof OrderedEventExecutor." />
       <item value="Lazily instantiated tasks used to trigger events to a handler with different executor. // There is no need to make this volatile as at worse it will just create a few more instances then needed." />
-      <item value="REMOVE COMPLETE" />
-      <item value="ADD COMPLETE" />
-      <item value="PENDING" />
     </histories>
   </component>
   <component name="Settings">
