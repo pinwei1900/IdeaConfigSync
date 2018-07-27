@@ -111,6 +111,7 @@
         <mark key="]" line="69" column="4" />
         <mark key="." line="69" column="4" />
       </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.0/server-module/server-db/src/main/java/com/xuanwu/iot/core/repo/IotCardRepo.java" timestamp="1532681449311" />
       <file name="F:/project/ams-3.2.0_1/ams-server/src/main/java/com/xuanwu/ams/dao/impl/ReportTaskDaoImpl.java" timestamp="1507703325814">
         <mark key="[" line="36" column="13" />
       </file>
@@ -323,7 +324,7 @@
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/quartz/config/testjob.java" timestamp="1503989575895">
         <mark key="[" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527849197865">
+      <file name="/Dummy.txt" timestamp="1532681449936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/project/ams/trunk/ams-netclient-test/src/main/java/com/beans/DatagramFactory.java" timestamp="1503999344005">
@@ -600,6 +601,7 @@
       <file name="F:/songlin/springInaction/chapter4/src/main/java/concert/KingPerform.java" timestamp="1504081578129">
         <mark key="[" line="7" column="3" />
       </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.0/server-module/client-iot-devmgt/src/main/java/com/xuanwu/iot/resources/DeviceMgtResource.java" timestamp="1532681432525" />
       <file name="F:/songlin/songlinblog/src/main/resources/templates/blog/index.html" timestamp="1502678640590">
         <mark key="[" line="29" column="46" />
       </file>
@@ -677,6 +679,9 @@
       </file>
       <file name="F:/project/ams-3.1.2/ams-sdk/src/main/java/com/xuanwu/ams/sdk/conf/repository/impl/EtcdRepository.java" timestamp="1508322944890">
         <mark key="[" line="59" column="46" />
+      </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.0/web-module/src/views/resource/iotcard/index.html" timestamp="1532681363134">
+        <mark key="." line="183" column="192" />
       </file>
       <file name="F:/project/test_ams/trunk/postmsg-ump/src/main/java/com/esms/PostMsg.java" timestamp="1502780881098">
         <mark key="[" line="157" column="35" />
