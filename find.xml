@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>.x</mask>
       <mask>.xm</mask>
@@ -22,12 +23,6 @@
       <mask>*。x'm</mask>
       <mask>*。x'm'l</mask>
       <mask>*。xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.x</mask>
       <mask>*.x'm'l</mask>
       <mask>*xml</mask>
       <mask>*.xml,*java</mask>
@@ -36,8 +31,14 @@
       <mask>*.xml,*j</mask>
       <mask>*.xml,*</mask>
       <mask>*.xml,</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
