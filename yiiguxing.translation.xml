@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Obtains a connection." />
+      <item value="Indicates whether this connection manager is shut down" />
       <item value="decre Tickets Map" />
       <item value="decrement" />
       <item value="Frame Wrapper" />
@@ -30,8 +32,6 @@
       <item value="receive User Id" />
       <item value="user Notice Pre Version Map" />
       <item value="user Notice Cur Version Map" />
-      <item value="find Result Count By User Id" />
-      <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
     </histories>
   </component>
   <component name="Settings">
