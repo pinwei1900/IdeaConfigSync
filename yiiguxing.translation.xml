@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="decre Tickets Map" />
+      <item value="decrement" />
       <item value="Frame Wrapper" />
       <item value="Frame Envoloper" />
       <item value="Element preceipt of type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport is not defined as field in type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport" />
@@ -30,8 +32,6 @@
       <item value="user Notice Cur Version Map" />
       <item value="find Result Count By User Id" />
       <item value="the // executeEpollInReadyRunnable could read nothing, and if the user doesn't explicitly call read they will // never get data after this." />
-      <item value="We must set the read flag here as it is possible the user didn't read in the last read loop," />
-      <item value="/ Only fire a channelActive if the channel has never been registered. This prevents firing // multiple channel actives if the channel is deregistered and re-registered." />
     </histories>
   </component>
   <component name="Settings">
