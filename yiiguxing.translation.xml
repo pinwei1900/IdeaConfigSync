@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="last Execute" />
       <item value="Obtains a connection." />
       <item value="Indicates whether this connection manager is shut down" />
       <item value="decre Tickets Map" />
@@ -31,7 +32,6 @@
       <item value="EXPORT" />
       <item value="receive User Id" />
       <item value="user Notice Pre Version Map" />
-      <item value="user Notice Cur Version Map" />
     </histories>
   </component>
   <component name="Settings">
