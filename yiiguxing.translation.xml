@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="FTP Client Wrapper" />
       <item value="set Enough Candidate Task" />
       <item value="get Candidate Task" />
       <item value="last Execute" />
@@ -31,7 +32,6 @@
       <item value="un Load Task I Ds" />
       <item value="convert Import Task Info" />
       <item value="IMPORT" />
-      <item value="EXPORT" />
     </histories>
   </component>
   <component name="Settings">
