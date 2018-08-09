@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="set Enough Candidate Task" />
+      <item value="get Candidate Task" />
       <item value="last Execute" />
       <item value="Obtains a connection." />
       <item value="Indicates whether this connection manager is shut down" />
@@ -30,8 +32,6 @@
       <item value="convert Import Task Info" />
       <item value="IMPORT" />
       <item value="EXPORT" />
-      <item value="receive User Id" />
-      <item value="user Notice Pre Version Map" />
     </histories>
   </component>
   <component name="Settings">
