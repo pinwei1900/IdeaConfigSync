@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Running the evict task with compensationTime" />
       <item value="fanout msg" />
       <item value="fanout" />
       <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
@@ -31,7 +32,6 @@
       <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
       <item value="SYS BIND" />
       <item value="get Announcement List" />
-      <item value="Task Envelope" />
     </histories>
   </component>
   <component name="Settings">
