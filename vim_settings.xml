@@ -18,12 +18,6 @@
       <file name="/a.dummy" timestamp="1509325386189">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/my_project/netty_pro/src/main/java/file/FileServerHandler.java" timestamp="1509584621955">
-        <mark key="[" line="58" column="32" />
-        <mark key="]" line="53" column="17" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="53" column="17" />
-      </file>
       <file name="F:/svn/jxxxfspt/branches/jweb/JFrontkit_5.1/web-server/server-frontkit/src/main/java/com/xuanwu/mos/rest/resource/common/SendDetailVoUtil.java" timestamp="1527849484389">
         <mark key="[" line="180" column="0" />
         <mark key="." line="214" column="61" />
@@ -60,32 +54,17 @@
       <file name="F:/project/test_ams/trunk/ams-server/src/main/java/com/xuanwu/ams/monitor/rest/DetectHandleRestService.java" timestamp="1502273958567">
         <mark key="[" line="67" column="51" />
       </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.1/web-module/src/views/sysmgr/businessconfig/authorization/index.html" timestamp="1534304623045">
+        <mark key="." line="37" column="78" />
+      </file>
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/Ping.java" timestamp="1503283541181">
         <mark key="[" line="39" column="77" />
       </file>
       <file name="F:/songlin/songlinblog/src/main/resources/templates/blog/aboutMe.html" timestamp="1502679219925">
         <mark key="[" line="6" column="43" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/ChannelMetadata.java" timestamp="1509422194267">
-        <mark key="[" line="20" column="65" />
-        <mark key="]" line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-      </file>
       <file name="F:/project/ams-3.2.0_1/ams-sdk/src/main/java/com/xuanwu/ams/sdk/conf/file/ConfInfoVo.java" timestamp="1507771815440">
         <mark key="[" line="92" column="9" />
-      </file>
-      <file name="F:/my_project/netty_pro/src/main/java/http/file/HttpStaticFileServerHandler.java" timestamp="1509602744722">
-        <mark key="[" line="151" column="37" />
-        <mark key="]" line="152" column="74" />
-        <mark key="^" line="152" column="74" />
-        <mark key="." line="152" column="74" />
-      </file>
-      <file name="F:/my_project/netty_pro/src/main/java/http/snoop/HttpSnoopServerHandler.java" timestamp="1509605493470">
-        <mark key="[" line="181" column="28" />
-        <mark key="]" line="181" column="13" />
-        <mark key="^" line="181" column="13" />
-        <mark key="." line="181" column="13" />
       </file>
       <file name="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/views/worder/smartcheck/index.html" timestamp="1509611816767">
         <mark key="'" line="1" column="57" />
@@ -106,11 +85,19 @@
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/test/SocketClient.java" timestamp="1503976708224">
         <mark key="[" line="40" column="46" />
       </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.0/server-module/server-sqlmapper/src/main/resources/com/xuanwu/iot/mapper/IotCardMapper.xml" timestamp="1532499178186">
+        <mark key="[" line="69" column="4" />
+        <mark key="]" line="69" column="4" />
+        <mark key="." line="69" column="4" />
+      </file>
       <file name="F:/project/ams-3.2.0_1/ams-server/src/main/java/com/xuanwu/ams/dao/impl/ReportTaskDaoImpl.java" timestamp="1507703325814">
         <mark key="[" line="36" column="13" />
       </file>
       <file name="F:/gitpro/springInaction/chapter1/src/main/java/com/springinaction/knights/DamselRescuingKnights.java" timestamp="1502758545138">
         <mark key="[" line="5" column="35" />
+      </file>
+      <file name="F:/svn/mos/trunk/others/mos 第三方通道-通用 http 协议 mto 插件/source/sms_core_http2gate/src/main/java/com/xuanwu/msggate/core/handler/Http2GateDispatcher.java" timestamp="1533630037740">
+        <mark key="." line="295" column="82" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1509091570999">
         <mark key="[" line="0" column="0" />
@@ -139,6 +126,9 @@
       <file name="F:/project/xuanwu_project/trunk/ams-server/src/main/java/com/xuanwu/ams/monitor/rest/EtcdRestService.java" timestamp="1501729171929">
         <mark key="[" line="23" column="16" />
       </file>
+      <file name="F:/svn/mos/trunk/others/快加易http通道开发/kjy_http2gate/src/main/java/com/xuanwu/msggate/sms_kjy_http2gate/core/server/Main.java" timestamp="1533540928555">
+        <mark key="." line="23" column="70" />
+      </file>
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/services/PushSimpleService.java" timestamp="1503296176624">
         <mark key="[" line="4" column="3" />
       </file>
@@ -160,12 +150,6 @@
       </file>
       <file name="F:/project/xuanwu_project/trunk/ams-server/src/main/resources/com/xuanwu/ams/services/ams-services-context.xml" timestamp="1501752833191">
         <mark key="[" line="87" column="0" />
-      </file>
-      <file name="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/controllers/home.js" timestamp="1509608645323">
-        <mark key="'" line="166" column="15" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
       </file>
       <file name="F:/songlin/netty-4.1/transport/pom.xml" timestamp="1509518528818">
         <mark key="[" line="21" column="5" />
@@ -212,7 +196,6 @@
       <file name="F:/my_project/netty_pro/src/main/java/echo/EchoClientHandler.java" timestamp="1509584943652">
         <mark key="[" line="42" column="58" />
       </file>
-      <file name="F:/svn/jxxxfspt/branches/jweb/JFrontkit_5.1/web-server/server-common/src/main/java/com/xuanwu/mos/domain/enums/TicketStateEnum.java" timestamp="1527849219188" />
       <file name="F:/songlin/netty-4.1/transport/src/test/java/io/netty/bootstrap/BootstrapTest.java" timestamp="1509443812451">
         <mark key="'" line="104" column="32" />
         <mark key="[" line="81" column="38" />
@@ -263,11 +246,10 @@
       <file name="F:/gitpro/scalemy/src/Hello.java" timestamp="1502173141028">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/test/java/io/netty/channel/nio/NioEventLoopTest.java" timestamp="1509415680594">
-        <mark key="[" line="43" column="62" />
-        <mark key="]" line="42" column="43" />
-        <mark key="^" line="42" column="43" />
-        <mark key="." line="42" column="43" />
+      <file name="F:/svn/mos/trunk/others/快加易http通道开发/kjy_http2gate/src/main/java/com/xuanwu/msggate/sms_kjy_http2gate/core/handler/Main.java" timestamp="1533538518994">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="F:/gitpro/springInaction/chapter1/src/test/java/com/springinaction/knights/BraveKnightTest.java" timestamp="1502759833514">
         <mark key="[" line="10" column="30" />
@@ -284,20 +266,8 @@
       <file name="/PHP Function Doc Comment.txt.ft" timestamp="1508466119699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/bootstrap/ServerBootstrap.java" timestamp="1509430520277">
-        <mark key="[" line="213" column="48" />
-        <mark key="]" line="242" column="27" />
-        <mark key="^" line="242" column="27" />
-        <mark key="." line="242" column="27" />
-      </file>
       <file name="F:/project/ams-3.2.0_1_copy/ams-server/src/test/java/com/xuanwu/ams/EtcdGet.java" timestamp="1507864410248">
         <mark key="[" line="31" column="68" />
-      </file>
-      <file name="F:/workspace/lot_server/src/main/java/example/proxy/TargetServer.java" timestamp="1523869799658">
-        <mark key="'" line="42" column="28" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="F:/project/jxxxfspt/branches/project/IotDemo/web-server/server-sqlmapper/src/main/resources/com/xuanwu/mos/mapper/LotAuditMapper.xml" timestamp="1524390763236">
         <mark key="." line="46" column="83" />
@@ -319,7 +289,7 @@
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/quartz/config/testjob.java" timestamp="1503989575895">
         <mark key="[" line="12" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527849197865">
+      <file name="/Dummy.txt" timestamp="1532681449936">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="F:/project/ams/trunk/ams-netclient-test/src/main/java/com/beans/DatagramFactory.java" timestamp="1503999344005">
@@ -365,12 +335,6 @@
       <file name="/JUnit4 Test Method.txt.ft" timestamp="1502759611496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="F:/workspace/lot_server/src/main/java/example/qotm/QuoteOfTheMomentServerHandler.java" timestamp="1523869031481">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="33" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="282" />
-      </file>
       <file name="/fragment.java" timestamp="1509352840776">
         <mark key="[" line="0" column="0" />
       </file>
@@ -387,18 +351,6 @@
         <mark key="." line="48" column="37" />
         <mark key="^" line="48" column="37" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/AbstractChannel.java" timestamp="1509498478159">
-        <mark key="[" line="471" column="0" />
-        <mark key="]" line="459" column="35" />
-        <mark key="^" line="459" column="35" />
-        <mark key="." line="459" column="35" />
-      </file>
-      <file name="F:/my_project/netty_pro/src/main/java/discard/DiscardServerHandler.java" timestamp="1509522513254">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-      </file>
       <file name="F:/songlin/springInaction/chapter5/src/main/java/spittr/config/SpittrWebAppInitializer.java" timestamp="1504086443123">
         <mark key="[" line="10" column="37" />
       </file>
@@ -407,12 +359,6 @@
       </file>
       <file name="F:/project/xuanwu_project/trunk/ams-sdk/src/main/resources/system.properties" timestamp="1501810324545">
         <mark key="[" line="5" column="42" />
-      </file>
-      <file name="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/app.js" timestamp="1509609274858">
-        <mark key="[" line="149" column="88" />
-        <mark key="]" line="149" column="43" />
-        <mark key="^" line="149" column="43" />
-        <mark key="." line="149" column="43" />
       </file>
       <file name="/Unnamed.txt.ft" timestamp="1508466145758">
         <mark key="[" line="0" column="0" />
@@ -462,12 +408,6 @@
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/beans/DataReport.java" timestamp="1503363777854">
         <mark key="[" line="7" column="25" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/socket/nio/NioSocketChannel.java" timestamp="1509429209951">
-        <mark key="[" line="50" column="17" />
-        <mark key="]" line="100" column="9" />
-        <mark key="^" line="100" column="9" />
-        <mark key="." line="100" column="9" />
-      </file>
       <file name="F:/songlin/springInaction/chapter5/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml" timestamp="1504160203102">
         <mark key="[" line="22" column="48" />
       </file>
@@ -508,6 +448,9 @@
       <file name="F:/songlin/Networkeval/evalClient/src/main/java/com/services/SocketSend.java" timestamp="1503994958675">
         <mark key="[" line="16" column="25" />
       </file>
+      <file name="F:/svn/mos/trunk/others/快加易http通道开发/kjy_http2gate/src/main/java/com/xuanwu/msggate/sms_kjy_http2gate/core/handler/GetStateReportTask.java" timestamp="1533541180631">
+        <mark key="." line="41" column="83" />
+      </file>
       <file name="F:/project/xuanwu_project/trunk/ams-server/src/main/java/com/xuanwu/ams/services/reporttask/ReportTaskEngine.java" timestamp="1501744841232">
         <mark key="[" line="177" column="0" />
       </file>
@@ -519,12 +462,6 @@
       </file>
       <file name="F:/gitpro/springInaction/chapter2/src/main/java/soundsystem/CompactDisc.java" timestamp="1502767043869">
         <mark key="[" line="5" column="30" />
-      </file>
-      <file name="F:/songlin/netty-4.1/codec-http2/src/main/java/io/netty/handler/codec/http2/Http2Settings.java" timestamp="1509517315100">
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
       </file>
       <file name="F:/project/ams/trunk/ams-netclient-test/src/main/java/com/netface/Netface.java" timestamp="1503999358160">
         <mark key="[" line="64" column="27" />
@@ -611,12 +548,6 @@
       <file name="F:/gitpro/springInaction/chapter1/src/main/java/com/springinaction/knights/Main.java" timestamp="1502760598332">
         <mark key="[" line="9" column="13" />
       </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/bootstrap/Bootstrap.java" timestamp="1509502284546">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="221" column="47" />
-        <mark key="^" line="221" column="47" />
-        <mark key="." line="221" column="47" />
-      </file>
       <file name="F:/my_project/netty_pro/src/main/java/factorial/NumberEncoder.java" timestamp="1509582261786">
         <mark key="[" line="42" column="37" />
       </file>
@@ -628,12 +559,6 @@
       </file>
       <file name="F:/songlin/springInaction/chapter4/src/main/java/concert/EncoreableIntroducer.java" timestamp="1504083318625">
         <mark key="[" line="13" column="35" />
-      </file>
-      <file name="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/assets/scripts/controllers/worder/smartcheck.js" timestamp="1509611601692">
-        <mark key="'" line="1" column="35" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="G:/work/java/src/java/net/Authenticator.java" timestamp="1525921220100">
         <mark key="'" line="62" column="19" />
@@ -673,6 +598,9 @@
       </file>
       <file name="F:/project/ams-3.1.2/ams-sdk/src/main/java/com/xuanwu/ams/sdk/conf/repository/impl/EtcdRepository.java" timestamp="1508322944890">
         <mark key="[" line="59" column="46" />
+      </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.0/web-module/src/views/resource/iotcard/index.html" timestamp="1532681363134">
+        <mark key="." line="183" column="192" />
       </file>
       <file name="F:/project/test_ams/trunk/postmsg-ump/src/main/java/com/esms/PostMsg.java" timestamp="1502780881098">
         <mark key="[" line="157" column="35" />
@@ -720,12 +648,6 @@
       </file>
       <file name="/PHP Class Doc Comment.txt.ft" timestamp="1508466116315">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/songlin/netty-4.1/transport/src/main/java/io/netty/channel/Channel.java" timestamp="1509428978306">
-        <mark key="[" line="81" column="19" />
-        <mark key="]" line="177" column="19" />
-        <mark key="^" line="177" column="19" />
-        <mark key="." line="177" column="19" />
       </file>
       <file name="F:/project/ams-3.2.0_1/ams-web/src/main/webapp/views/statistics/reportSend/index.html" timestamp="1509526615379">
         <mark key="[" line="31" column="126" />
@@ -837,11 +759,11 @@
       <jump line="745" column="19" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayDeque.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>String</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>ChannelPipeine</text>
@@ -850,31 +772,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmFwcElkID0gYXBwSWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAkkc2NvcGUubWFzdGVyID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCV07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6IrWxx7DXtMysIn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6IrPW0PjKsbOkIixzaG93OnRydWUsdG9nZ2xlOnRydWV9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6Irj80MLKsbzkIixzaG93OnRydWUsdG9nZ2xlOnRydWV9LAo=</text>
+        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6IreiyfrKsbzkIixzaG93OnRydWUsdG9nZ2xlOnRydWV9LAo=</text>
+        <text encoding="base64">ICAgIAkkc2NvcGUubWFzdGVyID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6Isv5yvTW97v6IixzaG93OnRydWUsdG9nZ2xlOnRydWV9LAo=</text>
+        <text encoding="base64">ICAgICAgIAkgICAJCV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6Ireiyfq92rXjIixzaG93OnRydWUsdG9nZ2xlOnRydWV9LAo=</text>
+        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6IrWxx7DXtMysIn0K</text>
       </register>
       <register name=":" type="4">
         <text>231</text>
