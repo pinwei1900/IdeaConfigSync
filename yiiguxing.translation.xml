@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="velocity" />
       <item value="icon quote" />
       <item value="No value specified for parameter 14" />
       <item value="Running the evict task with compensationTime" />
@@ -31,7 +32,6 @@
       <item value="Forward channel total statistics list page failed" />
       <item value="I Data Convert For Export" />
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
-      <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
     </histories>
   </component>
   <component name="Settings">
