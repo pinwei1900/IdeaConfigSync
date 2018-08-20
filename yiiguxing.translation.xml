@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="last Selected" />
       <item value="velocity" />
       <item value="icon quote" />
       <item value="No value specified for parameter 14" />
@@ -31,7 +32,6 @@
       <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
       <item value="Forward channel total statistics list page failed" />
       <item value="I Data Convert For Export" />
-      <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
     </histories>
   </component>
   <component name="Settings">
