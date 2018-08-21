@@ -81,7 +81,6 @@
   <template name="a-bootstrap" value="import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';&#10;//import { enableProdMode } from '@angular/core';&#10;&#10;//enableProdMode(); // Uncomment for production&#10;import { $App$Module } from './$app$.module';&#10;&#10;platformBrowserDynamic().bootstrapModule($App$Module);&#10;$END$" description="Angular bootstrap" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="App" expression="" defaultValue="&quot;App&quot;" alwaysStopAt="true" />
     <variable name="app" expression="lowercaseAndDash(App)" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-guard-can-activate" value="import { Injectable } from '@angular/core';&#10;import { ActivatedRouteSnapshot, CanActivate, RouterStateSnapshot } from '@angular/router';&#10;&#10;@Injectable()&#10;export class $Name$Guard implements CanActivate {&#10; constructor() { }&#10;&#10; canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot) {&#10;  return true;$END$&#10; }&#10;}" description="Angular CanActivate guard" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="Name" expression="" defaultValue="&quot;Name&quot;" alwaysStopAt="true" />
@@ -123,7 +122,6 @@
   </template>
   <template name="a-service-http" value="import { Injectable } from '@angular/core';&#10;import { Http, Response } from '@angular/http';&#10;import { Observable } from 'rxjs/Observable';&#10;import 'rxjs/add/operator/map';&#10;import 'rxjs/add/operator/catch';&#10;&#10;@Injectable()&#10;export class $ServiceName$Service {&#10; constructor(private http: Http) { }&#10; $END$&#10;}" description="Angular service with Http" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="ServiceName" expression="" defaultValue="&quot;ServiceName&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-route-path-lazy" value="{ path: '$path$', loadChildren: '$lazy_path$#$lazy_module$' }," description="Angular lazy route path" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="path" expression="" defaultValue="&quot;path&quot;" alwaysStopAt="true" />
@@ -167,7 +165,6 @@
   </template>
   <template name="a-http-get" value="return this.http.get('$url$')&#10; .map((response: Response) =&gt; response.json()$END$);" description="Angular Http.get" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="url" expression="" defaultValue="&quot;url&quot;" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="a-output-event" value="@Output() $eventName$: EventEmitter&lt;$eventType$&gt; = new EventEmitter&lt;$eventType$&gt;();" description="Angular @Output event and emitter" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="eventName" expression="" defaultValue="&quot;eventName&quot;" alwaysStopAt="true" />
