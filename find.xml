@@ -5,10 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
-      <mask>.x</mask>
-      <mask>.xm</mask>
-      <mask>.xml</mask>
       <mask>ja</mask>
       <mask>j</mask>
       <mask>*.x'm</mask>
@@ -32,10 +30,13 @@
       <mask>*.ja</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
+      <mask>*.y</mask>
+      <mask>*.ym</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
