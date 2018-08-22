@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="receive User List" />
       <item value="Flushes batch statements and commits database connection. Note that database connection will not be committed if no updates/deletes/inserts were called. To force the commit call commit(boolean" />
       <item value="should Answer With True" />
       <item value="last Selected" />
@@ -31,7 +32,6 @@
       <item value="Apply Change Info Service" />
       <item value="- Any keys that need to be passed to the script" />
       <item value="Any keys that need to be passed to the script" />
-      <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
     </histories>
   </component>
   <component name="Settings">
