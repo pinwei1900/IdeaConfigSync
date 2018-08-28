@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Description: space-separated list of classes" />
       <item value="isolate" />
       <item value="query Briefness User By Ids" />
       <item value="receive User List" />
@@ -31,10 +32,10 @@
       <item value="Save Change Info" />
       <item value="Deduct Type" />
       <item value="Capital Account" />
-      <item value="Apply Change Info Service" />
     </histories>
   </component>
   <component name="Settings">
+    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
