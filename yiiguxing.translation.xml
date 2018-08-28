@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="pagination" />
       <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns" />
       <item value="space-separated list of classes" />
       <item value="Description: space-separated list of classes" />
@@ -31,7 +32,6 @@
       <item value="Element preceipt of type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport is not defined as field in type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport" />
       <item value="Person as it does not have a no-args constructor" />
       <item value="deliver" />
-      <item value="Save Change Info" />
     </histories>
   </component>
   <component name="Settings">
