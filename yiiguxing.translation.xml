@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns" />
+      <item value="space-separated list of classes" />
       <item value="Description: space-separated list of classes" />
       <item value="isolate" />
       <item value="query Briefness User By Ids" />
@@ -30,8 +32,6 @@
       <item value="Person as it does not have a no-args constructor" />
       <item value="deliver" />
       <item value="Save Change Info" />
-      <item value="Deduct Type" />
-      <item value="Capital Account" />
     </histories>
   </component>
   <component name="Settings">
