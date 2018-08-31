@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Retrieve a single row mapped from the statement key and parameter." />
       <item value="validate Ip" />
       <item value="handler Table Data" />
       <item value="pagination" />
@@ -31,7 +32,6 @@
       <item value="decrement" />
       <item value="Frame Wrapper" />
       <item value="Frame Envoloper" />
-      <item value="Element preceipt of type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport is not defined as field in type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport" />
     </histories>
   </component>
   <component name="Settings">
