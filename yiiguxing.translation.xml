@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="addition Time" />
       <item value="Retrieve a single row mapped from the statement key and parameter." />
       <item value="validate Ip" />
       <item value="handler Table Data" />
@@ -31,7 +32,6 @@
       <item value="decre Tickets Map" />
       <item value="decrement" />
       <item value="Frame Wrapper" />
-      <item value="Frame Envoloper" />
     </histories>
   </component>
   <component name="Settings">
