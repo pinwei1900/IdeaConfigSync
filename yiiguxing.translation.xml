@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns the value of this Double as an int after a narrowing primitive conversion." />
+      <item value="floor Div" />
       <item value="the period in milliseconds" />
       <item value="Execute the annotated method with a fixed period in milliseconds between * invocations. * @return the period in milliseconds as a String value, e.g. a placeholder * @since 3.2.2" />
       <item value="Execute the annotated method with a fixed period in milliseconds between * invocations." />
@@ -30,8 +32,6 @@
       <item value="Running the evict task with compensationTime" />
       <item value="fanout msg" />
       <item value="fanout" />
-      <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
-      <item value="FTP Client Wrapper" />
     </histories>
   </component>
   <component name="Settings">
