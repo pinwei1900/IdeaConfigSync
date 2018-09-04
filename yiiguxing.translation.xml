@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Provides a suitable connection for interacting with Redis Sentinel." />
+      <item value="get Connection" />
+      <item value="get Sentinel Connection" />
       <item value="Returns the value of this Double as an int after a narrowing primitive conversion." />
       <item value="floor Div" />
       <item value="the period in milliseconds" />
@@ -29,9 +32,6 @@
       <item value="velocity" />
       <item value="icon quote" />
       <item value="No value specified for parameter 14" />
-      <item value="Running the evict task with compensationTime" />
-      <item value="fanout msg" />
-      <item value="fanout" />
     </histories>
   </component>
   <component name="Settings">
