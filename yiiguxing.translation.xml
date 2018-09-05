@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="apply Time Begin" />
       <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria:" />
       <item value="Provides a suitable connection for interacting with Redis Sentinel." />
       <item value="get Connection" />
@@ -31,7 +32,6 @@
       <item value="should Answer With True" />
       <item value="last Selected" />
       <item value="velocity" />
-      <item value="icon quote" />
     </histories>
   </component>
   <component name="Settings">
