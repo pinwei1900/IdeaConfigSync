@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="haproxy" />
       <item value="Running the evict task with compensationTime" />
       <item value="fanout msg" />
       <item value="fanout" />
@@ -31,7 +32,6 @@
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
       <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
       <item value="SYS BIND" />
-      <item value="get Announcement List" />
     </histories>
   </component>
   <component name="Settings">
