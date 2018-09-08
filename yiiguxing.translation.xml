@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="finer" />
       <item value="haproxy" />
       <item value="Running the evict task with compensationTime" />
       <item value="fanout msg" />
@@ -31,8 +32,12 @@
       <item value="I Data Convert For Export" />
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
       <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
-      <item value="SYS BIND" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="youdaoTranslateSettings">
