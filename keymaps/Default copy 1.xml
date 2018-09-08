@@ -1,1 +1,5 @@
-<keymap version="1" name="Default copy 1" parent="$default" />
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+</keymap>
