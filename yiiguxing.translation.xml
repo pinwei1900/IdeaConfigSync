@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
       <item value="finer" />
       <item value="haproxy" />
       <item value="Running the evict task with compensationTime" />
@@ -31,11 +32,11 @@
       <item value="Forward channel total statistics list page failed" />
       <item value="I Data Convert For Export" />
       <item value="Event raised when an {@code ApplicationContext} gets initialized or refreshed." />
-      <item value="If an annotated method supports a single event type, the method may declare a single parameter that reflects the event type to listen to. If an annotated method supports multiple event types, this annotation may refer to one or more supported event types using the classes attribute. See the classes() javadoc for further details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
