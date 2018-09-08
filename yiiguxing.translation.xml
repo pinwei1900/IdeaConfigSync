@@ -35,7 +35,6 @@
     </histories>
   </component>
   <component name="Settings">
-    <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
