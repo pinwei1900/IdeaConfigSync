@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Supplier" />
       <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
       <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
       <item value="finer" />
@@ -31,7 +32,6 @@
       <item value="Any keys that need to be passed to the script" />
       <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
       <item value="Forward channel total statistics list page failed" />
-      <item value="I Data Convert For Export" />
     </histories>
     <option name="languageScores">
       <map>
