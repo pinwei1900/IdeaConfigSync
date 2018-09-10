@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The * {@code StringBuilder} class should generally be used in preference to * this one, as it supports all of the same operations but it is faster, as * it performs no synchronization." />
+      <item value="As of release JDK 5, this class has been supplemented with an equivalent * class designed for use by a single thread," />
+      <item value="supplemented" />
+      <item value="A mutable sequence of characters." />
+      <item value="A thread-safe, mutable sequence of characters." />
+      <item value="Constructs a string builder with no characters in it and an * initial capacity of 16 characters." />
+      <item value="* Constructs a string buffer with no characters in it and an * initial capacity of 16 characters." />
+      <item value="Constructs a string buffer with no characters in it and an * initial capacity of 16 characters." />
+      <item value="Constructs a string buffer with no characters in it and an * initial capacity of 16 characters. */" />
+      <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
       <item value="should not consume any entity." />
       <item value="customcol prefix" />
       <item value="apply Time Begin" />
@@ -22,20 +32,14 @@
       <item value="addition Time" />
       <item value="Retrieve a single row mapped from the statement key and parameter." />
       <item value="validate Ip" />
-      <item value="handler Table Data" />
-      <item value="pagination" />
-      <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns" />
-      <item value="space-separated list of classes" />
-      <item value="Description: space-separated list of classes" />
-      <item value="isolate" />
-      <item value="query Briefness User By Ids" />
-      <item value="receive User List" />
-      <item value="Flushes batch statements and commits database connection. Note that database connection will not be committed if no updates/deletes/inserts were called. To force the commit call commit(boolean" />
-      <item value="should Answer With True" />
     </histories>
   </component>
   <component name="Settings">
-    <option name="translator" value="ai.youdao" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
