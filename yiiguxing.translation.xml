@@ -2,50 +2,45 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="ORDERED" />
-      <item value="Characteristics of this spliterator's source or * elements. The characteristics {@code SIZED} and {@code SUBSIZED} * are additionally reported unless {@code CONCURRENT} is supplied. * @return A spliterator from an iterator" />
-      <item value="A spliterator from an iterator" />
-      <item value="The characteristics {@code SIZED} and {@code SUBSIZED} * are additionally reported unless {@code CONCURRENT} is supplied. * @return A spliterator from an iterator" />
-      <item value="Characteristics of this spliterator's source or * elements." />
-      <item value="The iterator for the source" />
-      <item value="Returns the length of this character sequence. The length is the number * of 16-bit &lt;code&gt;char&lt;/code&gt;s in the sequence." />
-      <item value="The character sequence from which a subsequence will be * appended." />
-      <item value="for Each Remaining" />
-      <item value="* * A &lt;tt&gt;CharSequence&lt;/tt&gt; is a readable sequence of &lt;code&gt;char&lt;/code&gt; values. This * interface provides uniform, read-only access to many different kinds of * &lt;code&gt;char&lt;/code&gt; sequences." />
-      <item value="Performs this operation on the given argument." />
-      <item value="Primitive Iterator" />
-      <item value="an IntStream of Unicode code points from this sequence" />
-      <item value="Returns a stream of code point values from this sequence. Any surrogate pairs encountered in the sequence are combined as if by Character.toCodePoint and the result is passed to the stream. Any other code units, including ordinary BMP characters, unpaired surrogates, and undefined code units, are zero-extended to int values which are then passed to the stream." />
-      <item value="Outlined helper method for reverse" />
-      <item value="reverse All Valid Surrogate Pairs" />
-      <item value="has Surrogates" />
-      <item value="is Low Surrogate" />
-      <item value="reverse" />
-      <item value="The * {@code StringBuilder} class should generally be used in preference to * this one, as it supports all of the same operations but it is faster, as * it performs no synchronization." />
-      <item value="As of release JDK 5, this class has been supplemented with an equivalent * class designed for use by a single thread," />
-      <item value="supplemented" />
-      <item value="A mutable sequence of characters." />
-      <item value="A thread-safe, mutable sequence of characters." />
-      <item value="Constructs a string builder with no characters in it and an * initial capacity of 16 characters." />
-      <item value="* Constructs a string buffer with no characters in it and an * initial capacity of 16 characters." />
-      <item value="Constructs a string buffer with no characters in it and an * initial capacity of 16 characters." />
-      <item value="Constructs a string buffer with no characters in it and an * initial capacity of 16 characters. */" />
-      <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
-      <item value="should not consume any entity." />
+      <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
+      <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
+      <item value="finer" />
+      <item value="haproxy" />
+      <item value="Running the evict task with compensationTime" />
+      <item value="fanout msg" />
+      <item value="fanout" />
+      <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
+      <item value="FTP Client Wrapper" />
+      <item value="set Enough Candidate Task" />
+      <item value="get Candidate Task" />
+      <item value="last Execute" />
+      <item value="Obtains a connection." />
+      <item value="Indicates whether this connection manager is shut down" />
+      <item value="decre Tickets Map" />
+      <item value="decrement" />
+      <item value="Frame Wrapper" />
+      <item value="Frame Envoloper" />
+      <item value="Element preceipt of type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport is not defined as field in type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport" />
+      <item value="Person as it does not have a no-args constructor" />
+      <item value="deliver" />
+      <item value="Save Change Info" />
+      <item value="Deduct Type" />
+      <item value="Capital Account" />
+      <item value="Apply Change Info Service" />
+      <item value="- Any keys that need to be passed to the script" />
+      <item value="Any keys that need to be passed to the script" />
+      <item value="Set the the respective keys to the respective values. MSET will replace old values with new values, while MSETNX will not perform any operation at all even if just a single key already exists." />
+      <item value="Forward channel total statistics list page failed" />
+      <item value="I Data Convert For Export" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="3" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="appId" value="5c565298cc6d41a2" />
