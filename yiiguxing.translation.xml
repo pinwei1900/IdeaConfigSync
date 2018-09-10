@@ -2,9 +2,17 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="ORDERED" />
+      <item value="Characteristics of this spliterator's source or * elements. The characteristics {@code SIZED} and {@code SUBSIZED} * are additionally reported unless {@code CONCURRENT} is supplied. * @return A spliterator from an iterator" />
+      <item value="A spliterator from an iterator" />
+      <item value="The characteristics {@code SIZED} and {@code SUBSIZED} * are additionally reported unless {@code CONCURRENT} is supplied. * @return A spliterator from an iterator" />
+      <item value="Characteristics of this spliterator's source or * elements." />
+      <item value="The iterator for the source" />
+      <item value="Returns the length of this character sequence. The length is the number * of 16-bit &lt;code&gt;char&lt;/code&gt;s in the sequence." />
+      <item value="The character sequence from which a subsequence will be * appended." />
+      <item value="for Each Remaining" />
       <item value="* * A &lt;tt&gt;CharSequence&lt;/tt&gt; is a readable sequence of &lt;code&gt;char&lt;/code&gt; values. This * interface provides uniform, read-only access to many different kinds of * &lt;code&gt;char&lt;/code&gt; sequences." />
       <item value="Performs this operation on the given argument." />
-      <item value="for Each Remaining" />
       <item value="Primitive Iterator" />
       <item value="an IntStream of Unicode code points from this sequence" />
       <item value="Returns a stream of code point values from this sequence. Any surrogate pairs encountered in the sequence are combined as if by Character.toCodePoint and the result is passed to the stream. Any other code units, including ordinary BMP characters, unpaired surrogates, and undefined code units, are zero-extended to int values which are then passed to the stream." />
@@ -24,19 +32,11 @@
       <item value="Constructs a string buffer with no characters in it and an * initial capacity of 16 characters. */" />
       <item value="Constructs a string builder with no characters in it and an initial capacity of 16 characters." />
       <item value="should not consume any entity." />
-      <item value="customcol prefix" />
-      <item value="apply Time Begin" />
-      <item value="The PostConstruct annotation is used on a method that needs to be executed after dependency injection is done to perform any initialization. This method MUST be invoked before the class is put into service. This annotation MUST be supported on all classes that support dependency injection. The method annotated with PostConstruct MUST be invoked even if the class does not request any resources to be injected. Only one method can be annotated with this annotation. The method on which the PostConstruct annotation is applied MUST fulfill all of the following criteria:" />
-      <item value="Provides a suitable connection for interacting with Redis Sentinel." />
-      <item value="get Connection" />
-      <item value="get Sentinel Connection" />
-      <item value="Returns the value of this Double as an int after a narrowing primitive conversion." />
-      <item value="floor Div" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
