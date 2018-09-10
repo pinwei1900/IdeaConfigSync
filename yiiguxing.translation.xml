@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Performs this operation on the given argument." />
+      <item value="for Each Remaining" />
+      <item value="Primitive Iterator" />
+      <item value="an IntStream of Unicode code points from this sequence" />
+      <item value="Returns a stream of code point values from this sequence. Any surrogate pairs encountered in the sequence are combined as if by Character.toCodePoint and the result is passed to the stream. Any other code units, including ordinary BMP characters, unpaired surrogates, and undefined code units, are zero-extended to int values which are then passed to the stream." />
+      <item value="Outlined helper method for reverse" />
+      <item value="reverse All Valid Surrogate Pairs" />
+      <item value="has Surrogates" />
+      <item value="is Low Surrogate" />
       <item value="reverse" />
       <item value="The * {@code StringBuilder} class should generally be used in preference to * this one, as it supports all of the same operations but it is faster, as * it performs no synchronization." />
       <item value="As of release JDK 5, this class has been supplemented with an equivalent * class designed for use by a single thread," />
@@ -23,19 +32,11 @@
       <item value="Returns the value of this Double as an int after a narrowing primitive conversion." />
       <item value="floor Div" />
       <item value="the period in milliseconds" />
-      <item value="Execute the annotated method with a fixed period in milliseconds between * invocations. * @return the period in milliseconds as a String value, e.g. a placeholder * @since 3.2.2" />
-      <item value="Execute the annotated method with a fixed period in milliseconds between * invocations." />
-      <item value="job Was Executed" />
-      <item value="job To Be Executed" />
-      <item value="job Execution Vetoed" />
-      <item value="Called by the Scheduler when a JobDetail was about to be executed (an associated Trigger has occurred), but a TriggerListener vetoed it's execution." />
-      <item value="executed" />
-      <item value="addition Time" />
-      <item value="Retrieve a single row mapped from the statement key and parameter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
