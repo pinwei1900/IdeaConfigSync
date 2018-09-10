@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="reverse" />
       <item value="The * {@code StringBuilder} class should generally be used in preference to * this one, as it supports all of the same operations but it is faster, as * it performs no synchronization." />
       <item value="As of release JDK 5, this class has been supplemented with an equivalent * class designed for use by a single thread," />
       <item value="supplemented" />
@@ -31,8 +32,12 @@
       <item value="executed" />
       <item value="addition Time" />
       <item value="Retrieve a single row mapped from the statement key and parameter." />
-      <item value="validate Ip" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
