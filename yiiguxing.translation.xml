@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Links e as last element." />
+      <item value="GC overhead limit exceeded" />
       <item value="indexed Binary Search" />
       <item value="The list must be sorted into ascending order * according to the specified comparator (as by the" />
       <item value="Searches the specified list for the specified object using the binary * search algorithm." />
@@ -30,13 +32,11 @@
       <item value="REVERSE THRESHOLD" />
       <item value="THRESHOLD" />
       <item value="CONCURRENT" />
-      <item value="characteristics" />
-      <item value="Characteristics of this spliterator's source or elements. The characteristics SIZED and SUBSIZED are additionally reported unless CONCURRENT is supplied." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
