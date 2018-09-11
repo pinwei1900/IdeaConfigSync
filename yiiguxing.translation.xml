@@ -2,10 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="indexed Binary Search" />
+      <item value="The list must be sorted into ascending order * according to the specified comparator (as by the" />
+      <item value="Searches the specified list for the specified object using the binary * search algorithm." />
+      <item value="the list to be searched." />
       <item value="Returns the (non-null) Node at the specified element index." />
       <item value="Gets the ith element from the given list by repositioning the specified * list listIterator." />
       <item value="iterator Binary Search" />
-      <item value="indexed Binary Search" />
       <item value="BINARYSEARCH THRESHOLD" />
       <item value="origin of usable space in work array" />
       <item value="legacy Merge Sort" />
@@ -29,14 +32,11 @@
       <item value="CONCURRENT" />
       <item value="characteristics" />
       <item value="Characteristics of this spliterator's source or elements. The characteristics SIZED and SUBSIZED are additionally reported unless CONCURRENT is supplied." />
-      <item value="divide range in half unless too small" />
-      <item value="This will only improve parallel performance if * per-element Consumer actions are more costly than * transferring them into an array." />
-      <item value="Split into arrays of arithmetically increasing batch * sizes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="40" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
