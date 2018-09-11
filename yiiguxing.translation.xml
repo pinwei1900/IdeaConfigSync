@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns the (non-null) Node at the specified element index." />
+      <item value="Gets the ith element from the given list by repositioning the specified * list listIterator." />
+      <item value="iterator Binary Search" />
+      <item value="indexed Binary Search" />
+      <item value="BINARYSEARCH THRESHOLD" />
+      <item value="origin of usable space in work array" />
+      <item value="legacy Merge Sort" />
+      <item value="&gt;The implementation takes equal advantage of ascending and * descending order in its input array, and can take advantage of * ascending and descending order in different parts of the same * input array. It is well-suited to merging two or more sorted arrays: * simply concatenate the arrays and sort the resulting array." />
+      <item value="The implementation was adapted from Tim Peters's list sort for Python * (&lt;a href=&quot;http://svn.python.org/projects/python/trunk/Objects/listsort.txt&quot;&gt; * TimSort&lt;/a&gt;). It uses techniques from Peter McIlroy's &quot;Optimistic * Sorting and Information Theoretic Complexity&quot;, in Proceedings of the * Fourth Annual ACM-SIAM Symposium on Discrete Algorithms, pp 467-474, * January 1993." />
       <item value="Shared empty array instance used for empty instances" />
       <item value="Default initial capacity." />
       <item value="last Ret" />
@@ -17,26 +26,17 @@
       <item value="SHUFFLE THRESHOLD" />
       <item value="REVERSE THRESHOLD" />
       <item value="THRESHOLD" />
-      <item value="BINARYSEARCH THRESHOLD" />
       <item value="CONCURRENT" />
       <item value="characteristics" />
       <item value="Characteristics of this spliterator's source or elements. The characteristics SIZED and SUBSIZED are additionally reported unless CONCURRENT is supplied." />
       <item value="divide range in half unless too small" />
       <item value="This will only improve parallel performance if * per-element Consumer actions are more costly than * transferring them into an array." />
       <item value="Split into arrays of arithmetically increasing batch * sizes." />
-      <item value="This implementation permits limited parallelism." />
-      <item value="size estimate" />
-      <item value="Holding Consumer" />
-      <item value="fence" />
-      <item value="origin" />
-      <item value="otherwise, a new array of the same * runtime type is allocated for this purpose." />
-      <item value="the array into which the elements of this collection are to be * stored, if it is big enough;" />
-      <item value="get Universe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
