@@ -2,6 +2,19 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="all other fields defaulted" />
+      <item value="threshold" />
+      <item value="Returns a power of two size for the given target capacity." />
+      <item value="Returns k.compareTo(x) if x matches kc (k's screened comparable" />
+      <item value="type arg is c" />
+      <item value="Returns the Types representing the interfaces directly implemented by the class or interface represented by this object." />
+      <item value="comparable Class For" />
+      <item value="bypass checks" />
+      <item value="Returns x's Class if it is of the form &quot;class C implements * Comparable&lt;C&gt;&quot;, else null." />
+      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
+      <item value="TREEIFY THRESHOLD" />
+      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
+      <item value="Comparison and hashing" />
       <item value="initial Capacity" />
       <item value="DEFAULT LOAD FACTOR" />
       <item value="This class provides a skeletal implementation of the Map interface, to minimize the effort required to implement this interface." />
@@ -19,24 +32,11 @@
       <item value="Sets the bit at the specified index to {@code true}." />
       <item value="Restores invariants" />
       <item value="if the specified index is negative" />
-      <item value="the index of the next clear bit" />
-      <item value="the index to start checking from (inclusive)" />
-      <item value="Returns the index of the first bit that is set to {@code false} * that occurs on or after the specified starting index." />
-      <item value="Returns the index of the first bit that is set to false that occurs on or after the specified starting index." />
-      <item value="divide range in half unless too small" />
-      <item value="(a specialized variant appears in method forEach)" />
-      <item value="initialize fence to size on first use" />
-      <item value="Increments modCount" />
-      <item value="Increases the capacity to ensure that it can hold at least the * number of elements specified by the minimum capacity argument." />
-      <item value="Some VMs reserve some header words in an array. * Attempts to allocate larger arrays may result in * OutOfMemoryError: Requested array size exceeds VM limit" />
-      <item value="overflow-conscious code" />
-      <item value="larger than default for default empty table. It's already // supposed to be at default size." />
-      <item value="any size if not default element table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="92" />
-        <entry key="ENGLISH" value="93" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
