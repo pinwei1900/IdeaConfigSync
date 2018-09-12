@@ -2,6 +2,21 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Increases the capacity to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
+      <item value="minCapacity is usually close to size, so this is a win:" />
+      <item value="overflow-conscious code" />
+      <item value="Performs this operation on the given arguments." />
+      <item value="Bi Consumer" />
+      <item value="intermediate operation" />
+      <item value="an unordered stream" />
+      <item value="a parallel stream" />
+      <item value="a sequential stream" />
+      <item value="Returns an equivalent stream that is sequential. May return * itself, either because the stream was already sequential, or because * the underlying stream state was modified to be sequential." />
+      <item value="sequential" />
+      <item value="a stream with a handler that is run if the stream is closed" />
+      <item value="Returns an equivalent stream with an additional close handler." />
+      <item value="unordered" />
+      <item value="Returns a spliterator for the elements of this stream." />
       <item value="Links e as last element." />
       <item value="GC overhead limit exceeded" />
       <item value="indexed Binary Search" />
@@ -17,27 +32,13 @@
       <item value="&gt;The implementation takes equal advantage of ascending and * descending order in its input array, and can take advantage of * ascending and descending order in different parts of the same * input array. It is well-suited to merging two or more sorted arrays: * simply concatenate the arrays and sort the resulting array." />
       <item value="The implementation was adapted from Tim Peters's list sort for Python * (&lt;a href=&quot;http://svn.python.org/projects/python/trunk/Objects/listsort.txt&quot;&gt; * TimSort&lt;/a&gt;). It uses techniques from Peter McIlroy's &quot;Optimistic * Sorting and Information Theoretic Complexity&quot;, in Proceedings of the * Fourth Annual ACM-SIAM Symposium on Discrete Algorithms, pp 467-474, * January 1993." />
       <item value="Shared empty array instance used for empty instances" />
-      <item value="Default initial capacity." />
-      <item value="last Ret" />
-      <item value="element Data" />
-      <item value="Concurrent Modification Exception" />
-      <item value="Returns the next element in the list and advances the cursor position. * This method may be called repeatedly to iterate through the list, * or intermixed with calls to {@link #previous} to go back and forth. * (Note that alternating calls to {@code next} and {@code previous} * will return the same element repeatedly.)" />
-      <item value="check For Comodification" />
-      <item value="the comparator to determine the order of the array. A * {@code null} value indicates that the elements' * {@linkplain Comparable natural ordering} should be used." />
-      <item value="A {@code null} value indicates that the elements' * {@linkplain Comparable natural ordering} should be used" />
-      <item value="A {@code null} value indicates that the elements'" />
-      <item value="ROTATE THRESHOLD" />
-      <item value="FILL THRESHOLD" />
-      <item value="SHUFFLE THRESHOLD" />
-      <item value="REVERSE THRESHOLD" />
-      <item value="THRESHOLD" />
-      <item value="CONCURRENT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="58" />
         <entry key="DANISH" value="1" />
+        <entry key="JAPANESE" value="1" />
       </map>
     </option>
   </component>
