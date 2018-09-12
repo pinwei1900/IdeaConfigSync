@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="initial Capacity" />
+      <item value="DEFAULT LOAD FACTOR" />
+      <item value="This class provides a skeletal implementation of the Map interface, to minimize the effort required to implement this interface." />
+      <item value="Returns the value to which the specified key is mapped, or * {@code defaultValue} if this map contains no mapping for the key." />
+      <item value="get Or Default" />
+      <item value="he collection is backed by the map, so changes to the map are * reflected in the collection, and vice-versa." />
+      <item value="a collection view of the values contained in this map" />
+      <item value="a view of the portion of this map whose keys are strictly * less than {@code toKey}" />
+      <item value="head Map" />
       <item value="Concurrent Modification Exception" />
       <item value="The internal field corresponding to the serialField &quot;bits&quot;." />
       <item value="Used to shift left or right for a partial word mask" />
@@ -23,20 +32,11 @@
       <item value="overflow-conscious code" />
       <item value="larger than default for default empty table. It's already // supposed to be at default size." />
       <item value="any size if not default element table" />
-      <item value="Increases the capacity of this ArrayList instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
-      <item value="ensure Capacity" />
-      <item value="Trims the capacity of this &lt;tt&gt;ArrayList&lt;/tt&gt; instance to be the * list's current size. An application can use this operation to minimize * the storage of an &lt;tt&gt;ArrayList&lt;/tt&gt; instance." />
-      <item value="trim To Size" />
-      <item value="Methods for unpacking primitive values from byte arrays starting at * given offsets." />
-      <item value="Constructs a {@code BootstrapMethodError} with the specified * detail message." />
-      <item value="Constructs a {@code BootstrapMethodError} with no detail message." />
-      <item value="Thrown to indicate that an {@code invokedynamic} instruction has" />
-      <item value="Thrown to indicate that an invokedynamic instruction has failed to find its bootstrap method, or the bootstrap method has failed to provide a call site with a target of the correct method type." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="92" />
+        <entry key="ENGLISH" value="93" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
