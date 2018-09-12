@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="push Consume Max Count" />
       <item value="octet-stream" />
       <item value="r" />
       <item value="'javax.inject.Inject' annotation found and supported for autowiring" />
@@ -31,12 +32,11 @@
       <item value="Save Change Info" />
       <item value="Deduct Type" />
       <item value="Capital Account" />
-      <item value="Apply Change Info Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
