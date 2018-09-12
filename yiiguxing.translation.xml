@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="preserve order" />
+      <item value="double threshold" />
+      <item value="-1 for 1st" />
+      <item value="existing mapping for key" />
+      <item value="evict" />
       <item value="all other fields defaulted" />
       <item value="threshold" />
       <item value="Returns a power of two size for the given target capacity." />
@@ -27,16 +32,11 @@
       <item value="Concurrent Modification Exception" />
       <item value="The internal field corresponding to the serialField &quot;bits&quot;." />
       <item value="Used to shift left or right for a partial word mask" />
-      <item value="The choice of word size is determined purely by performance concerns." />
-      <item value="Creates a bit set whose initial size is large enough to explicitly * represent bits with indices in the range {@code 0} through * {@code nbits-1}. All bits are initially {@code false}." />
-      <item value="Sets the bit at the specified index to {@code true}." />
-      <item value="Restores invariants" />
-      <item value="if the specified index is negative" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="108" />
+        <entry key="ENGLISH" value="109" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
