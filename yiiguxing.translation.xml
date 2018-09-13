@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller." />
       <item value="existing mapping for key" />
       <item value="PRESENT" />
       <item value="dummy" />
@@ -31,12 +32,11 @@
       <item value="he collection is backed by the map, so changes to the map are * reflected in the collection, and vice-versa." />
       <item value="a collection view of the values contained in this map" />
       <item value="a view of the portion of this map whose keys are strictly * less than {@code toKey}" />
-      <item value="head Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
