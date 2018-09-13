@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Queue" />
+      <item value="Attempts to allocate larger arrays may result in * OutOfMemoryError: Requested array size exceeds VM limit" />
+      <item value="capacity Increment" />
+      <item value="Vector" />
+      <item value="retry After Resize" />
       <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller." />
       <item value="existing mapping for key" />
       <item value="PRESENT" />
@@ -27,16 +32,11 @@
       <item value="initial Capacity" />
       <item value="DEFAULT LOAD FACTOR" />
       <item value="This class provides a skeletal implementation of the Map interface, to minimize the effort required to implement this interface." />
-      <item value="Returns the value to which the specified key is mapped, or * {@code defaultValue} if this map contains no mapping for the key." />
-      <item value="get Or Default" />
-      <item value="he collection is backed by the map, so changes to the map are * reflected in the collection, and vice-versa." />
-      <item value="a collection view of the values contained in this map" />
-      <item value="a view of the portion of this map whose keys are strictly * less than {@code toKey}" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="118" />
+        <entry key="ENGLISH" value="119" />
         <entry key="DANISH" value="1" />
         <entry key="JAPANESE" value="1" />
       </map>
