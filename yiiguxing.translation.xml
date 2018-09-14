@@ -2,43 +2,42 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Queue" />
-      <item value="Attempts to allocate larger arrays may result in * OutOfMemoryError: Requested array size exceeds VM limit" />
-      <item value="capacity Increment" />
-      <item value="Vector" />
-      <item value="retry After Resize" />
-      <item value="Performs the given action for each remaining element until all elements * have been processed or the action throws an exception. Actions are * performed in the order of iteration, if that order is specified. * Exceptions thrown by the action are relayed to the caller." />
-      <item value="existing mapping for key" />
-      <item value="PRESENT" />
-      <item value="dummy" />
-      <item value="distinguishes this * constructor from other int, float constructor" />
-      <item value="preserve order" />
-      <item value="double threshold" />
-      <item value="-1 for 1st" />
-      <item value="evict" />
-      <item value="all other fields defaulted" />
-      <item value="threshold" />
-      <item value="Returns a power of two size for the given target capacity." />
-      <item value="Returns k.compareTo(x) if x matches kc (k's screened comparable" />
-      <item value="type arg is c" />
-      <item value="Returns the Types representing the interfaces directly implemented by the class or interface represented by this object." />
-      <item value="comparable Class For" />
-      <item value="bypass checks" />
-      <item value="Returns x's Class if it is of the form &quot;class C implements * Comparable&lt;C&gt;&quot;, else null." />
-      <item value="The bin count threshold for using a tree rather than list for a * bin. Bins are converted to trees when adding an element to a * bin with at least this many nodes. The value must be greater * than 2 and should be at least 8 to mesh with assumptions in * tree removal about conversion back to plain bins upon * shrinkage." />
-      <item value="TREEIFY THRESHOLD" />
-      <item value="The maximum capacity, used if a higher value is implicitly specified by either of the constructors with arguments. MUST be a power of two &lt;= 1&lt;&lt;30." />
-      <item value="Comparison and hashing" />
-      <item value="initial Capacity" />
-      <item value="DEFAULT LOAD FACTOR" />
-      <item value="This class provides a skeletal implementation of the Map interface, to minimize the effort required to implement this interface." />
+      <item value="BOOKING ORDER" />
+      <item value="BOOKING CHANGE" />
+      <item value="getinvestigate" />
+      <item value="cglib" />
+      <item value="get Truly Property" />
+      <item value="belongobjectlist" />
+      <item value="push Consume Max Count" />
+      <item value="octet-stream" />
+      <item value="r" />
+      <item value="'javax.inject.Inject' annotation found and supported for autowiring" />
+      <item value="is not eligible for getting processed by all BeanPostProcessors" />
+      <item value="Supplier" />
+      <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
+      <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
+      <item value="finer" />
+      <item value="haproxy" />
+      <item value="Running the evict task with compensationTime" />
+      <item value="fanout msg" />
+      <item value="fanout" />
+      <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
+      <item value="FTP Client Wrapper" />
+      <item value="set Enough Candidate Task" />
+      <item value="get Candidate Task" />
+      <item value="last Execute" />
+      <item value="Obtains a connection." />
+      <item value="Indicates whether this connection manager is shut down" />
+      <item value="decre Tickets Map" />
+      <item value="decrement" />
+      <item value="Frame Wrapper" />
+      <item value="Frame Envoloper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
-        <entry key="DANISH" value="1" />
-        <entry key="JAPANESE" value="1" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
+        <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
