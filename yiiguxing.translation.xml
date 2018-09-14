@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="getinvestigate" />
       <item value="cglib" />
       <item value="get Truly Property" />
       <item value="belongobjectlist" />
@@ -31,12 +32,12 @@
       <item value="Frame Envoloper" />
       <item value="Element preceipt of type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport is not defined as field in type com.xuanwu.msggate.sms_kjy_http2gate.core.entity.StateReport" />
       <item value="Person as it does not have a no-args constructor" />
-      <item value="deliver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
+        <entry key="ALBANIAN" value="1" />
       </map>
     </option>
   </component>
