@@ -2,7 +2,19 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Check that since getting the lock this reference hasn't already been // enqueued (and even then removed)" />
+      <item value="enqueue" />
+      <item value="ENQUEUED" />
+      <item value="Reference queues, to which registered reference objects are appended by the * garbage collector after the appropriate reachability changes are detected." />
+      <item value="Constructs a new reference-object queue." />
+      <item value="try Handle Pending" />
+      <item value="Inactive" />
+      <item value="Enqueued" />
+      <item value="pending" />
+      <item value="active" />
+      <item value="Reference queue for cleared WeakEntries" />
       <item value="Expunges stale entries from the table." />
+      <item value="Accessible Context" />
       <item value="expunge Stale Entries" />
       <item value="Abstract Plain Datagram Socket Impl" />
       <item value="Pavani Diwanji" />
@@ -20,23 +32,11 @@
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="Supplier" />
       <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
-      <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
-      <item value="finer" />
-      <item value="haproxy" />
-      <item value="Running the evict task with compensationTime" />
-      <item value="fanout msg" />
-      <item value="fanout" />
-      <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
-      <item value="FTP Client Wrapper" />
-      <item value="set Enough Candidate Task" />
-      <item value="get Candidate Task" />
-      <item value="last Execute" />
-      <item value="Obtains a connection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="ALBANIAN" value="1" />
         <entry key="SUNDANESE" value="3" />
       </map>
