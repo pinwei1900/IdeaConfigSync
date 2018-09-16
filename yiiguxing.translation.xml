@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="adaptive" />
+      <item value="Tim Sort" />
+      <item value="purge" />
+      <item value="Establishes the heap invariant (described above) in the entire tree, * assuming nothing about the order of the elements prior to the call." />
+      <item value="heapify" />
+      <item value="This method functions by &quot;demoting&quot; queue[k] down the hierarchy * (by swapping it with its smaller child) repeatedly until queue[k]'s * nextExecutionTime is less than or equal to those of its children." />
+      <item value="reschedule Min" />
+      <item value="Adds a new task to the priority queue." />
+      <item value="Grow backing store if necessary" />
+      <item value="Queue nonempty; look at first evt and do the right thing" />
+      <item value="Queue is empty and will forever remain; die" />
       <item value="don't make instances" />
       <item value="Check that since getting the lock this reference hasn't already been // enqueued (and even then removed)" />
       <item value="enqueue" />
@@ -21,23 +32,14 @@
       <item value="Pavani Diwanji" />
       <item value="r Pavani Diwanji" />
       <item value="BOOKING ORDER" />
-      <item value="BOOKING CHANGE" />
-      <item value="getinvestigate" />
-      <item value="cglib" />
-      <item value="get Truly Property" />
-      <item value="belongobjectlist" />
-      <item value="push Consume Max Count" />
-      <item value="octet-stream" />
-      <item value="r" />
-      <item value="'javax.inject.Inject' annotation found and supported for autowiring" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="Supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="ALBANIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="LUXEMBOURGISH" value="2" />
         <entry key="SUNDANESE" value="3" />
       </map>
     </option>
