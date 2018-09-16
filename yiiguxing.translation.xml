@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Make sure registerNatives is the first thing &lt;clinit&gt; does" />
+      <item value="The requested stack size for this thread, or 0 if the creator did * not specify a stack size. It is up to the VM to do whatever it * likes with this number; some VMs will ignore it." />
+      <item value="Stash the specified stack size in case the VM cares" />
+      <item value="MODIFY THREADGROUP PERMISSION" />
+      <item value="the desired stack size for the new thread, or zero to indicate * that this parameter is to be ignored." />
       <item value="The stack size * is the approximate number of bytes of address space that the virtual * machine is to allocate for this thread's stack." />
       <item value="Stash the specified stack size in case the VM cares */" />
       <item value="the desired stack size for the new thread, or zero to indicate that this parameter is to be ignored." />
@@ -27,16 +32,11 @@
       <item value="get Raw" />
       <item value="Atomically sets to the given value and returns the previous value." />
       <item value="Unconditionally" />
-      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
-      <item value="Abstract Sequential List" />
-      <item value="adaptive" />
-      <item value="Tim Sort" />
-      <item value="purge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="77" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
