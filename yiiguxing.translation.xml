@@ -2,6 +2,17 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="a Future representing pending completion of the task" />
+      <item value="this task may be taken or polled." />
+      <item value="Upon completion," />
+      <item value="Completion Service" />
+      <item value="decouples" />
+      <item value="the result returned by one of the tasks" />
+      <item value="if all tasks have completed following shut down" />
+      <item value="Acquires the lock unless the current thread is * {@linkplain Thread#interrupt interrupted}." />
+      <item value="lock Interruptibly" />
+      <item value="get Int Volatile" />
+      <item value="get Raw" />
       <item value="Atomically sets to the given value and returns the previous value." />
       <item value="Unconditionally" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
@@ -21,22 +32,11 @@
       <item value="Check that since getting the lock this reference hasn't already been // enqueued (and even then removed)" />
       <item value="enqueue" />
       <item value="ENQUEUED" />
-      <item value="Reference queues, to which registered reference objects are appended by the * garbage collector after the appropriate reachability changes are detected." />
-      <item value="Constructs a new reference-object queue." />
-      <item value="try Handle Pending" />
-      <item value="Inactive" />
-      <item value="Enqueued" />
-      <item value="pending" />
-      <item value="active" />
-      <item value="Reference queue for cleared WeakEntries" />
-      <item value="Expunges stale entries from the table." />
-      <item value="Accessible Context" />
-      <item value="expunge Stale Entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
