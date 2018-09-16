@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="setup to use Unsafe.compareAndSwapInt for updates" />
+      <item value="Abstract Sequential List" />
       <item value="adaptive" />
       <item value="Tim Sort" />
       <item value="purge" />
@@ -30,13 +32,11 @@
       <item value="expunge Stale Entries" />
       <item value="Abstract Plain Datagram Socket Impl" />
       <item value="Pavani Diwanji" />
-      <item value="r Pavani Diwanji" />
-      <item value="BOOKING ORDER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
