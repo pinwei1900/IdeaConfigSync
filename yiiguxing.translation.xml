@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="don't make instances" />
       <item value="Check that since getting the lock this reference hasn't already been // enqueued (and even then removed)" />
       <item value="enqueue" />
       <item value="ENQUEUED" />
@@ -31,12 +32,11 @@
       <item value="'javax.inject.Inject' annotation found and supported for autowiring" />
       <item value="is not eligible for getting processed by all BeanPostProcessors" />
       <item value="Supplier" />
-      <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="ALBANIAN" value="1" />
         <entry key="SUNDANESE" value="3" />
       </map>
