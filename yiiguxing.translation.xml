@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Access Control Context" />
+      <item value="the AccessControlContext to inherit, or * AccessController.getContext() if null" />
+      <item value="For autonumbering anonymous threads" />
       <item value="Make sure registerNatives is the first thing &lt;clinit&gt; does" />
       <item value="The requested stack size for this thread, or 0 if the creator did * not specify a stack size. It is up to the VM to do whatever it * likes with this number; some VMs will ignore it." />
       <item value="Stash the specified stack size in case the VM cares" />
@@ -29,14 +32,11 @@
       <item value="Acquires the lock unless the current thread is * {@linkplain Thread#interrupt interrupted}." />
       <item value="lock Interruptibly" />
       <item value="get Int Volatile" />
-      <item value="get Raw" />
-      <item value="Atomically sets to the given value and returns the previous value." />
-      <item value="Unconditionally" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="77" />
+        <entry key="CHINESE" value="80" />
+        <entry key="ENGLISH" value="81" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
