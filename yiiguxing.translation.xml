@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Provides an easy way to collect diagnostics in a list." />
+      <item value="Recursive Task" />
+      <item value="Double Adder" />
       <item value="dying worker" />
       <item value="Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers." />
       <item value="completed Abruptly" />
@@ -29,14 +32,11 @@
       <item value="the AccessControlContext to inherit, or * AccessController.getContext() if null" />
       <item value="For autonumbering anonymous threads" />
       <item value="Make sure registerNatives is the first thing &lt;clinit&gt; does" />
-      <item value="The requested stack size for this thread, or 0 if the creator did * not specify a stack size. It is up to the VM to do whatever it * likes with this number; some VMs will ignore it." />
-      <item value="Stash the specified stack size in case the VM cares" />
-      <item value="MODIFY THREADGROUP PERMISSION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="104" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
