@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Atomically sets to the given value and returns the previous value." />
+      <item value="Unconditionally" />
       <item value="setup to use Unsafe.compareAndSwapInt for updates" />
       <item value="Abstract Sequential List" />
       <item value="adaptive" />
@@ -30,13 +32,11 @@
       <item value="Expunges stale entries from the table." />
       <item value="Accessible Context" />
       <item value="expunge Stale Entries" />
-      <item value="Abstract Plain Datagram Socket Impl" />
-      <item value="Pavani Diwanji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
