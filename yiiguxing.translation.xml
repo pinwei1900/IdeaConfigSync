@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="the main mechanics of invokeAny." />
       <item value="a Future representing pending completion of the task" />
       <item value="this task may be taken or polled." />
       <item value="Upon completion," />
@@ -31,12 +32,11 @@
       <item value="don't make instances" />
       <item value="Check that since getting the lock this reference hasn't already been // enqueued (and even then removed)" />
       <item value="enqueue" />
-      <item value="ENQUEUED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
