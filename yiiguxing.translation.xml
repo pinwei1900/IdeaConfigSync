@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="drop buffer contents" />
+      <item value="the maximum limit of bytes that can be read before * the mark position becomes invalid." />
+      <item value="The maximum read ahead allowed after a call to the mark method before subsequent calls to the reset method fail. Whenever the difference between pos and markpos exceeds marklimit, then the mark may be dropped by setting markpos to -1." />
+      <item value="can throw away early part of the buffer" />
       <item value="estimate" />
       <item value="The index one greater than the index of the last valid byte in the buffer. This value is always in the range 0 through buf.length;" />
       <item value="internal" />
@@ -28,15 +32,11 @@
       <item value="Attempts to CAS-increment the workerCount field of ctl." />
       <item value="saturated" />
       <item value="Executes the given task sometime in the future. The task may execute in a new thread or in an existing pooled thread. If the task cannot be submitted for execution, either because this executor has been shutdown or because its capacity has been reached, the task is handled by the current RejectedExecutionHandler." />
-      <item value="If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none." />
-      <item value="If fewer than corePoolSize threads are running, try to * start a new thread with the given command as its first * task. The call to addWorker atomically checks runState and * workerCount, and so prevents false alarms that would add * threads when it shouldn't, by returning false." />
-      <item value="The default rejected execution handler" />
-      <item value="the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
