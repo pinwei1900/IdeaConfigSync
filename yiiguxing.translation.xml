@@ -2,42 +2,45 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Annotation that marks a method as a candidate for asynchronous execution. Can also be used at the type level, in which case all of the type's methods are considered as asynchronous." />
-      <item value="BOOKING ORDER" />
-      <item value="BOOKING CHANGE" />
-      <item value="getinvestigate" />
-      <item value="cglib" />
-      <item value="get Truly Property" />
-      <item value="belongobjectlist" />
-      <item value="push Consume Max Count" />
-      <item value="octet-stream" />
-      <item value="r" />
-      <item value="'javax.inject.Inject' annotation found and supported for autowiring" />
-      <item value="is not eligible for getting processed by all BeanPostProcessors" />
-      <item value="Supplier" />
-      <item value="Determines the date and time based on the arguments. The * arguments are interpreted as a year, month, day of the month, * hour of the day, minute within the hour, and second within the * minute, exactly as for the &lt;tt&gt;Date&lt;/tt&gt; constructor with six * arguments, except that the arguments are interpreted relative * to UTC rather than to the local time zone. The time indicated is * returned represented as the distance, measured in milliseconds, * of that time from the epoch (00:00:00 GMT on January 1, 1970)." />
-      <item value="If cdate is null, then fastTime indicates the time in millis. * If cdate.isNormalized() is true, then fastTime and cdate are in * synch. Otherwise, fastTime is ignored, and cdate indicates the * time." />
-      <item value="finer" />
-      <item value="haproxy" />
-      <item value="Running the evict task with compensationTime" />
-      <item value="fanout msg" />
-      <item value="fanout" />
-      <item value="Execute an insert statement with the given parameter object. Any generated autoincrement values or selectKey entries will modify the given parameter object properties. Only the number of rows affected will be returned." />
-      <item value="FTP Client Wrapper" />
-      <item value="set Enough Candidate Task" />
-      <item value="get Candidate Task" />
-      <item value="last Execute" />
-      <item value="Obtains a connection." />
-      <item value="Indicates whether this connection manager is shut down" />
-      <item value="decre Tickets Map" />
-      <item value="decrement" />
-      <item value="Frame Wrapper" />
+      <item value="Provides an easy way to collect diagnostics in a list." />
+      <item value="Recursive Task" />
+      <item value="Double Adder" />
+      <item value="dying worker" />
+      <item value="Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers." />
+      <item value="completed Abruptly" />
+      <item value="Eligible to terminate" />
+      <item value="Common form of interruptIdleWorkers, to avoid having to * remember what the boolean argument means." />
+      <item value="interrupt Idle Workers" />
+      <item value="ONLY ONE" />
+      <item value="TERMINATED" />
+      <item value="TIDYING" />
+      <item value="Recheck while holding lock." />
+      <item value="Main worker run loop. Repeatedly gets tasks from queue and * executes them, while coping with a number of issues:" />
+      <item value="Performs blocking or timed wait for a task, depending on * current configuration settings, or returns null if this worker" />
+      <item value="Attempts to CAS-increment the workerCount field of ctl." />
+      <item value="saturated" />
+      <item value="Executes the given task sometime in the future. The task may execute in a new thread or in an existing pooled thread. If the task cannot be submitted for execution, either because this executor has been shutdown or because its capacity has been reached, the task is handled by the current RejectedExecutionHandler." />
+      <item value="If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none." />
+      <item value="If fewer than corePoolSize threads are running, try to * start a new thread with the given command as its first * task. The call to addWorker atomically checks runState and * workerCount, and so prevents false alarms that would add * threads when it shouldn't, by returning false." />
+      <item value="The default rejected execution handler" />
+      <item value="the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
+      <item value="the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method." />
+      <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
+      <item value="the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
+      <item value="FutureTask extension to enqueue upon completion" />
+      <item value="Access Control Context" />
+      <item value="the AccessControlContext to inherit, or * AccessController.getContext() if null" />
+      <item value="For autonumbering anonymous threads" />
+      <item value="Make sure registerNatives is the first thing &lt;clinit&gt; does" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="ALBANIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="LUXEMBOURGISH" value="2" />
+        <entry key="SUNDANESE" value="3" />
       </map>
     </option>
   </component>
