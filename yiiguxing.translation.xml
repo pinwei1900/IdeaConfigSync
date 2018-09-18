@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="CHECKED" />
+      <item value="The class implements a buffered output stream. By setting up such * an output stream, an application can write bytes to the underlying * output stream without necessarily causing a call to the underlying * system for each byte written." />
+      <item value="necessarily" />
       <item value="Filter Input Stream" />
       <item value="Reads bytes from this byte-input stream into the specified byte array, * starting at the given offset." />
       <item value="drop buffer contents" />
@@ -29,14 +32,11 @@
       <item value="TERMINATED" />
       <item value="TIDYING" />
       <item value="Recheck while holding lock." />
-      <item value="Main worker run loop. Repeatedly gets tasks from queue and * executes them, while coping with a number of issues:" />
-      <item value="Performs blocking or timed wait for a task, depending on * current configuration settings, or returns null if this worker" />
-      <item value="Attempts to CAS-increment the workerCount field of ctl." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="119" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
