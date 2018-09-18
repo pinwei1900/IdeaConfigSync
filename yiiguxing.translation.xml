@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="do Export Change Status Detail" />
+      <item value="do Export Change Status Audit" />
       <item value="Persistence Exception" />
       <item value="repertory Id" />
       <item value="Provides an easy way to collect diagnostics in a list." />
@@ -30,13 +32,11 @@
       <item value="when the number of threads is greater than * the core, this is the maximum time that excess idle threads * will wait for new tasks before terminating." />
       <item value="the number of threads to keep in the pool, even * if they are idle, unless {@code allowCoreThreadTimeOut} is set" />
       <item value="FutureTask extension to enqueue upon completion" />
-      <item value="Access Control Context" />
-      <item value="the AccessControlContext to inherit, or * AccessController.getContext() if null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
