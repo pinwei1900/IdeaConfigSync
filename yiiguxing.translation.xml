@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="set Impl" />
       <item value="CHECKED" />
       <item value="The class implements a buffered output stream. By setting up such * an output stream, an application can write bytes to the underlying * output stream without necessarily causing a call to the underlying * system for each byte written." />
       <item value="necessarily" />
@@ -31,12 +32,11 @@
       <item value="ONLY ONE" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
-      <item value="Recheck while holding lock." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="124" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
