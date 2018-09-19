@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The consumer group[iot_file_dev_comsumer_group] has been created before, specify another name please." />
       <item value="The supplied file was empty" />
       <item value="operat Memo" />
       <item value="Address is invalid on local machine, or port is not valid on remote machine" />
@@ -31,12 +32,11 @@
       <item value="If fewer than corePoolSize threads are running, try to * start a new thread with the given command as its first * task. The call to addWorker atomically checks runState and * workerCount, and so prevents false alarms that would add * threads when it shouldn't, by returning false." />
       <item value="The default rejected execution handler" />
       <item value="the handler to use when execution is blocked * because the thread bounds and queue capacities are reached" />
-      <item value="the queue to use for holding tasks before they are * executed. This queue will hold only the {@code Runnable} * tasks submitted by the {@code execute} method." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="113" />
+        <entry key="CHINESE" value="113" />
+        <entry key="ENGLISH" value="114" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
