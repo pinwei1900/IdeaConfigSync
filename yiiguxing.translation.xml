@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="true if the ServerSocket successfully bound to an address" />
+      <item value="Returns the binding state of the ServerSocket." />
       <item value="expiration" />
       <item value="Inet Address" />
       <item value="Socket Address" />
@@ -30,13 +32,11 @@
       <item value="Windows Preferences" />
       <item value="This class is used to restrict the usage of the Kerberos * delegation model, ie: forwardable and proxiable tickets." />
       <item value="enlisted" />
-      <item value="An object that provides support for distributed * transactions." />
-      <item value="An object that provides support for distributed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
