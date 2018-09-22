@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns the pseudo-randomly initialized or updated secondary seed. * Copied from ThreadLocalRandom due to package access restrictions. */" />
+      <item value="next Secondary Seed" />
       <item value="Block while not first in queue or cannot acquire lock" />
       <item value="true if the ServerSocket successfully bound to an address" />
       <item value="Returns the binding state of the ServerSocket." />
@@ -30,13 +32,11 @@
       <item value="estimate" />
       <item value="The index one greater than the index of the last valid byte in the buffer. This value is always in the range 0 through buf.length;" />
       <item value="internal" />
-      <item value="Windows Preferences" />
-      <item value="This class is used to restrict the usage of the Kerberos * delegation model, ie: forwardable and proxiable tickets." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
