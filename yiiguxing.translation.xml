@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Subclasses can override this for custom initialization behavior. Gets called by setApplicationContext after setting the context instance." />
+      <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup." />
       <item value="Validate Configuration" />
       <item value="内存紧张可以改用spring提供的Concurrent Reference Hash Map" />
       <item value="global Thread Map" />
@@ -30,12 +32,10 @@
       <item value="repertory Id" />
       <item value="Provides an easy way to collect diagnostics in a list." />
       <item value="Recursive Task" />
-      <item value="Double Adder" />
-      <item value="dying worker" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
+        <entry key="CHINESE" value="133" />
         <entry key="ENGLISH" value="133" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
