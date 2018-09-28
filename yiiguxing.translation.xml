@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Cache implementation on top of Redis." />
       <item value="the main mechanics of invokeAny." />
       <item value="* Returns {@code true} if all tasks have completed following shut down. * Note that {@code isTerminated} is never {@code true} unless * either {@code shutdown} or {@code shutdownNow} was called first." />
       <item value="Attempts to stop all actively executing tasks, halts the * processing of waiting tasks, and returns a list of the tasks * that were awaiting execution." />
@@ -31,12 +32,11 @@
       <item value="ONLY ONE" />
       <item value="TERMINATED" />
       <item value="TIDYING" />
-      <item value="Recheck while holding lock." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
