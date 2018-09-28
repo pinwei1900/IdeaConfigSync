@@ -2,46 +2,46 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Returns the pseudo-randomly initialized or updated secondary seed. * Copied from ThreadLocalRandom due to package access restrictions. */" />
-      <item value="next Secondary Seed" />
-      <item value="Block while not first in queue or cannot acquire lock" />
-      <item value="true if the ServerSocket successfully bound to an address" />
-      <item value="Returns the binding state of the ServerSocket." />
-      <item value="expiration" />
-      <item value="Inet Address" />
-      <item value="Socket Address" />
-      <item value="Private implementation class pointed to by all public methods." />
-      <item value="Inet Socket Address Holder" />
-      <item value="Instances of the file descriptor class serve as an opaque handle * to the underlying machine-specific structure representing an * open file, an open socket, or another source or sink of bytes." />
-      <item value="opaque" />
-      <item value="Returns the value of this socket's {@code fd} field." />
-      <item value="indication" />
-      <item value="REUSEADDR" />
-      <item value="Valid for TCP only: SocketImpl." />
-      <item value="Disable Nagle's algorithm for this connection." />
-      <item value="set Impl" />
-      <item value="CHECKED" />
-      <item value="The class implements a buffered output stream. By setting up such * an output stream, an application can write bytes to the underlying * output stream without necessarily causing a call to the underlying * system for each byte written." />
-      <item value="necessarily" />
-      <item value="Filter Input Stream" />
-      <item value="Reads bytes from this byte-input stream into the specified byte array, * starting at the given offset." />
-      <item value="drop buffer contents" />
-      <item value="the maximum limit of bytes that can be read before * the mark position becomes invalid." />
-      <item value="The maximum read ahead allowed after a call to the mark method before subsequent calls to the reset method fail. Whenever the difference between pos and markpos exceeds marklimit, then the mark may be dropped by setting markpos to -1." />
-      <item value="can throw away early part of the buffer" />
-      <item value="estimate" />
-      <item value="The index one greater than the index of the last valid byte in the buffer. This value is always in the range 0 through buf.length;" />
-      <item value="internal" />
+      <item value="Count Package Order" />
+      <item value="Task Token Service" />
+      <item value="EXPORT AUDIT CARD CHANGESTATUS" />
+      <item value="The consumer group[iot_file_dev_comsumer_group] has been created before, specify another name please." />
+      <item value="The supplied file was empty" />
+      <item value="operat Memo" />
+      <item value="Address is invalid on local machine, or port is not valid on remote machine" />
+      <item value="do Export Change Status Detail" />
+      <item value="do Export Change Status Audit" />
+      <item value="Persistence Exception" />
+      <item value="repertory Id" />
+      <item value="Provides an easy way to collect diagnostics in a list." />
+      <item value="Recursive Task" />
+      <item value="Double Adder" />
+      <item value="dying worker" />
+      <item value="Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers." />
+      <item value="completed Abruptly" />
+      <item value="Eligible to terminate" />
+      <item value="Common form of interruptIdleWorkers, to avoid having to * remember what the boolean argument means." />
+      <item value="interrupt Idle Workers" />
+      <item value="ONLY ONE" />
+      <item value="TERMINATED" />
+      <item value="TIDYING" />
+      <item value="Recheck while holding lock." />
+      <item value="Main worker run loop. Repeatedly gets tasks from queue and * executes them, while coping with a number of issues:" />
+      <item value="Performs blocking or timed wait for a task, depending on * current configuration settings, or returns null if this worker" />
+      <item value="Attempts to CAS-increment the workerCount field of ctl." />
+      <item value="saturated" />
+      <item value="Executes the given task sometime in the future. The task may execute in a new thread or in an existing pooled thread. If the task cannot be submitted for execution, either because this executor has been shutdown or because its capacity has been reached, the task is handled by the current RejectedExecutionHandler." />
+      <item value="If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="140" />
-        <entry key="ENGLISH" value="141" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
-        <entry key="ROMANIAN" value="1" />
         <entry key="SUNDANESE" value="3" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
