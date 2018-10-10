@@ -2,43 +2,43 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Count Package Order" />
-      <item value="Task Token Service" />
-      <item value="EXPORT AUDIT CARD CHANGESTATUS" />
-      <item value="The consumer group[iot_file_dev_comsumer_group] has been created before, specify another name please." />
-      <item value="The supplied file was empty" />
-      <item value="operat Memo" />
-      <item value="Address is invalid on local machine, or port is not valid on remote machine" />
-      <item value="do Export Change Status Detail" />
-      <item value="do Export Change Status Audit" />
-      <item value="Persistence Exception" />
-      <item value="repertory Id" />
-      <item value="Provides an easy way to collect diagnostics in a list." />
-      <item value="Recursive Task" />
-      <item value="Double Adder" />
-      <item value="dying worker" />
-      <item value="Performs cleanup and bookkeeping for a dying worker. Called * only from worker threads. Unless completedAbruptly is set, * assumes that workerCount has already been adjusted to account * for exit. This method removes thread from worker set, and * possibly terminates the pool or replaces the worker if either * it exited due to user task exception or if fewer than * corePoolSize workers are running or queue is non-empty but * there are no workers." />
-      <item value="completed Abruptly" />
-      <item value="Eligible to terminate" />
-      <item value="Common form of interruptIdleWorkers, to avoid having to * remember what the boolean argument means." />
-      <item value="interrupt Idle Workers" />
-      <item value="ONLY ONE" />
-      <item value="TERMINATED" />
-      <item value="TIDYING" />
-      <item value="Recheck while holding lock." />
-      <item value="Main worker run loop. Repeatedly gets tasks from queue and * executes them, while coping with a number of issues:" />
-      <item value="Performs blocking or timed wait for a task, depending on * current configuration settings, or returns null if this worker" />
-      <item value="Attempts to CAS-increment the workerCount field of ctl." />
-      <item value="saturated" />
-      <item value="Executes the given task sometime in the future. The task may execute in a new thread or in an existing pooled thread. If the task cannot be submitted for execution, either because this executor has been shutdown or because its capacity has been reached, the task is handled by the current RejectedExecutionHandler." />
-      <item value="If a task can be successfully queued, then we still need * to double-check whether we should have added a thread * (because existing ones died since last checking) or that * the pool shut down since entry into this method. So we * recheck state and if necessary roll back the enqueuing if * stopped, or start a new thread if there are none." />
+      <item value="Successive activations of this method examine objects in sequence, * cycling through objects in oldest-to-youngest order." />
+      <item value="oname" />
+      <item value="Eviction Policy" />
+      <item value="This method is invoked only by Java code; when the garbage collector clears references it does so directly, without invoking this method." />
+      <item value="Timestamp clock, updated by the garbage collector" />
+      <item value="Timestamp updated by each invocation of the get method. The VM may use * this field when selecting soft references to be cleared, but it is not * required to do so." />
+      <item value="If this reference object has * been cleared, either by the program or by the garbage collector, then * this method returns &lt;code&gt;null&lt;/code&gt;." />
+      <item value="Allocates the object." />
+      <item value="Do not register with the queue" />
+      <item value="Count of instances that have been checkout out to pool clients" />
+      <item value="Total number of instances that have been destroyed" />
+      <item value="Soft Reference Object Pool" />
+      <item value="clear strong reference" />
+      <item value="Removes the next reference object in this queue, blocking until one becomes available." />
+      <item value="enqueue" />
+      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected. Since: 1.2" />
+      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected.&#10;Since:&#10;1.2" />
+      <item value="Queue of broken references that might be able to be removed from * &lt;code&gt;_pool&lt;/code&gt;. This is used to help {@link #getNumIdle()} be more * accurate with minimal performance overhead." />
+      <item value="Not supported in this base implementation." />
+      <item value="This may be * considered an approximation of the number of objects that can be * {@link #borrowObject borrowed} without creating any new instances." />
+      <item value="Return the number of instances currently idle in this pool." />
+      <item value="get Num Idle" />
+      <item value="borrow Object" />
+      <item value="do nothing by default, needed for b/w compatibility." />
+      <item value="Abandoned Config" />
+      <item value="Configuration settings for abandoned object removal." />
+      <item value="LUCENE" />
+      <item value="fully Populated Subject" />
+      <item value="* Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with." />
+      <item value="Invocation Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="ALBANIAN" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
