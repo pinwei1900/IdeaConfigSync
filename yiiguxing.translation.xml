@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="fully Populated Subject" />
+      <item value="* Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with." />
+      <item value="Invocation Handler" />
+      <item value="Logging proxies that logs any JDBC statement." />
+      <item value="Base class for proxies to do logging" />
+      <item value="Jakarta Commons Logging Impl" />
       <item value="Druid DataSource" />
       <item value="Druid" />
       <item value="Mapped Statements collection does not contain value for com.xuanwu.iot.mapper.IotAccountMapMapper.getById" />
@@ -26,19 +32,13 @@
       <item value="candidates" />
       <item value="get Associate Account" />
       <item value="Count Package Order" />
-      <item value="Task Token Service" />
-      <item value="EXPORT AUDIT CARD CHANGESTATUS" />
-      <item value="The consumer group[iot_file_dev_comsumer_group] has been created before, specify another name please." />
-      <item value="The supplied file was empty" />
-      <item value="operat Memo" />
-      <item value="Address is invalid on local machine, or port is not valid on remote machine" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="ALBANIAN" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
