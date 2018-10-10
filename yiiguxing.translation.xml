@@ -2,6 +2,20 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="clear strong reference" />
+      <item value="Removes the next reference object in this queue, blocking until one becomes available." />
+      <item value="enqueue" />
+      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected. Since: 1.2" />
+      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected.&#10;Since:&#10;1.2" />
+      <item value="Queue of broken references that might be able to be removed from * &lt;code&gt;_pool&lt;/code&gt;. This is used to help {@link #getNumIdle()} be more * accurate with minimal performance overhead." />
+      <item value="Not supported in this base implementation." />
+      <item value="This may be * considered an approximation of the number of objects that can be * {@link #borrowObject borrowed} without creating any new instances." />
+      <item value="Return the number of instances currently idle in this pool." />
+      <item value="get Num Idle" />
+      <item value="borrow Object" />
+      <item value="do nothing by default, needed for b/w compatibility." />
+      <item value="Abandoned Config" />
+      <item value="Configuration settings for abandoned object removal." />
       <item value="LUCENE" />
       <item value="fully Populated Subject" />
       <item value="* Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with." />
@@ -18,25 +32,11 @@
       <item value="Subclasses can override this for custom initialization behavior. Gets called by setApplicationContext after setting the context instance." />
       <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup." />
       <item value="Validate Configuration" />
-      <item value="内存紧张可以改用spring提供的Concurrent Reference Hash Map" />
-      <item value="global Thread Map" />
-      <item value="file Handling Task" />
-      <item value="wait For Delete Concurrent Linked Queue" />
-      <item value=". If queue apparently contains waiting items, and this * call is of complementary mode, try to fulfill by CAS'ing * item field of waiting node and dequeuing it, and then * returning matching item. *" />
-      <item value="If queue apparently empty or holding same-mode nodes, * try to add node to queue of waiters, wait to be * fulfilled (or cancelled) and return matching item." />
-      <item value="is Custom File Properties" />
-      <item value="Cache implementation on top of Redis." />
-      <item value="the main mechanics of invokeAny." />
-      <item value="* Returns {@code true} if all tasks have completed following shut down. * Note that {@code isTerminated} is never {@code true} unless * either {@code shutdown} or {@code shutdownNow} was called first." />
-      <item value="Attempts to stop all actively executing tasks, halts the * processing of waiting tasks, and returns a list of the tasks * that were awaiting execution." />
-      <item value="Invocation has no additional effect if already shut down." />
-      <item value="candidates" />
-      <item value="get Associate Account" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="152" />
+        <entry key="ENGLISH" value="153" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
