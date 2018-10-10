@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This method is invoked only by Java code; when the garbage collector clears references it does so directly, without invoking this method." />
+      <item value="Timestamp clock, updated by the garbage collector" />
+      <item value="Timestamp updated by each invocation of the get method. The VM may use * this field when selecting soft references to be cleared, but it is not * required to do so." />
+      <item value="If this reference object has * been cleared, either by the program or by the garbage collector, then * this method returns &lt;code&gt;null&lt;/code&gt;." />
+      <item value="Allocates the object." />
       <item value="Do not register with the queue" />
       <item value="Count of instances that have been checkout out to pool clients" />
       <item value="Total number of instances that have been destroyed" />
@@ -27,16 +32,11 @@
       <item value="Logging proxies that logs any JDBC statement." />
       <item value="Base class for proxies to do logging" />
       <item value="Jakarta Commons Logging Impl" />
-      <item value="Druid DataSource" />
-      <item value="Druid" />
-      <item value="Mapped Statements collection does not contain value for com.xuanwu.iot.mapper.IotAccountMapMapper.getById" />
-      <item value="filterOrder() must also be defined for a filter. Filters may have the same filterOrder if precedence is not important for a filter. filterOrders do not need to be sequential." />
-      <item value="pre-routing filtering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="162" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
