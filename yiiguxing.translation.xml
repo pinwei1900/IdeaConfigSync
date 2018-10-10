@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Eviction Policy" />
       <item value="This method is invoked only by Java code; when the garbage collector clears references it does so directly, without invoking this method." />
       <item value="Timestamp clock, updated by the garbage collector" />
       <item value="Timestamp updated by each invocation of the get method. The VM may use * this field when selecting soft references to be cleared, but it is not * required to do so." />
@@ -31,12 +32,11 @@
       <item value="Invocation Handler" />
       <item value="Logging proxies that logs any JDBC statement." />
       <item value="Base class for proxies to do logging" />
-      <item value="Jakarta Commons Logging Impl" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="162" />
+        <entry key="ENGLISH" value="163" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
