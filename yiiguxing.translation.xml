@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Do not register with the queue" />
+      <item value="Count of instances that have been checkout out to pool clients" />
+      <item value="Total number of instances that have been destroyed" />
+      <item value="Soft Reference Object Pool" />
       <item value="clear strong reference" />
       <item value="Removes the next reference object in this queue, blocking until one becomes available." />
       <item value="enqueue" />
@@ -28,15 +32,11 @@
       <item value="Mapped Statements collection does not contain value for com.xuanwu.iot.mapper.IotAccountMapMapper.getById" />
       <item value="filterOrder() must also be defined for a filter. Filters may have the same filterOrder if precedence is not important for a filter. filterOrders do not need to be sequential." />
       <item value="pre-routing filtering" />
-      <item value="post-routing filters" />
-      <item value="Subclasses can override this for custom initialization behavior. Gets called by setApplicationContext after setting the context instance." />
-      <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup." />
-      <item value="Validate Configuration" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="152" />
-        <entry key="ENGLISH" value="153" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
