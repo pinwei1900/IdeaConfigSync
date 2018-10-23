@@ -15,6 +15,11 @@
       <file name="F:/project/ams-3.1.2/ams-sdk/src/main/java/com/xuanwu/ams/sdk/reporter/DynamicReportor.java" timestamp="1508221570591">
         <mark key="[" line="134" column="74" />
       </file>
+      <file name="F:/svn/jxprd/branches/IOT_1.0.0.1/web-module/src/scripts/services/custom-field-service.js" timestamp="1540288821732">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="38" column="70" />
+      </file>
       <file name="/a.dummy" timestamp="1509325386189">
         <mark key="[" line="0" column="0" />
       </file>
@@ -766,7 +771,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -778,7 +783,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmFwcElkID0gYXBwSWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -793,16 +798,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAkkc2NvcGUubWFzdGVyID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCV07Cg==</text>
+        <text encoding="base64">ICAgICAgICBFdmVudExvb3BHcm91cCB3b3JrZXJHcm91cCA9IG5ldyBOaW9FdmVudExvb3BHcm91cCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAkgICAJCQl7dGl0bGU6IrWxx7DXtMysIn0K</text>
+        <text encoding="base64">ICAgIAkkc2NvcGUubWFzdGVyID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>231</text>
