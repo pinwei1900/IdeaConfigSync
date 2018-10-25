@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Modern Java RPC stack using Jetty+Jersey+Jackson+MessagePack" />
       <item value="left" />
       <item value="Successive activations of this method examine objects in sequence, * cycling through objects in oldest-to-youngest order." />
       <item value="oname" />
@@ -31,12 +32,11 @@
       <item value="Configuration settings for abandoned object removal." />
       <item value="LUCENE" />
       <item value="fully Populated Subject" />
-      <item value="* Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
