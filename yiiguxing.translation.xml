@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="find User With Map Enricher Channel" />
+      <item value="find User By Username Enricher Channel" />
+      <item value="find User Enricher Channel" />
+      <item value="from which messages may be actively received through polling." />
       <item value=": Expression to be evaluated to produce a value for the header." />
       <item value="Consolidated Results Exception" />
       <item value="Aggregate the results and send the result to the barrier release channel" />
@@ -28,15 +32,11 @@
       <item value="Total number of instances that have been destroyed" />
       <item value="Soft Reference Object Pool" />
       <item value="clear strong reference" />
-      <item value="Removes the next reference object in this queue, blocking until one becomes available." />
-      <item value="enqueue" />
-      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected. Since: 1.2" />
-      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected.&#10;Since:&#10;1.2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="175" />
+        <entry key="ENGLISH" value="176" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
