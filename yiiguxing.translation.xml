@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="payload" />
+      <item value="Create a new message with the given payload." />
+      <item value="Generic Message" />
       <item value="Defines a Polling Channel Adapter for the" />
       <item value="Load the Spring Integration Application Context" />
       <item value="Indicates that the named compiler warnings should be suppressed in the annotated element (and in all program elements contained in the annotated element). Note that the set of warnings suppressed in a given element is a superset of the warnings suppressed in all containing elements. For example, if you annotate a class to suppress one warning and annotate a method to suppress another, both warnings will be suppressed in the method. As a matter of style, programmers should always use this annotation on the most deeply nested element where it is effective. If you want to suppress a warning in a particular method, you should annotate that method rather than its class." />
@@ -29,14 +32,11 @@
       <item value="Queue of broken references that might be able to be removed from * &lt;code&gt;_pool&lt;/code&gt;. This is used to help {@link #getNumIdle()} be more * accurate with minimal performance overhead." />
       <item value="Not supported in this base implementation." />
       <item value="This may be * considered an approximation of the number of objects that can be * {@link #borrowObject borrowed} without creating any new instances." />
-      <item value="Return the number of instances currently idle in this pool." />
-      <item value="get Num Idle" />
-      <item value="borrow Object" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="169" />
+        <entry key="ENGLISH" value="170" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
