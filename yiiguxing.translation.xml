@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="filter" />
       <item value="there are no next card verify status&quot;" />
       <item value="Defines methods for sending messages." />
       <item value="find User With Map Enricher Channel" />
@@ -31,12 +32,11 @@
       <item value="Allocates the object." />
       <item value="Do not register with the queue" />
       <item value="Count of instances that have been checkout out to pool clients" />
-      <item value="Total number of instances that have been destroyed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="177" />
-        <entry key="ENGLISH" value="178" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
