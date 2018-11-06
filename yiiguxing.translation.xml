@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Adds an {@link Cookie HTTP cookie}, replacing any existing equivalent cookies. * If the given cookie has already expired it will not be added, but existing * values will still be removed." />
+      <item value="equivalent" />
+      <item value="A URI is absolute if, and only if, it has a scheme component." />
       <item value="SLAVE 0" />
       <item value="MASTER" />
       <item value="gsms Data Source" />
@@ -29,14 +32,11 @@
       <item value="Successive activations of this method examine objects in sequence, * cycling through objects in oldest-to-youngest order." />
       <item value="oname" />
       <item value="Eviction Policy" />
-      <item value="This method is invoked only by Java code; when the garbage collector clears references it does so directly, without invoking this method." />
-      <item value="Timestamp clock, updated by the garbage collector" />
-      <item value="Timestamp updated by each invocation of the get method. The VM may use * this field when selecting soft references to be cleared, but it is not * required to do so." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="182" />
-        <entry key="ENGLISH" value="183" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
