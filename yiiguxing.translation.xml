@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="is Queueing" />
+      <item value="is Pipelined" />
       <item value="Adds an {@link Cookie HTTP cookie}, replacing any existing equivalent cookies. * If the given cookie has already expired it will not be added, but existing * values will still be removed." />
       <item value="equivalent" />
       <item value="A URI is absolute if, and only if, it has a scheme component." />
@@ -30,13 +32,11 @@
       <item value="Modern Java RPC stack using Jetty+Jersey+Jackson+MessagePack" />
       <item value="left" />
       <item value="Successive activations of this method examine objects in sequence, * cycling through objects in oldest-to-youngest order." />
-      <item value="oname" />
-      <item value="Eviction Policy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
