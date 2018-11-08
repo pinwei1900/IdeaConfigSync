@@ -4,10 +4,11 @@
     <extensionMap>
       <mapping ext="html" type="HTML" />
       <mapping ext="db" type="Native" />
-      <mapping pattern="doc文档" type="PLAIN_TEXT" />
-      <mapping pattern="applyGetcardAdd.html" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern="doc" type="PLAIN_TEXT" />
+      <mapping pattern="doc文档" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="applyGetcardAdd.html" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="xcf" type="PLAIN_TEXT" />
       <mapping ext="mdmp" type="PLAIN_TEXT" />

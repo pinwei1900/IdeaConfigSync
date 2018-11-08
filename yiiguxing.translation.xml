@@ -2,41 +2,41 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="is Queueing" />
+      <item value="is Pipelined" />
+      <item value="Adds an {@link Cookie HTTP cookie}, replacing any existing equivalent cookies. * If the given cookie has already expired it will not be added, but existing * values will still be removed." />
+      <item value="equivalent" />
+      <item value="A URI is absolute if, and only if, it has a scheme component." />
+      <item value="SLAVE 0" />
+      <item value="MASTER" />
+      <item value="gsms Data Source" />
+      <item value="gsms Slave Data Source" />
+      <item value="filter" />
+      <item value="there are no next card verify status&quot;" />
+      <item value="Defines methods for sending messages." />
+      <item value="find User With Map Enricher Channel" />
+      <item value="find User By Username Enricher Channel" />
+      <item value="find User Enricher Channel" />
+      <item value="from which messages may be actively received through polling." />
+      <item value=": Expression to be evaluated to produce a value for the header." />
+      <item value="Consolidated Results Exception" />
+      <item value="Aggregate the results and send the result to the barrier release channel" />
+      <item value="payload" />
+      <item value="Create a new message with the given payload." />
+      <item value="Generic Message" />
+      <item value="Defines a Polling Channel Adapter for the" />
+      <item value="Load the Spring Integration Application Context" />
+      <item value="Indicates that the named compiler warnings should be suppressed in the annotated element (and in all program elements contained in the annotated element). Note that the set of warnings suppressed in a given element is a superset of the warnings suppressed in all containing elements. For example, if you annotate a class to suppress one warning and annotate a method to suppress another, both warnings will be suppressed in the method. As a matter of style, programmers should always use this annotation on the most deeply nested element where it is effective. If you want to suppress a warning in a particular method, you should annotate that method rather than its class." />
+      <item value="Indicates that the named compiler warnings should be suppressed in the annotated element (and in all program elements contained in the annotated element). Note that the set of warnings suppressed in a given element is a superset of the warnings suppressed in all containing elements. For example, if you annotate a class to suppress one warning and annotate a method to suppress another, both warnings will be suppressed in the method.&#10;As a matter of style, programmers should always use this annotation on the most deeply nested element where it is effective. If you want to suppress a warning in a particular method, you should annotate that method rather than its class." />
+      <item value="drain To" />
+      <item value="Modern Java RPC stack using Jetty+Jersey+Jackson+MessagePack" />
       <item value="left" />
       <item value="Successive activations of this method examine objects in sequence, * cycling through objects in oldest-to-youngest order." />
-      <item value="oname" />
-      <item value="Eviction Policy" />
-      <item value="This method is invoked only by Java code; when the garbage collector clears references it does so directly, without invoking this method." />
-      <item value="Timestamp clock, updated by the garbage collector" />
-      <item value="Timestamp updated by each invocation of the get method. The VM may use * this field when selecting soft references to be cleared, but it is not * required to do so." />
-      <item value="If this reference object has * been cleared, either by the program or by the garbage collector, then * this method returns &lt;code&gt;null&lt;/code&gt;." />
-      <item value="Allocates the object." />
-      <item value="Do not register with the queue" />
-      <item value="Count of instances that have been checkout out to pool clients" />
-      <item value="Total number of instances that have been destroyed" />
-      <item value="Soft Reference Object Pool" />
-      <item value="clear strong reference" />
-      <item value="Removes the next reference object in this queue, blocking until one becomes available." />
-      <item value="enqueue" />
-      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected. Since: 1.2" />
-      <item value="Reference queues, to which registered reference objects are appended by the garbage collector after the appropriate reachability changes are detected.&#10;Since:&#10;1.2" />
-      <item value="Queue of broken references that might be able to be removed from * &lt;code&gt;_pool&lt;/code&gt;. This is used to help {@link #getNumIdle()} be more * accurate with minimal performance overhead." />
-      <item value="Not supported in this base implementation." />
-      <item value="This may be * considered an approximation of the number of objects that can be * {@link #borrowObject borrowed} without creating any new instances." />
-      <item value="Return the number of instances currently idle in this pool." />
-      <item value="get Num Idle" />
-      <item value="borrow Object" />
-      <item value="do nothing by default, needed for b/w compatibility." />
-      <item value="Abandoned Config" />
-      <item value="Configuration settings for abandoned object removal." />
-      <item value="LUCENE" />
-      <item value="fully Populated Subject" />
-      <item value="* Processes a method invocation on a proxy instance and returns * the result. This method will be invoked on an invocation handler * when a method is invoked on a proxy instance that it is * associated with." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="186" />
+        <entry key="ENGLISH" value="187" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
