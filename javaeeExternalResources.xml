@@ -3,6 +3,7 @@
     <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/d86d6899_ibatis-3-config.dtd" />
     <resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/22160c18_ibatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/69c70a2f_mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-3.1.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a33d7b50_spring-beans-3.1.xsd" />
     <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/d83fe593_spring-beans-4.3.xsd" />
     <resource url="http://www.springframework.org/schema/integration/file/spring-integration-file.xsd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/4dadf2b5_spring-integration-file.xsd" />
