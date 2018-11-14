@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Guaranteed to throw an exception and leave the map unmodified." />
       <item value="This class shows how to use the full extent of Spring Shell without relying on Boot auto configuration." />
       <item value="Actuator Endpoints" />
       <item value="Example CommandLineRunner that shows how overall shell behavior can be customized. In * this particular example, any program (process) arguments are assumed to be shell * commands that need to be executed (and the shell then quits)." />
@@ -31,7 +32,6 @@
       <item value="payload" />
       <item value="Create a new message with the given payload." />
       <item value="Generic Message" />
-      <item value="Defines a Polling Channel Adapter for the" />
     </histories>
     <option name="languageScores">
       <map>
