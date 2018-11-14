@@ -1,6 +1,6 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -8,6 +8,7 @@
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord" />
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
