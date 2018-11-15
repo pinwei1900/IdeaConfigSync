@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="write Delimited To" />
       <item value="Guaranteed to throw an exception and leave the map unmodified." />
       <item value="This class shows how to use the full extent of Spring Shell without relying on Boot auto configuration." />
       <item value="Actuator Endpoints" />
@@ -31,12 +32,11 @@
       <item value="Aggregate the results and send the result to the barrier release channel" />
       <item value="payload" />
       <item value="Create a new message with the given payload." />
-      <item value="Generic Message" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
