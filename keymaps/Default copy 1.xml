@@ -16,6 +16,10 @@
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="GotoBookmark5" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl 4" />
   </action>
