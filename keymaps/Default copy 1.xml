@@ -1,12 +1,24 @@
 <keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
   <action id="EditorSplitLine">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="EditorStartNewLine">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoBookmark5" />
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl 5" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl 4" />
