@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically." />
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping)." />
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other" />
       <item value="write Delimited To" />
       <item value="Guaranteed to throw an exception and leave the map unmodified." />
       <item value="This class shows how to use the full extent of Spring Shell without relying on Boot auto configuration." />
@@ -29,13 +32,10 @@
       <item value="from which messages may be actively received through polling." />
       <item value=": Expression to be evaluated to produce a value for the header." />
       <item value="Consolidated Results Exception" />
-      <item value="Aggregate the results and send the result to the barrier release channel" />
-      <item value="payload" />
-      <item value="Create a new message with the given payload." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
+        <entry key="CHINESE" value="193" />
         <entry key="ENGLISH" value="193" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
