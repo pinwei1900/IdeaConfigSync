@@ -2,15 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Unsatisfied dependency expressed through field 'binLogger'" />
-      <item value="Note that just as regular types are not allowed to contain lite-type fields, * they are also not allowed to contain lite-type extensions. This is because * regular types must be fully accessible via reflection, which in turn means * that all the inner messages must also support reflection. On the other hand, * since regular types implement the entire lite interface, there is no problem * with embedding regular types inside lite types." />
-      <item value="Equivalent to {@link ExtensionRegistry} but supports only &quot;lite&quot; types. * &lt;p&gt; * If all of your types are lite types, then you only need to use * {@code ExtensionRegistryLite}. Similarly, if all your types are regular * types, then you only need {@link ExtensionRegistry}. Typically it does not * make sense to mix the two, since if you have any regular types in your * program, you then require the full runtime and lose all the benefits of * the lite runtime, so you might as well make all your types be regular types. * However, in some cases (e.g. when depending on multiple third-party libraries * where one uses lite types and one uses regular), you may find yourself * wanting to mix the two. In this case things get more complicated. * &lt;p&gt; * There are three factors to consider: Whether the type being extended is * lite, whether the embedded type (in the case of a message-typed extension) * is lite, and whether the extension itself is lite. Since all three are * declared in different files, they could all be different. Here are all * the combinations and which type of registry to use:" />
-      <item value="Similarly, if all your types are regular * types, then you only need {@link ExtensionRegistry}. Typically it does not * make sense to mix the two, since if you have any regular types in your * program, you then require the full runtime and lose all the benefits of * the lite runtime, so you might as well make all your types be regular types. * However, in some cases (e.g. when depending on multiple third-party libraries * where one uses lite types and one uses regular), you may find yourself * wanting to mix the two. In this case things get more complicated. * &lt;p&gt; * There are three factors to consider: Whether the type being extended is * lite, whether the embedded type (in the case of a message-typed extension) * is lite, and whether the extension itself is lite. Since all three are * declared in different files, they could all be different. Here are all * the combinations and which type of registry to use:" />
-      <item value="If all of your types are lite types," />
-      <item value="Equivalent to {@link ExtensionRegistry} but supports only &quot;lite&quot; types." />
-      <item value="Extension Registry Lite" />
-      <item value="Protocol message contained an invalid tag" />
-      <item value="If the next character is a line feed" />
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically." />
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping)." />
+      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other" />
       <item value="write Delimited To" />
       <item value="Guaranteed to throw an exception and leave the map unmodified." />
       <item value="This class shows how to use the full extent of Spring Shell without relying on Boot auto configuration." />
@@ -32,11 +26,17 @@
       <item value="filter" />
       <item value="there are no next card verify status&quot;" />
       <item value="Defines methods for sending messages." />
+      <item value="find User With Map Enricher Channel" />
+      <item value="find User By Username Enricher Channel" />
+      <item value="find User Enricher Channel" />
+      <item value="from which messages may be actively received through polling." />
+      <item value=": Expression to be evaluated to produce a value for the header." />
+      <item value="Consolidated Results Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="200" />
-        <entry key="ENGLISH" value="201" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
