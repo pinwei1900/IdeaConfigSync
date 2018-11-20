@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Protocol message contained an invalid tag" />
       <item value="If the next character is a line feed" />
       <item value="write Delimited To" />
       <item value="Guaranteed to throw an exception and leave the map unmodified." />
@@ -31,12 +32,11 @@
       <item value=": Expression to be evaluated to produce a value for the header." />
       <item value="Consolidated Results Exception" />
       <item value="Aggregate the results and send the result to the barrier release channel" />
-      <item value="payload" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
