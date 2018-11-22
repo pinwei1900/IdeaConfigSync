@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Internal class to manage all Timers using one thread. * TimerQueue manages a queue of Timers. The Timers are chained * together in a linked list sorted by the order in which they will expire." />
       <item value="previous" />
       <item value="Ronbin Record" />
       <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically." />
@@ -31,12 +32,11 @@
       <item value="find User With Map Enricher Channel" />
       <item value="find User By Username Enricher Channel" />
       <item value="find User Enricher Channel" />
-      <item value="from which messages may be actively received through polling." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="194" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="ENGLISH" value="195" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
