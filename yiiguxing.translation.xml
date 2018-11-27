@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Channel Duplex Handler" />
       <item value="jianghang" />
       <item value="tradition" />
       <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup.&#10;There is no requirement to subclass this class: It just makes things a little easier if you need access to the context, e.g. for access to file resources or to the message source. Note that many application objects do not need to be aware of the application context at all, as they can receive collaborating beans via bean references." />
@@ -31,12 +32,11 @@
       <item value="An example straight from the JCommander documentation." />
       <item value="Flag to indicate if the run processes should be forked. {@code fork} is automatically enabled if an agent, jvmArguments or working directory are specified, or if devtools is present." />
       <item value="main" />
-      <item value="IMPLIED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="207" />
-        <entry key="ENGLISH" value="206" />
+        <entry key="ENGLISH" value="207" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
