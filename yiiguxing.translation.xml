@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The trust certificate changed, reload the ssl context" />
+      <item value="Producer" />
+      <item value="MQ Producer Inner" />
+      <item value="Default MQ Producer Impl" />
       <item value="broker" />
       <item value="try restarting transaction" />
       <item value="sync" />
@@ -28,15 +32,11 @@
       <item value="is Pipelined" />
       <item value="Adds an {@link Cookie HTTP cookie}, replacing any existing equivalent cookies. * If the given cookie has already expired it will not be added, but existing * values will still be removed." />
       <item value="equivalent" />
-      <item value="A URI is absolute if, and only if, it has a scheme component." />
-      <item value="SLAVE 0" />
-      <item value="MASTER" />
-      <item value="gsms Data Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
