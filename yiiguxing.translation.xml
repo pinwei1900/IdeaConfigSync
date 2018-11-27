@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="try restarting transaction" />
       <item value="sync" />
       <item value="--------------------" />
       <item value="Like {@link #readRawVarint32(InputStream)}, but expects that the caller has already read one * byte. This allows the caller to determine if EOF has been reached before attempting to read." />
@@ -31,12 +32,11 @@
       <item value="MASTER" />
       <item value="gsms Data Source" />
       <item value="gsms Slave Data Source" />
-      <item value="filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="CHINESE" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
