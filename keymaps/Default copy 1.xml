@@ -5,6 +5,9 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
@@ -22,10 +25,16 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+  </action>
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="ctrl 5" />
   </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
 </keymap>
