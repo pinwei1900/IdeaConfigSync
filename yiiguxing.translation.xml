@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="if any thread interrupted the current thread before or while the current thread was waiting for a notification. The interrupted status of the current thread is cleared when this exception is thrown." />
       <item value="Channel Duplex Handler" />
       <item value="jianghang" />
       <item value="tradition" />
@@ -31,7 +32,6 @@
       <item value="Example CommandLineRunner that shows how overall shell behavior can be customized. In * this particular example, any program (process) arguments are assumed to be shell * commands that need to be executed (and the shell then quits)." />
       <item value="An example straight from the JCommander documentation." />
       <item value="Flag to indicate if the run processes should be forked. {@code fork} is automatically enabled if an agent, jvmArguments or working directory are specified, or if devtools is present." />
-      <item value="main" />
     </histories>
     <option name="languageScores">
       <map>
