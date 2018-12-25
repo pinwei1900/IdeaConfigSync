@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="raised when a new pages array has been generated" />
+      <item value="raised when `settings` receives a new data array" />
+      <item value="raised when the `reload` event has finished loading new data" />
+      <item value="raised when a new instance of `NgTableParams` has finished being constructed" />
       <item value="validateMapping err" />
       <item value="validate Mapping" />
       <item value="if any thread interrupted the current thread before or while the current thread was waiting for a notification. The interrupted status of the current thread is cleared when this exception is thrown." />
@@ -28,15 +32,11 @@
       <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping)." />
       <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other" />
       <item value="write Delimited To" />
-      <item value="Guaranteed to throw an exception and leave the map unmodified." />
-      <item value="This class shows how to use the full extent of Spring Shell without relying on Boot auto configuration." />
-      <item value="Actuator Endpoints" />
-      <item value="Example CommandLineRunner that shows how overall shell behavior can be customized. In * this particular example, any program (process) arguments are assumed to be shell * commands that need to be executed (and the shell then quits)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="213" />
+        <entry key="ENGLISH" value="214" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
