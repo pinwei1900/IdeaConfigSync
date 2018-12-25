@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns * definitions to render" />
+      <item value="This allows the $columns array to be accessed outside of the html table markup" />
       <item value="create Event Subscription Fn" />
       <item value="raised when a new pages array has been generated" />
       <item value="raised when `settings` receives a new data array" />
@@ -30,13 +32,11 @@
       <item value="previous" />
       <item value="Ronbin Record" />
       <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically." />
-      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping)." />
-      <item value="Attempts to compute a mapping for the specified key and its current mapped value (or null if there is no current mapping). The entire method invocation is performed atomically. Some attempted update operations on this map by other threads may be blocked while computation is in progress, so the computation should be short and simple, and must not attempt to update any other" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
