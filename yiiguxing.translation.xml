@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This stress client is an example of submit bulk messages asynchronously." />
       <item value="7050" />
       <item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;&lt;returnsms&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344020&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344021&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344022&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344023&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:36:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13160876967&lt;/mobile&gt; &lt;taskid&gt;344024&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:41:05&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[0:0]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;/returnsms&gt;" />
       <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns * definitions to render" />
@@ -31,12 +32,11 @@
       <item value="that an embedded message misreported its own length." />
       <item value="Schedules the specified task for repeated fixed-rate execution, beginning after the specified delay. Subsequent executions take place at approximately regular intervals, separated by the specified period." />
       <item value="Internal class to manage all Timers using one thread. * TimerQueue manages a queue of Timers. The Timers are chained * together in a linked list sorted by the order in which they will expire." />
-      <item value="previous" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
