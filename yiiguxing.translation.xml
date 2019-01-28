@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Channel was closed after sending request, but before receiving response" />
+      <item value="Caller waiting on request [1], cancelling it with a channel closed exception" />
       <item value="Will use gz compression" />
       <item value="discarded" />
       <item value="Receiver Start Event" />
@@ -30,13 +32,11 @@
       <item value="if any thread interrupted the current thread before or while the current thread was waiting for a notification. The interrupted status of the current thread is cleared when this exception is thrown." />
       <item value="Channel Duplex Handler" />
       <item value="jianghang" />
-      <item value="tradition" />
-      <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup.&#10;There is no requirement to subclass this class: It just makes things a little easier if you need access to the context, e.g. for access to file resources or to the message source. Note that many application objects do not need to be aware of the application context at all, as they can receive collaborating beans via bean references." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
