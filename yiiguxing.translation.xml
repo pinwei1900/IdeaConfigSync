@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="a single instance of a client bootstrap can technically be shared // between any sessions that are created (a session can go to any different // number of SMSCs) - each session created under // a client bootstrap will use the executor and monitorExecutor set // in its constructor - just be *very* careful with the &quot;expectedSessions&quot; // value to make sure it matches the actual number of total concurrent // open sessions you plan on handling - the underlying netty library // used for NIO sockets essentially uses this value as the max number of // threads it will ever use, despite the &quot;max pool size&quot;, etc. set on // the executor passed in here" />
+      <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
+      <item value="add delivery receipt" />
       <item value="send Request Pdu" />
       <item value="Enquire Link Resp" />
       <item value="enquire Link" />
@@ -29,14 +32,11 @@
       <item value="UNBINDING" />
       <item value="BINDING" />
       <item value="UNBOUND" />
-      <item value="* Transfer data between the SC and an ESME. This message type is used to * transfer data both by the SMSC and the ESME. The command can be used as a * replacement for both submit_sm and deliver_sm." />
-      <item value="Submit to multiple destinations response." />
-      <item value="* Deliver message. This message is sent from the SMSC to a Receiver ESME to * deliver a short message. It is also used to notify an ESME that submitted a * message using registered delivery that a message has reached it's end point * successfully." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="255" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="259" />
+        <entry key="ENGLISH" value="260" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
