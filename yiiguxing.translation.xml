@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="discarded" />
       <item value="Receiver Start Event" />
       <item value="Signals that an I/O exception of some sort has occurred. This class is the general class of exceptions produced by failed or interrupted I/O operations." />
       <item value="The SMPP command ID of the packet type to return." />
@@ -31,12 +32,11 @@
       <item value="tradition" />
       <item value="Convenient superclass for application objects that want to be aware of the application context, e.g. for custom lookup of collaborating beans or for context-specific resource access. It saves the application context reference and provides an initialization callback method. Furthermore, it offers numerous convenience methods for message lookup.&#10;There is no requirement to subclass this class: It just makes things a little easier if you need access to the context, e.g. for access to file resources or to the message source. Note that many application objects do not need to be aware of the application context at all, as they can receive collaborating beans via bean references." />
       <item value="Load previously stored messages." />
-      <item value="The trust certificate changed, reload the ssl context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
