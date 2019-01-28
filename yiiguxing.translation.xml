@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Called once data should be decoded from the given {@link ByteBuf}. This method will call" />
+      <item value="decode Removal Reentry Protection" />
       <item value="set Valid" />
       <item value="Channel was closed after sending request, but before receiving response" />
       <item value="Caller waiting on request [1], cancelling it with a channel closed exception" />
@@ -30,13 +32,11 @@
       <item value="raised when a new instance of `NgTableParams` has finished being constructed" />
       <item value="validateMapping err" />
       <item value="validate Mapping" />
-      <item value="if any thread interrupted the current thread before or while the current thread was waiting for a notification. The interrupted status of the current thread is cleared when this exception is thrown." />
-      <item value="Channel Duplex Handler" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
