@@ -2,6 +2,14 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="send Request Pdu" />
+      <item value="Enquire Link Resp" />
+      <item value="enquire Link" />
+      <item value="ACCEPTING UNTRUSTED CERTIFICATES!" />
+      <item value="RECEIVER" />
+      <item value="TRANSMITTER" />
+      <item value="TRANSCEIVER" />
+      <item value="create session, enquire link, submit an sms, close session" />
       <item value="interface version requested by us or them" />
       <item value="Message Receive Handler" />
       <item value="Data Sm" />
@@ -24,19 +32,11 @@
       <item value="* Transfer data between the SC and an ESME. This message type is used to * transfer data both by the SMSC and the ESME. The command can be used as a * replacement for both submit_sm and deliver_sm." />
       <item value="Submit to multiple destinations response." />
       <item value="* Deliver message. This message is sent from the SMSC to a Receiver ESME to * deliver a short message. It is also used to notify an ESME that submitted a * message using registered delivery that a message has reached it's end point * successfully." />
-      <item value="Exception In Initializer Error" />
-      <item value="This stress client is an example of submit bulk messages asynchronously." />
-      <item value="7050" />
-      <item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot; ?&gt;&lt;returnsms&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344020&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344021&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344022&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:35:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13655669865&lt;/mobile&gt; &lt;taskid&gt;344023&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:36:01&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[DELIVRD]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;statusbox&gt; &lt;mobile&gt;13160876967&lt;/mobile&gt; &lt;taskid&gt;344024&lt;/taskid&gt; &lt;status&gt;10&lt;/status&gt; &lt;receivetime&gt;2019-01-03 17:41:05&lt;/receivetime&gt; &lt;errorcode&gt;&lt;![CDATA[0:0]]&gt;&lt;/errorcode&gt; &lt;extno&gt;&lt;![CDATA[227]]&gt;&lt;/extno&gt; &lt;/statusbox&gt; &lt;/returnsms&gt;" />
-      <item value="A dynamic version of the {@link ngTable ngTable} directive that accepts a dynamic list of columns * definitions to render" />
-      <item value="This allows the $columns array to be accessed outside of the html table markup" />
-      <item value="create Event Subscription Fn" />
-      <item value="raised when a new pages array has been generated" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
