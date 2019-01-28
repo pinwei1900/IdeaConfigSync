@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="interface version requested by us or them" />
+      <item value="Message Receive Handler" />
+      <item value="Data Sm" />
+      <item value="Submit Sm" />
+      <item value="Deliver Sm" />
       <item value="Called once data should be decoded from the given {@link ByteBuf}. This method will call" />
       <item value="decode Removal Reentry Protection" />
       <item value="set Valid" />
@@ -27,16 +32,11 @@
       <item value="This allows the $columns array to be accessed outside of the html table markup" />
       <item value="create Event Subscription Fn" />
       <item value="raised when a new pages array has been generated" />
-      <item value="raised when `settings` receives a new data array" />
-      <item value="raised when the `reload` event has finished loading new data" />
-      <item value="raised when a new instance of `NgTableParams` has finished being constructed" />
-      <item value="validateMapping err" />
-      <item value="validate Mapping" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
