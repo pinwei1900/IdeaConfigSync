@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="set Window Monitor Interval" />
       <item value="It's recommended that this generally either * matches or is half the value of requestExpiryTimeout. Therefore, at worst * a request would could take up 1.5X the requestExpiryTimeout to clear out. * @param windowMonitorInterval The amount of time to wait (in ms) between * executions of monitoring the window." />
       <item value="Sets the amount of time between executions of monitoring the window * for requests that expire." />
       <item value="Requests are not automatically expired unless monitoring was enabled * during construction of this window." />
@@ -17,7 +18,6 @@
       <item value="set Connect Timeout" />
       <item value="set Use Ssl" />
       <item value="set Counters Enabled" />
-      <item value="set Window Monitor Interval" />
       <item value="i" />
       <item value="a single instance of a client bootstrap can technically be shared // between any sessions that are created (a session can go to any different // number of SMSCs) - each session created under // a client bootstrap will use the executor and monitorExecutor set // in its constructor" />
       <item value="a single instance of a client bootstrap can technically be shared // between any sessions that are created (a session can go to any different // number of SMSCs) - each session created under" />
@@ -35,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="292" />
-        <entry key="ENGLISH" value="293" />
+        <entry key="CHINESE" value="293" />
+        <entry key="ENGLISH" value="294" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
