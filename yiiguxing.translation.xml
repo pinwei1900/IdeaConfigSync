@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
+      <item value="add delivery receipt" />
+      <item value="fire Pdu Request Received" />
+      <item value="fire Pdu Request Expired" />
       <item value="set Window Monitor Interval" />
       <item value="It's recommended that this generally either * matches or is half the value of requestExpiryTimeout. Therefore, at worst * a request would could take up 1.5X the requestExpiryTimeout to clear out. * @param windowMonitorInterval The amount of time to wait (in ms) between * executions of monitoring the window." />
       <item value="Sets the amount of time between executions of monitoring the window * for requests that expire." />
@@ -28,15 +32,11 @@
       <item value="no point renaming the threads in a factory since underlying Netty" />
       <item value="this permits exposing thinks like executor.getActiveCount() via JMX possible" />
       <item value="of an executor with Executors.newCachedThreadPool() and cast it to ThreadPoolExecutor" />
-      <item value="for monitoring thread use, it's preferable to create your own instance" />
-      <item value="setup 3 things required for any session we plan on creating" />
-      <item value="Modified version of UTF-8 designed mostly for serialization and speed. The byte arrays it produces is NOT identical to UTF-8 but is safe to use for Java-to-Java serialization." />
-      <item value="sequence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="297" />
+        <entry key="ENGLISH" value="298" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
