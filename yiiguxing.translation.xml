@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="not present in data_sm" />
       <item value="Registering current configuration as safe fallback point" />
       <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
       <item value="fire Pdu Request Received" />
@@ -31,12 +32,11 @@
       <item value="unacknowledged" />
       <item value="he amount of time to wait (in ms) before * an unacknowledged request expires. -1 disables." />
       <item value="Defaults to disabled (-1)." />
-      <item value="Set the amount of time to wait for an endpoint to respond to * a request before it expires." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="316" />
-        <entry key="ENGLISH" value="317" />
+        <entry key="CHINESE" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
