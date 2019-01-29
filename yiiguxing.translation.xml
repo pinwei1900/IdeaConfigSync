@@ -2,13 +2,18 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Load Balanced Lists" />
+      <item value="delivery receipt, or MO" />
+      <item value="represent" />
+      <item value="Could either implement SmppSessionHandler or only override select methods * by extending a DefaultSmppSessionHandler." />
+      <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
       <item value="Dummy Smpp Client Message Service" />
+      <item value="schedule cannot spawn more threads than corePoolSize, so the blocking work is done by separate executor" />
+      <item value="The new weight of the item" />
+      <item value="Load Balanced Lists" />
       <item value="TRANSCEIVER" />
       <item value="set Window Monitor Interval" />
       <item value="set Request Expiry Timeout" />
       <item value="request expiration" />
-      <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
       <item value="add delivery receipt" />
       <item value="fire Pdu Request Received" />
       <item value="fire Pdu Request Expired" />
@@ -27,16 +32,11 @@
       <item value="set Use Ssl" />
       <item value="set Counters Enabled" />
       <item value="i" />
-      <item value="a single instance of a client bootstrap can technically be shared // between any sessions that are created (a session can go to any different // number of SMSCs) - each session created under // a client bootstrap will use the executor and monitorExecutor set // in its constructor" />
-      <item value="a single instance of a client bootstrap can technically be shared // between any sessions that are created (a session can go to any different // number of SMSCs) - each session created under" />
-      <item value="to enable automatic expiration of requests, a second scheduled executor // is required which is what a monitor task will be executed with - this // is probably a thread pool that can be shared with between all client bootstraps" />
-      <item value="is required which is what a monitor task will be executed with - this // is probably a thread pool that can be shared with between all client bootstraps" />
-      <item value="to enable automatic expiration of requests, a second scheduled executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
