@@ -2,8 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
       <item value="Registering current configuration as safe fallback point" />
+      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
       <item value="fire Pdu Request Received" />
       <item value="TODO not sure if we really need to call reconnect here" />
       <item value="Default implementation of either an ESME or SMSC SMPP session." />
@@ -35,8 +35,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="316" />
+        <entry key="ENGLISH" value="317" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
