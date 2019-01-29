@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
+      <item value="Registering current configuration as safe fallback point" />
       <item value="fire Pdu Request Received" />
       <item value="TODO not sure if we really need to call reconnect here" />
       <item value="Default implementation of either an ESME or SMSC SMPP session." />
@@ -30,13 +32,11 @@
       <item value="he amount of time to wait (in ms) before * an unacknowledged request expires. -1 disables." />
       <item value="Defaults to disabled (-1)." />
       <item value="Set the amount of time to wait for an endpoint to respond to * a request before it expires." />
-      <item value="set Connect Timeout" />
-      <item value="set Use Ssl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="313" />
-        <entry key="ENGLISH" value="314" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
