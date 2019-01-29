@@ -2,11 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Load Balanced Lists" />
+      <item value="Dummy Smpp Client Message Service" />
+      <item value="TRANSCEIVER" />
+      <item value="set Window Monitor Interval" />
+      <item value="set Request Expiry Timeout" />
+      <item value="request expiration" />
       <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
       <item value="add delivery receipt" />
       <item value="fire Pdu Request Received" />
       <item value="fire Pdu Request Expired" />
-      <item value="set Window Monitor Interval" />
       <item value="It's recommended that this generally either * matches or is half the value of requestExpiryTimeout. Therefore, at worst * a request would could take up 1.5X the requestExpiryTimeout to clear out. * @param windowMonitorInterval The amount of time to wait (in ms) between * executions of monitoring the window." />
       <item value="Sets the amount of time between executions of monitoring the window * for requests that expire." />
       <item value="Requests are not automatically expired unless monitoring was enabled * during construction of this window." />
@@ -18,7 +23,6 @@
       <item value="he amount of time to wait (in ms) before * an unacknowledged request expires. -1 disables." />
       <item value="Defaults to disabled (-1)." />
       <item value="Set the amount of time to wait for an endpoint to respond to * a request before it expires." />
-      <item value="set Request Expiry Timeout" />
       <item value="set Connect Timeout" />
       <item value="set Use Ssl" />
       <item value="set Counters Enabled" />
@@ -28,15 +32,11 @@
       <item value="to enable automatic expiration of requests, a second scheduled executor // is required which is what a monitor task will be executed with - this // is probably a thread pool that can be shared with between all client bootstraps" />
       <item value="is required which is what a monitor task will be executed with - this // is probably a thread pool that can be shared with between all client bootstraps" />
       <item value="to enable automatic expiration of requests, a second scheduled executor" />
-      <item value="this permits exposing thinks like executor.getActiveCount() via JMX possible // no point renaming the threads in a factory since underlying Netty // framework does not easily allow you to customize your thread names" />
-      <item value="no point renaming the threads in a factory since underlying Netty" />
-      <item value="this permits exposing thinks like executor.getActiveCount() via JMX possible" />
-      <item value="of an executor with Executors.newCachedThreadPool() and cast it to ThreadPoolExecutor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
