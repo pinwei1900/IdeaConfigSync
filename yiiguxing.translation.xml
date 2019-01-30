@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="get Response" />
+      <item value="Gets the original request associated with the response." />
+      <item value="Expected Pdu Response Received" />
+      <item value="fire Expected Pdu Response Received" />
       <item value="Gets the key of the window entry." />
       <item value="underlying" />
       <item value="asynchronous" />
@@ -28,15 +32,11 @@
       <item value="The new weight of the item" />
       <item value="Load Balanced Lists" />
       <item value="TRANSCEIVER" />
-      <item value="set Window Monitor Interval" />
-      <item value="set Request Expiry Timeout" />
-      <item value="request expiration" />
-      <item value="add delivery receipt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="327" />
-        <entry key="ENGLISH" value="328" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
