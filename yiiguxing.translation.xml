@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The recommended action for &quot;recoverable&quot; errors is to return a NACK." />
+      <item value="* A good example is that the PDU header was read, but the body of the PDU * failed to parse correctly." />
+      <item value="* Thrown when a recoverable PDU decoding error occurs. A recoverable PDU * error includes the partially decoded PDU in order to generate a negative * acknowledgement response (if needed)." />
+      <item value="Thrown when a recoverable PDU decoding error occurs. A recoverable PDU * error includes the partially decoded PDU in order to generate a negative * acknowledgement response (if needed)." />
+      <item value="Recoverable Pdu Exception" />
+      <item value="Unsupported Encoding Exception" />
       <item value="not present in data_sm" />
       <item value="Registering current configuration as safe fallback point" />
       <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
@@ -26,17 +32,11 @@
       <item value="Sets the amount of time between executions of monitoring the window * for requests that expire." />
       <item value="Requests are not automatically expired unless monitoring was enabled * during construction of this window." />
       <item value="request never expires" />
-      <item value="A value &amp;lt; 1 is * assumed to be an infinite expiration" />
-      <item value="The amount of time (in milliseconds) that a * request will be set to expire after acceptance." />
-      <item value="activated" />
-      <item value="unacknowledged" />
-      <item value="he amount of time to wait (in ms) before * an unacknowledged request expires. -1 disables." />
-      <item value="Defaults to disabled (-1)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="317" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
