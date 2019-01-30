@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="underlying" />
+      <item value="asynchronous" />
+      <item value="if the sending thread is finished, check if we're done" />
       <item value="total number of submit to send total across all sessions" />
       <item value="The recommended action for &quot;recoverable&quot; errors is to return a NACK." />
       <item value="* A good example is that the PDU header was read, but the body of the PDU * failed to parse correctly." />
@@ -29,14 +32,11 @@
       <item value="request expiration" />
       <item value="add delivery receipt" />
       <item value="fire Pdu Request Expired" />
-      <item value="It's recommended that this generally either * matches or is half the value of requestExpiryTimeout. Therefore, at worst * a request would could take up 1.5X the requestExpiryTimeout to clear out. * @param windowMonitorInterval The amount of time to wait (in ms) between * executions of monitoring the window." />
-      <item value="Sets the amount of time between executions of monitoring the window * for requests that expire." />
-      <item value="Requests are not automatically expired unless monitoring was enabled * during construction of this window." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="324" />
-        <entry key="ENGLISH" value="325" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
