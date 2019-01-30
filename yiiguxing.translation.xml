@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Delivery Receipt" />
       <item value="get Response" />
       <item value="Gets the original request associated with the response." />
       <item value="Expected Pdu Response Received" />
@@ -31,12 +32,11 @@
       <item value="schedule cannot spawn more threads than corePoolSize, so the blocking work is done by separate executor" />
       <item value="The new weight of the item" />
       <item value="Load Balanced Lists" />
-      <item value="TRANSCEIVER" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
