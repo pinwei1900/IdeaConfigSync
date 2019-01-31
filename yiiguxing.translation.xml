@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="the previous value associated with key, or null if there was no mapping for key." />
       <item value="69643 a 3934323531343330393233207375623 a 30303120646 c 7672643 a 303031207375626 d 697420646174653 a 3039313130343031323420646 f 6 e 6520646174653 a 3039313130343031323420737461743 a 41434345505444206572723 a 31303720746578743 a 20323646313032" />
       <item value="decode Deliver Sm With Delivery Receipt That Failed From End To End" />
       <item value="message payload" />
@@ -31,11 +32,10 @@
       <item value="represent" />
       <item value="Could either implement SmppSessionHandler or only override select methods * by extending a DefaultSmppSessionHandler." />
       <item value="REGISTERED DELIVERY SMSC RECEIPT REQUESTED" />
-      <item value="Dummy Smpp Client Message Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="333" />
+        <entry key="CHINESE" value="334" />
         <entry key="ENGLISH" value="334" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
