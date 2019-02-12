@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="A short message in a PDU can only be a max of 255 bytes [actual=530]; use optional parameter message_payload as an alternative" />
       <item value="fetch mto information exceed wait time 300 seconds" />
       <item value="the previous value associated with key, or null if there was no mapping for key." />
       <item value="69643 a 3934323531343330393233207375623 a 30303120646 c 7672643 a 303031207375626 d 697420646174653 a 3039313130343031323420646 f 6 e 6520646174653 a 3039313130343031323420737461743 a 41434345505444206572723 a 31303720746578743 a 20323646313032" />
@@ -31,12 +32,11 @@
       <item value="Default implementation of either an ESME or SMSC SMPP session." />
       <item value="delivery receipt, or MO" />
       <item value="represent" />
-      <item value="Could either implement SmppSessionHandler or only override select methods * by extending a DefaultSmppSessionHandler." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
