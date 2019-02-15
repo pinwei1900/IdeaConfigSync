@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="MICROSECONDS" />
       <item value="Constructor specifying producer group." />
       <item value="total Elapsed" />
       <item value="Exception occurred when send state report, return state is:INNER_ERRORerror string is:8" />
@@ -31,12 +32,11 @@
       <item value="Registering current configuration as safe fallback point" />
       <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
       <item value="fire Pdu Request Received" />
-      <item value="TODO not sure if we really need to call reconnect here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
