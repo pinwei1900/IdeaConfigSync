@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This is supposed to be overridden by subclasses." />
       <item value="Auditing Filter" />
       <item value="incubating" />
       <item value="MICROSECONDS" />
@@ -31,12 +32,11 @@
       <item value="Recoverable Pdu Exception" />
       <item value="Unsupported Encoding Exception" />
       <item value="not present in data_sm" />
-      <item value="Registering current configuration as safe fallback point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
