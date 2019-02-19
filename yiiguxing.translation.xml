@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Auditing Filter" />
       <item value="incubating" />
       <item value="MICROSECONDS" />
       <item value="Constructor specifying producer group." />
@@ -31,12 +32,11 @@
       <item value="Unsupported Encoding Exception" />
       <item value="not present in data_sm" />
       <item value="Registering current configuration as safe fallback point" />
-      <item value="This appender no longer admits a layout as a sub-component, set an encoder instead." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="341" />
-        <entry key="ENGLISH" value="342" />
+        <entry key="CHINESE" value="342" />
+        <entry key="ENGLISH" value="343" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
