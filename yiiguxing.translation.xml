@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Flip Frame Filter" />
       <item value="Update enterprise account has sent message" />
       <item value="default Billing Filter" />
       <item value="Phrase Filter" />
@@ -31,12 +32,11 @@
       <item value="fire Expected Pdu Response Received" />
       <item value="Gets the key of the window entry." />
       <item value="underlying" />
-      <item value="asynchronous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="351" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
