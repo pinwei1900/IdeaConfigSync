@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Phrase Filter" />
       <item value="composite Msg Filter" />
       <item value="audit Static Chain" />
       <item value="添加filter到filterMap中各个信息类型对应的filterList上， * 这里使用Predicate&lt;MsgType&gt;用于动态判断对应信息类型是否需要添加该filter， * 判断方式由调用处指定" />
@@ -31,12 +32,11 @@
       <item value="asynchronous" />
       <item value="if the sending thread is finished, check if we're done" />
       <item value="total number of submit to send total across all sessions" />
-      <item value="The recommended action for &quot;recoverable&quot; errors is to return a NACK." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
