@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="exclude" />
       <item value="Auto-generated method stub" />
       <item value="SECOND AUDITING" />
       <item value="SUSPEND" />
@@ -31,12 +32,11 @@
       <item value="message payload" />
       <item value="Delivery Receipt" />
       <item value="get Response" />
-      <item value="Gets the original request associated with the response." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="357" />
+        <entry key="CHINESE" value="357" />
+        <entry key="ENGLISH" value="358" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
