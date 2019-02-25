@@ -1,6 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
-    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/d86d6899_ibatis-3-config.dtd" />
+    <resource url="http://ibatis.apache.org/dtd/ibatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2018.3/system/extResources/d86d6899_ibatis-3-config.dtd" />
     <resource url="http://ibatis.apache.org/dtd/ibatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/22160c18_ibatis-3-mapper.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/69c70a2f_mybatis-3-config.dtd" />
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2018.2/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
