@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="EXCEPTION" />
       <item value="conditions" />
       <item value="nested" />
       <item value="encountered" />
@@ -31,12 +32,11 @@
       <item value="incubating" />
       <item value="MICROSECONDS" />
       <item value="Constructor specifying producer group." />
-      <item value="total Elapsed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
