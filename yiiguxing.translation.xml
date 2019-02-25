@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="conditions" />
+      <item value="nested" />
+      <item value="encountered" />
       <item value="eligible" />
       <item value="USE THREAD LOCAL FOR BUFFER RECYCLING" />
       <item value="Default remote implementation of frame sender" />
@@ -29,14 +32,11 @@
       <item value="MICROSECONDS" />
       <item value="Constructor specifying producer group." />
       <item value="total Elapsed" />
-      <item value="Exception occurred when send state report, return state is:INNER_ERRORerror string is:8" />
-      <item value="A short message in a PDU can only be a max of 255 bytes [actual=530]; use optional parameter message_payload as an alternative" />
-      <item value="fetch mto information exceed wait time 300 seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
