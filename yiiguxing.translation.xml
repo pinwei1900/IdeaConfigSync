@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="you can define more than one captcha engine here" />
       <item value="get Composite Msg Pack Id" />
       <item value="fail Time" />
       <item value="offer Time" />
@@ -31,12 +32,11 @@
       <item value="Retrieved by the mto server" />
       <item value="Billing Filter" />
       <item value="This is supposed to be overridden by subclasses." />
-      <item value="Auditing Filter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="369" />
-        <entry key="ENGLISH" value="370" />
+        <entry key="CHINESE" value="370" />
+        <entry key="ENGLISH" value="371" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
