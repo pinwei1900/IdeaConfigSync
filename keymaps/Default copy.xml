@@ -1,0 +1,10 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="EditorSelectWord" />
+</keymap>
