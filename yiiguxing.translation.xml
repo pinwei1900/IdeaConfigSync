@@ -2,6 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="he following types are supported for version properties: * &lt;code&gt;int&lt;/code&gt;, &lt;code&gt;Integer&lt;/code&gt;, &lt;code&gt;short&lt;/code&gt;, * &lt;code&gt;Short&lt;/code&gt;, &lt;code&gt;long&lt;/code&gt;, &lt;code&gt;Long&lt;/code&gt;, * &lt;code&gt;java.sql.Timestamp&lt;/code&gt;." />
+      <item value="The &lt;code&gt;Version&lt;/code&gt; property should be mapped to * the primary table for the entity class; applications that * map the &lt;code&gt;Version&lt;/code&gt; property to a table other than * the primary table will not be portable." />
+      <item value="Only a single &lt;code&gt;Version&lt;/code&gt; property or field * should be used per class; applications that use more than one * &lt;code&gt;Version&lt;/code&gt; property or field will not be portable." />
+      <item value="The version is used to ensure * integrity when performing the merge operation and for optimistic * concurrency control." />
+      <item value="Specifies the version field or property of an entity class that * serves as its optimistic lock value." />
       <item value="get Release Version" />
       <item value="set Delivery Status" />
       <item value="center Version" />
@@ -27,16 +32,11 @@
       <item value="ABANDON" />
       <item value="Flip Frame Filter" />
       <item value="Update enterprise account has sent message" />
-      <item value="default Billing Filter" />
-      <item value="Phrase Filter" />
-      <item value="composite Msg Filter" />
-      <item value="audit Static Chain" />
-      <item value="添加filter到filterMap中各个信息类型对应的filterList上， * 这里使用Predicate&lt;MsgType&gt;用于动态判断对应信息类型是否需要添加该filter， * 判断方式由调用处指定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
