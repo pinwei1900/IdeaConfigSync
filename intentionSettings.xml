@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="JavaScript/Conditional Operator/Flip If" />
-    <ignoreAction name="Java/Declaration/Split Declaration" />
-  </component>
-</application>
