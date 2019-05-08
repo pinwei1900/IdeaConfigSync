@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Alarm Filter Home" />
       <item value="I Custom Config File Manager" />
       <item value="the version is newest" />
       <item value="he following types are supported for version properties: * &lt;code&gt;int&lt;/code&gt;, &lt;code&gt;Integer&lt;/code&gt;, &lt;code&gt;short&lt;/code&gt;, * &lt;code&gt;Short&lt;/code&gt;, &lt;code&gt;long&lt;/code&gt;, &lt;code&gt;Long&lt;/code&gt;, * &lt;code&gt;java.sql.Timestamp&lt;/code&gt;." />
@@ -31,12 +32,11 @@
       <item value="Auto-generated method stub" />
       <item value="SECOND AUDITING" />
       <item value="SUSPEND" />
-      <item value="ABANDON" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
