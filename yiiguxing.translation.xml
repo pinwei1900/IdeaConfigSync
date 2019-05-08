@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Credentials" />
+      <item value="RESTRICTIONS" />
       <item value="re Render" />
       <item value="rendered" />
       <item value="decorate" />
@@ -30,13 +32,11 @@
       <item value="get Composite Msg Pack Id" />
       <item value="fail Time" />
       <item value="offer Time" />
-      <item value="EXCEPTION" />
-      <item value="conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="398" />
+        <entry key="ENGLISH" value="399" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
