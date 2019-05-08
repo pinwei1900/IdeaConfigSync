@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="compile the application and module" />
       <item value="Build the WAR structure in a staging directory" />
       <item value="navigation" />
       <item value="SUFFIX" />
@@ -31,12 +32,11 @@
       <item value="Default remote implementation of frame sender" />
       <item value="authentication Processor" />
       <item value="prefer-application-packages" />
-      <item value="Actual" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
