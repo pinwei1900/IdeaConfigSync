@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="re Render" />
+      <item value="rendered" />
+      <item value="decorate" />
       <item value=" if-outcome" />
       <item value="outcome" />
       <item value="redirect" />
@@ -29,14 +32,11 @@
       <item value="offer Time" />
       <item value="EXCEPTION" />
       <item value="conditions" />
-      <item value="nested" />
-      <item value="encountered" />
-      <item value="eligible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="392" />
-        <entry key="ENGLISH" value="393" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />

@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
+      <removed_mapping ext="xhtml" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
