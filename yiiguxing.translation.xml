@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value=" if-outcome" />
+      <item value="outcome" />
+      <item value="redirect" />
       <item value="Restrict" />
       <item value="compile the application and module" />
       <item value="Build the WAR structure in a staging directory" />
@@ -29,14 +32,11 @@
       <item value="nested" />
       <item value="encountered" />
       <item value="eligible" />
-      <item value="USE THREAD LOCAL FOR BUFFER RECYCLING" />
-      <item value="Default remote implementation of frame sender" />
-      <item value="authentication Processor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
