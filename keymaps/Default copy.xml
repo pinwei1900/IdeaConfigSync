@@ -6,5 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="EditorScrollToCenter" />
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="GotoLine" />
+  <action id="ScrollPane-scrollEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
 </keymap>
