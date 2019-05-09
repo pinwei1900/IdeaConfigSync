@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value=" DESKTOP-QHNOCTR" />
       <item value="Returns an immutable list containing only the specified object. The returned list is serializable." />
       <item value="Puts all associated transport mappings into listen mode." />
       <item value="Variable has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
@@ -31,12 +32,11 @@
       <item value="compile the application and module" />
       <item value="Build the WAR structure in a staging directory" />
       <item value="navigation" />
-      <item value="SUFFIX" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
