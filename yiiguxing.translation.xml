@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Snmp Send Trap" />
       <item value="point Result Hour" />
       <item value="A skinnable panel that is rendered as a bordered rectangle. The header is added using a facet with the attribute, name=&quot;header&quot;." />
       <item value="Credentials" />
@@ -31,12 +32,11 @@
       <item value="center Version" />
       <item value="RESPONSE FAIL" />
       <item value="you can define more than one captcha engine here" />
-      <item value="get Composite Msg Pack Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="399" />
-        <entry key="ENGLISH" value="400" />
+        <entry key="CHINESE" value="400" />
+        <entry key="ENGLISH" value="401" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
