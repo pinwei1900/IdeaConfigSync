@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="config File" />
+      <item value="boot Counter File" />
       <item value="over level1 threshold alarm" />
       <item value="cleared" />
       <item value="warning" />
@@ -30,13 +32,11 @@
       <item value="I Custom Config File Manager" />
       <item value="the version is newest" />
       <item value="he following types are supported for version properties: * &lt;code&gt;int&lt;/code&gt;, &lt;code&gt;Integer&lt;/code&gt;, &lt;code&gt;short&lt;/code&gt;, * &lt;code&gt;Short&lt;/code&gt;, &lt;code&gt;long&lt;/code&gt;, &lt;code&gt;Long&lt;/code&gt;, * &lt;code&gt;java.sql.Timestamp&lt;/code&gt;." />
-      <item value="The &lt;code&gt;Version&lt;/code&gt; property should be mapped to * the primary table for the entity class; applications that * map the &lt;code&gt;Version&lt;/code&gt; property to a table other than * the primary table will not be portable." />
-      <item value="Only a single &lt;code&gt;Version&lt;/code&gt; property or field * should be used per class; applications that use more than one * &lt;code&gt;Version&lt;/code&gt; property or field will not be portable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
