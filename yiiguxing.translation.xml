@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Adds a CommandResponder to this SNMP session. The command responder will then be informed about incoming SNMP PDUs of any kind that are not related to any outstanding requests of this SNMP session." />
+      <item value="&quot;Agent is run uninitialized, current state is" />
+      <item value="uninitialized" />
       <item value=" DESKTOP-QHNOCTR" />
       <item value="Returns an immutable list containing only the specified object. The returned list is serializable." />
       <item value="Puts all associated transport mappings into listen mode." />
@@ -29,14 +32,11 @@
       <item value="outcome" />
       <item value="redirect" />
       <item value="Restrict" />
-      <item value="compile the application and module" />
-      <item value="Build the WAR structure in a staging directory" />
-      <item value="navigation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="413" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="CHINESE" value="416" />
+        <entry key="ENGLISH" value="416" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
