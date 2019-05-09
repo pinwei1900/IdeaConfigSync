@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Variable has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
       <item value="Octet String" />
       <item value="add Notification Targets" />
       <item value="config File" />
@@ -31,12 +32,11 @@
       <item value="SUFFIX" />
       <item value="DEFAULT SUFFIX" />
       <item value="Alarm Filter Home" />
-      <item value="I Custom Config File Manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
