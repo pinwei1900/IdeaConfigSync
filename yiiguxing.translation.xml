@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="over level1 threshold alarm" />
+      <item value="cleared" />
+      <item value="warning" />
+      <item value="minor" />
+      <item value="n" />
+      <item value="major" />
+      <item value="critical" />
       <item value="Snmp Send Trap" />
       <item value="point Result Hour" />
       <item value="A skinnable panel that is rendered as a bordered rectangle. The header is added using a facet with the attribute, name=&quot;header&quot;." />
@@ -25,18 +32,11 @@
       <item value="he following types are supported for version properties: * &lt;code&gt;int&lt;/code&gt;, &lt;code&gt;Integer&lt;/code&gt;, &lt;code&gt;short&lt;/code&gt;, * &lt;code&gt;Short&lt;/code&gt;, &lt;code&gt;long&lt;/code&gt;, &lt;code&gt;Long&lt;/code&gt;, * &lt;code&gt;java.sql.Timestamp&lt;/code&gt;." />
       <item value="The &lt;code&gt;Version&lt;/code&gt; property should be mapped to * the primary table for the entity class; applications that * map the &lt;code&gt;Version&lt;/code&gt; property to a table other than * the primary table will not be portable." />
       <item value="Only a single &lt;code&gt;Version&lt;/code&gt; property or field * should be used per class; applications that use more than one * &lt;code&gt;Version&lt;/code&gt; property or field will not be portable." />
-      <item value="The version is used to ensure * integrity when performing the merge operation and for optimistic * concurrency control." />
-      <item value="Specifies the version field or property of an entity class that * serves as its optimistic lock value." />
-      <item value="get Release Version" />
-      <item value="set Delivery Status" />
-      <item value="center Version" />
-      <item value="RESPONSE FAIL" />
-      <item value="you can define more than one captcha engine here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="400" />
-        <entry key="ENGLISH" value="401" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
