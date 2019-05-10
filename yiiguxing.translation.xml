@@ -2,6 +2,15 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="viewlog_文件路径" />
+      <item value="sync Ntp Time" />
+      <item value="persist Hw Band Width Data" />
+      <item value="4 KEPG PARSE THREAD NUM" />
+      <item value="Vod Load" />
+      <item value="Vod" />
+      <item value="max Vod Load" />
+      <item value="band Width" />
+      <item value="Key Distribute Req" />
       <item value="portal User Sync" />
       <item value="portal" />
       <item value="获取portal地址" />
@@ -23,22 +32,15 @@
       <item value="warning" />
       <item value="minor" />
       <item value="n" />
-      <item value="major" />
-      <item value="critical" />
-      <item value="Snmp Send Trap" />
-      <item value="point Result Hour" />
-      <item value="A skinnable panel that is rendered as a bordered rectangle. The header is added using a facet with the attribute, name=&quot;header&quot;." />
-      <item value="Credentials" />
-      <item value="RESTRICTIONS" />
-      <item value="re Render" />
-      <item value="rendered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="427" />
+        <entry key="ENGLISH" value="427" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
