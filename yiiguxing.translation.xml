@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="portal User Sync" />
+      <item value="portal" />
+      <item value="获取portal地址" />
+      <item value="validate Url" />
       <item value="disruptor" />
       <item value="Adds a CommandResponder to this SNMP session. The command responder will then be informed about incoming SNMP PDUs of any kind that are not related to any outstanding requests of this SNMP session." />
       <item value="&quot;Agent is run uninitialized, current state is" />
@@ -28,15 +32,11 @@
       <item value="RESTRICTIONS" />
       <item value="re Render" />
       <item value="rendered" />
-      <item value="decorate" />
-      <item value=" if-outcome" />
-      <item value="outcome" />
-      <item value="redirect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="419" />
+        <entry key="ENGLISH" value="420" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="LUXEMBOURGISH" value="2" />
