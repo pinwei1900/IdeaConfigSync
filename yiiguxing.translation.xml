@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="amline Date Path" />
+      <item value="set snmp trap traget ip" />
       <item value="init Http Root Context Cfg" />
       <item value="Constructs an initial context. No environment properties are supplied. Equivalent to new InitialContext(null)." />
       <item value="redundent" />
@@ -30,18 +32,17 @@
       <item value="Puts all associated transport mappings into listen mode." />
       <item value="Variable has been compiled by a more recent version of the Java Runtime (class file version 53.0), this version of the Java Runtime only recognizes class file versions up to 52.0" />
       <item value="Octet String" />
-      <item value="add Notification Targets" />
-      <item value="config File" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="431" />
-        <entry key="ENGLISH" value="432" />
+        <entry key="CHINESE" value="433" />
+        <entry key="ENGLISH" value="433" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
+        <entry key="WELSH" value="1" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
       </map>
