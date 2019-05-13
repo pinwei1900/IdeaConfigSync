@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="CMS Channel Processor" />
+      <item value="Alarm Disruptor Manager" />
       <item value="trap Filter Manager" />
       <item value="LOGIN BY PORTAL" />
       <item value="sync Portal User" />
@@ -30,13 +32,11 @@
       <item value="disruptor" />
       <item value="Adds a CommandResponder to this SNMP session. The command responder will then be informed about incoming SNMP PDUs of any kind that are not related to any outstanding requests of this SNMP session." />
       <item value="&quot;Agent is run uninitialized, current state is" />
-      <item value="uninitialized" />
-      <item value=" DESKTOP-QHNOCTR" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="437" />
-        <entry key="ENGLISH" value="438" />
+        <entry key="CHINESE" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
