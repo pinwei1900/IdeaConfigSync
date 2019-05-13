@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Trap Filter Manager" />
+      <item value="I Trap Filter Manager" />
       <item value="Types of network elements that are not allowed to be reported" />
       <item value="viewlog_文件路径" />
       <item value="sync Ntp Time" />
@@ -30,13 +32,11 @@
       <item value="boot Counter File" />
       <item value="over level1 threshold alarm" />
       <item value="cleared" />
-      <item value="warning" />
-      <item value="minor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="428" />
-        <entry key="ENGLISH" value="429" />
+        <entry key="CHINESE" value="430" />
+        <entry key="ENGLISH" value="431" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
