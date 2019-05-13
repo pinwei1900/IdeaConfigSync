@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="threshold Config List" />
       <item value="RESTRICTIONS" />
       <item value="CMS Channel Processor" />
       <item value="Alarm Disruptor Manager" />
@@ -31,12 +32,11 @@
       <item value="获取portal地址" />
       <item value="validate Url" />
       <item value="disruptor" />
-      <item value="Adds a CommandResponder to this SNMP session. The command responder will then be informed about incoming SNMP PDUs of any kind that are not related to any outstanding requests of this SNMP session." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="440" />
-        <entry key="ENGLISH" value="441" />
+        <entry key="CHINESE" value="441" />
+        <entry key="ENGLISH" value="442" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
