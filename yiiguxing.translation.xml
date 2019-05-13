@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="STRUCTURE" />
       <item value="threshold Config List" />
       <item value="RESTRICTIONS" />
       <item value="CMS Channel Processor" />
@@ -31,12 +32,11 @@
       <item value="portal" />
       <item value="获取portal地址" />
       <item value="validate Url" />
-      <item value="disruptor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="442" />
+        <entry key="ENGLISH" value="443" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
