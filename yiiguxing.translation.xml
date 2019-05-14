@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="View Log Dispatcher" />
       <item value="STRUCTURE" />
       <item value="threshold Config List" />
       <item value="RESTRICTIONS" />
@@ -31,7 +32,6 @@
       <item value="portal User Sync" />
       <item value="portal" />
       <item value="获取portal地址" />
-      <item value="validate Url" />
     </histories>
     <option name="languageScores">
       <map>
