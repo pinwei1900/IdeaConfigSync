@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="decorate" />
       <item value="Get the list of results this query returns" />
       <item value="rendered" />
       <item value="evenrow" />
@@ -31,12 +32,11 @@
       <item value="viewlog_文件路径" />
       <item value="sync Ntp Time" />
       <item value="persist Hw Band Width Data" />
-      <item value="4 KEPG PARSE THREAD NUM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="447" />
-        <entry key="ENGLISH" value="448" />
+        <entry key="CHINESE" value="448" />
+        <entry key="ENGLISH" value="449" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
