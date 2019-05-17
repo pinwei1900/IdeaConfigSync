@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="re Render" />
       <item value="decorate" />
       <item value="Get the list of results this query returns" />
       <item value="rendered" />
@@ -31,12 +32,11 @@
       <item value="Types of network elements that are not allowed to be reported" />
       <item value="viewlog_文件路径" />
       <item value="sync Ntp Time" />
-      <item value="persist Hw Band Width Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
