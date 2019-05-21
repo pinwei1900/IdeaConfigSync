@@ -1,9 +1,7 @@
 <code_scheme name="GoogleStyle" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="100" />
@@ -39,6 +37,9 @@
     <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
     <option name="JD_KEEP_EMPTY_RETURN" value="false" />
   </JavaCodeStyleSettings>
+  <JspCodeStyleSettings>
+    <option name="JSP_PREFER_COMMA_SEPARATED_IMPORT_LIST" value="true" />
+  </JspCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
@@ -119,9 +120,7 @@
   <codeStyleSettings language="HTML">
     <option name="RIGHT_MARGIN" value="150" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JAVA">
@@ -155,6 +154,12 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSPX">
+    <option name="RIGHT_MARGIN" value="150" />
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
@@ -234,11 +239,9 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="RIGHT_MARGIN" value="100" />
+    <option name="RIGHT_MARGIN" value="150" />
     <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
     </indentOptions>
     <arrangement>
       <rules>
