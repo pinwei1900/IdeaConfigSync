@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="verify" />
       <item value="Removing a detached instance" />
       <item value="oid Config Updated Succ" />
       <item value="re Render" />
@@ -31,12 +32,11 @@
       <item value="redundent" />
       <item value="Trap Filter Manager" />
       <item value="I Trap Filter Manager" />
-      <item value="Types of network elements that are not allowed to be reported" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="450" />
-        <entry key="ENGLISH" value="451" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
