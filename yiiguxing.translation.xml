@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Scalar Objects" />
       <item value="cp content injection storage space above threshold" />
       <item value="CPUSAGE" />
       <item value="default context name" />
@@ -31,12 +32,11 @@
       <item value="CMS Channel Processor" />
       <item value="Alarm Disruptor Manager" />
       <item value="trap Filter Manager" />
-      <item value="LOGIN BY PORTAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="461" />
-        <entry key="ENGLISH" value="462" />
+        <entry key="CHINESE" value="462" />
+        <entry key="ENGLISH" value="463" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
