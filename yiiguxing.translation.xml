@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="config mail not send to root" />
       <item value="Adds community to security name mappings needed for SNMPv1 and SNMPv2c." />
       <item value="Command Responder" />
       <item value="octet" />
@@ -31,12 +32,11 @@
       <item value="redefine alarm level,redefine time" />
       <item value="amline Date Path" />
       <item value="set snmp trap traget ip" />
-      <item value="init Http Root Context Cfg" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="455" />
-        <entry key="ENGLISH" value="456" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="457" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
