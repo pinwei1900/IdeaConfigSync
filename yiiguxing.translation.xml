@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Adds initial notification targets and filters." />
       <item value="if the boot counter or config file cannot be read properly" />
       <item value="a configuration file with serialized management information" />
       <item value="a file containing the boot counter in serialized form" />
@@ -31,11 +32,10 @@
       <item value="View Log Dispatcher" />
       <item value="STRUCTURE" />
       <item value="threshold Config List" />
-      <item value="RESTRICTIONS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
+        <entry key="CHINESE" value="466" />
         <entry key="ENGLISH" value="466" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
