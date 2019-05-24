@@ -2,7 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="MO Table Row" />
+      <item value="The MOTableRow interface describes a conceptual table row." />
+      <item value="authentication Passphrase" />
+      <item value="authentication Protocol" />
+      <item value="privacy Protocol" />
+      <item value="privacy Passphrase" />
+      <item value="The UsmUser class represents USM user providing information to secure SNMPv3 message exchange. A user is characterized by its security name and optionally by a authentication protocol and passphrase as well as a privacy protocol and passphrase." />
+      <item value="Register additional managed objects at the agent's server." />
       <item value="Adds initial notification targets and filters." />
+      <item value="Adds community to security name mappings needed for SNMPv1 and SNMPv2c." />
       <item value="if the boot counter or config file cannot be read properly" />
       <item value="a configuration file with serialized management information" />
       <item value="a file containing the boot counter in serialized form" />
@@ -12,7 +21,6 @@
       <item value="default context name" />
       <item value="register Managed Objects" />
       <item value="config mail not send to root" />
-      <item value="Adds community to security name mappings needed for SNMPv1 and SNMPv2c." />
       <item value="Command Responder" />
       <item value="octet" />
       <item value="identifier of an instance of com.fonsview.omc.nm.ss.SpBatchConfig was altered from 12" />
@@ -24,22 +32,15 @@
       <item value="Get the list of results this query returns" />
       <item value="rendered" />
       <item value="evenrow" />
-      <item value="Creates the test agent with a file to read and store the boot counter and a file to read and store its configuration." />
-      <item value="archive" />
-      <item value="archive Data" />
-      <item value="REQUIRED" />
-      <item value="archive Util" />
-      <item value="View Log Dispatcher" />
-      <item value="STRUCTURE" />
-      <item value="threshold Config List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="466" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="477" />
+        <entry key="ENGLISH" value="477" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
+        <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="1" />
