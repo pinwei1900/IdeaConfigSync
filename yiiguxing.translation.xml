@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Software Operation Filter" />
+      <item value="Agent Start Filter" />
+      <item value="Control Message Filter" />
+      <item value="TRAP STYLE CTRL TM RST" />
+      <item value="Command For Set SNMP Destination" />
+      <item value="Cold Start Filter" />
+      <item value="portal" />
       <item value="MO Table Row" />
       <item value="The MOTableRow interface describes a conceptual table row." />
       <item value="authentication Passphrase" />
@@ -25,18 +32,11 @@
       <item value="octet" />
       <item value="identifier of an instance of com.fonsview.omc.nm.ss.SpBatchConfig was altered from 12" />
       <item value="verify" />
-      <item value="Removing a detached instance" />
-      <item value="oid Config Updated Succ" />
-      <item value="re Render" />
-      <item value="decorate" />
-      <item value="Get the list of results this query returns" />
-      <item value="rendered" />
-      <item value="evenrow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="477" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
