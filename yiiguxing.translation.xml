@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="storage utilization" />
       <item value="notify Topo Rsp" />
       <item value="Key Synchronization Response" />
       <item value="noty Key Synch Info" />
@@ -31,12 +32,11 @@
       <item value="CPUSAGE" />
       <item value="default context name" />
       <item value="register Managed Objects" />
-      <item value="config mail not send to root" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
