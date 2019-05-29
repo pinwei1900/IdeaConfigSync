@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="notify Topo Rsp" />
       <item value="Topo Info" />
       <item value="Software Operation Filter" />
       <item value="Agent Start Filter" />
@@ -31,12 +32,11 @@
       <item value="config mail not send to root" />
       <item value="Command Responder" />
       <item value="octet" />
-      <item value="identifier of an instance of com.fonsview.omc.nm.ss.SpBatchConfig was altered from 12" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="485" />
-        <entry key="ENGLISH" value="485" />
+        <entry key="ENGLISH" value="486" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
