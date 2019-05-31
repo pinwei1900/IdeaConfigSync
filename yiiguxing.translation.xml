@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="sensor" />
       <item value="2 output directories which don't correspond to existing modules are found under F:\workspace\svn\fonsview_wh_svn\omc\nms\omc250\classes. You may delete these directories to save disk space." />
       <item value="storage utilization" />
       <item value="notify Topo Rsp" />
@@ -31,12 +32,11 @@
       <item value="Scalar Objects" />
       <item value="cp content injection storage space above threshold" />
       <item value="CPUSAGE" />
-      <item value="default context name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="490" />
-        <entry key="ENGLISH" value="491" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="492" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
