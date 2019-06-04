@@ -15,5 +15,6 @@
     <mask>*.xml</mask>
     <mask>*.xhtml</mask>
     <mask>*.java</mask>
+    <mask>build.xml</mask>
   </component>
 </application>
