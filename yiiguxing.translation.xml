@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Cannot run tests because path to project contains spaces" />
       <item value="This class for the Flex to invoke for real time detection" />
       <item value="sensor" />
       <item value="2 output directories which don't correspond to existing modules are found under F:\workspace\svn\fonsview_wh_svn\omc\nms\omc250\classes. You may delete these directories to save disk space." />
@@ -31,7 +32,6 @@
       <item value="a configuration file with serialized management information" />
       <item value="a file containing the boot counter in serialized form" />
       <item value="Scalar Objects" />
-      <item value="cp content injection storage space above threshold" />
     </histories>
     <option name="languageScores">
       <map>
