@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="a file containing the boot counter in serialized form" />
       <item value="Cannot run tests because path to project contains spaces" />
       <item value="This class for the Flex to invoke for real time detection" />
       <item value="sensor" />
@@ -30,7 +31,6 @@
       <item value="Adds community to security name mappings needed for SNMPv1 and SNMPv2c." />
       <item value="if the boot counter or config file cannot be read properly" />
       <item value="a configuration file with serialized management information" />
-      <item value="a file containing the boot counter in serialized form" />
       <item value="Scalar Objects" />
     </histories>
     <option name="languageScores">
