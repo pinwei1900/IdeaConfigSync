@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="add View Tree Family" />
       <item value="Adds a new view to this VACM. An already existing entry with the same view name and subtree OID will be replaced silently." />
       <item value="Adds an access entry to this VACM and thus adds access rights for a group" />
       <item value="Adds a security model and name to group name mapping to this VACM. Any already existing mapping for the security name and model will be silently replaced." />
@@ -31,7 +32,6 @@
       <item value="Control Message Filter" />
       <item value="TRAP STYLE CTRL TM RST" />
       <item value="Command For Set SNMP Destination" />
-      <item value="Cold Start Filter" />
     </histories>
     <option name="languageScores">
       <map>
