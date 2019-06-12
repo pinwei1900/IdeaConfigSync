@@ -2,6 +2,12 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Adds initial notification targets and filters" />
+      <item value="if the boot counter or config file cannot be read properly." />
+      <item value="a file with serialized configuration information (read/write). If the file does not exist it is created on shutdown of the agent." />
+      <item value="a file with serialized boot-counter information (read/write). If the file does not exist it is created on shutdown of the agent." />
+      <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent." />
+      <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent" />
       <item value="This concrete implementation of the SNMP-VIEW-BASED-ACM-MIB (RFC 3415)." />
       <item value="concrete" />
       <item value="Vacm MIB" />
@@ -26,17 +32,11 @@
       <item value="MO Table Row" />
       <item value="The MOTableRow interface describes a conceptual table row." />
       <item value="authentication Passphrase" />
-      <item value="authentication Protocol" />
-      <item value="privacy Protocol" />
-      <item value="privacy Passphrase" />
-      <item value="The UsmUser class represents USM user providing information to secure SNMPv3 message exchange. A user is characterized by its security name and optionally by a authentication protocol and passphrase as well as a privacy protocol and passphrase." />
-      <item value="Register additional managed objects at the agent's server." />
-      <item value="Adds initial notification targets and filters." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="493" />
-        <entry key="ENGLISH" value="493" />
+        <entry key="CHINESE" value="494" />
+        <entry key="ENGLISH" value="494" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
