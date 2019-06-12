@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Register the basic MIB modules at the agent's MOServer." />
+      <item value="Register additional managed objects at the agent's server." />
+      <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414. When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
+      <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414.&#10;When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
+      <item value="This concrete implementation of the SNMP-VIEW-BASED-ACM-MIB (RFC 3415). The configuration of the view access model can be changed programatically (see MutableVACM) or via SNMP but an initial configuration must be created programatically in order to allow any access to the agent via SNMP" />
+      <item value="Initialize transport mappings, message dispatcher, basic MIB modules, proxy forwarder, VACM and USM security, and custom MIB modules and objects provided by sub-classes." />
+      <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent." />
       <item value="add View Tree Family" />
       <item value="Adds a new view to this VACM. An already existing entry with the same view name and subtree OID will be replaced silently." />
       <item value="Adds an access entry to this VACM and thus adds access rights for a group" />
@@ -11,7 +18,6 @@
       <item value="if the boot counter or config file cannot be read properly." />
       <item value="a file with serialized configuration information (read/write). If the file does not exist it is created on shutdown of the agent." />
       <item value="a file with serialized boot-counter information (read/write). If the file does not exist it is created on shutdown of the agent." />
-      <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent." />
       <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent" />
       <item value="This concrete implementation of the SNMP-VIEW-BASED-ACM-MIB (RFC 3415)." />
       <item value="concrete" />
@@ -26,12 +32,6 @@
       <item value="notify Topo Rsp" />
       <item value="Key Synchronization Response" />
       <item value="noty Key Synch Info" />
-      <item value="Topo Info" />
-      <item value="Software Operation Filter" />
-      <item value="Agent Start Filter" />
-      <item value="Control Message Filter" />
-      <item value="TRAP STYLE CTRL TM RST" />
-      <item value="Command For Set SNMP Destination" />
     </histories>
     <option name="languageScores">
       <map>
