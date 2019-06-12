@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Creates a RowStatus column with the specified column sub-identifier and maximum access of 'read-create'." />
       <item value="Register the basic MIB modules at the agent's MOServer." />
       <item value="Register additional managed objects at the agent's server." />
       <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414. When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
@@ -31,7 +32,6 @@
       <item value="storage utilization" />
       <item value="notify Topo Rsp" />
       <item value="Key Synchronization Response" />
-      <item value="noty Key Synch Info" />
     </histories>
     <option name="languageScores">
       <map>
