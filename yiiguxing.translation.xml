@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="This concrete implementation of the SNMP-VIEW-BASED-ACM-MIB (RFC 3415)." />
+      <item value="concrete" />
+      <item value="Vacm MIB" />
       <item value="Creates the test agent with a file to read and store the boot counter and a file to read and store its configuration." />
       <item value="a file containing the boot counter in serialized form" />
       <item value="Cannot run tests because path to project contains spaces" />
@@ -29,9 +32,6 @@
       <item value="The UsmUser class represents USM user providing information to secure SNMPv3 message exchange. A user is characterized by its security name and optionally by a authentication protocol and passphrase as well as a privacy protocol and passphrase." />
       <item value="Register additional managed objects at the agent's server." />
       <item value="Adds initial notification targets and filters." />
-      <item value="Adds community to security name mappings needed for SNMPv1 and SNMPv2c." />
-      <item value="if the boot counter or config file cannot be read properly" />
-      <item value="a configuration file with serialized management information" />
     </histories>
     <option name="languageScores">
       <map>
