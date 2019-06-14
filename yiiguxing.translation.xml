@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="The Python plug-in provides smart editing for Python scripts. The feature set of the plugin corresponds to PyCharm IDE Professional Edition." />
       <item value="Sub Network" />
       <item value="get Sub Networks" />
       <item value="ss Route Batch Manager" />
@@ -31,11 +32,10 @@
       <item value="Cannot run tests because path to project contains spaces" />
       <item value="This class for the Flex to invoke for real time detection" />
       <item value="sensor" />
-      <item value="2 output directories which don't correspond to existing modules are found under F:\workspace\svn\fonsview_wh_svn\omc\nms\omc250\classes. You may delete these directories to save disk space." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="497" />
+        <entry key="CHINESE" value="498" />
         <entry key="ENGLISH" value="498" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
