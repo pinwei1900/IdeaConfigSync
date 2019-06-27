@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl 1" />
+  </action>
+  <action id="ScrollPane-unitScrollLeft">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
+  <action id="ScrollPane-unitScrollRight">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+</keymap>
