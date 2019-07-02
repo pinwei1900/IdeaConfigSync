@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="alarm Probable Cause Code" />
       <item value="while" />
       <item value="radix" />
       <item value="the string representation of the unsigned long value represented by the argument in binary" />
@@ -31,7 +32,6 @@
       <item value="if the boot counter or config file cannot be read properly." />
       <item value="a file with serialized configuration information (read/write). If the file does not exist it is created on shutdown of the agent." />
       <item value="a file with serialized boot-counter information (read/write). If the file does not exist it is created on shutdown of the agent." />
-      <item value="The CommandProcessor is the central glue code that puts together the various sub-systems of a SNMP agent" />
     </histories>
     <option name="languageScores">
       <map>
