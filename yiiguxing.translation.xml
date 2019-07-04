@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Web Portal documents have been falsified" />
+      <item value="set Alarm Eliminate Status" />
       <item value="alarm Probable Cause Code" />
       <item value="while" />
       <item value="radix" />
@@ -30,13 +32,11 @@
       <item value="the VacmMIB holding the agent's view configuration." />
       <item value="Adds initial notification targets and filters" />
       <item value="if the boot counter or config file cannot be read properly." />
-      <item value="a file with serialized configuration information (read/write). If the file does not exist it is created on shutdown of the agent." />
-      <item value="a file with serialized boot-counter information (read/write). If the file does not exist it is created on shutdown of the agent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
