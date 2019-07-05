@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true." />
       <item value="Web Portal documents have been falsified" />
       <item value="set Alarm Eliminate Status" />
       <item value="alarm Probable Cause Code" />
@@ -31,11 +32,10 @@
       <item value="Adds a security model and name to group name mapping to this VACM. Any already existing mapping for the security name and model will be silently replaced." />
       <item value="the VacmMIB holding the agent's view configuration." />
       <item value="Adds initial notification targets and filters" />
-      <item value="if the boot counter or config file cannot be read properly." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="503" />
+        <entry key="CHINESE" value="504" />
         <entry key="ENGLISH" value="504" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
