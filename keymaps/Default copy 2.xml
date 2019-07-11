@@ -5,10 +5,14 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="EditorStartNewLine" />
   <action id="ScrollPane-unitScrollLeft">
     <mouse-shortcut keystroke="control button143" />
   </action>
