@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="communication disconnect" />
       <item value="false if the waiting time detectably elapsed before return from the method, else true" />
       <item value="documents have been falsified" />
       <item value="Web Portal documents have been falsified" />
@@ -31,12 +32,11 @@
       <item value="add View Tree Family" />
       <item value="Adds a new view to this VACM. An already existing entry with the same view name and subtree OID will be replaced silently." />
       <item value="Adds an access entry to this VACM and thus adds access rights for a group" />
-      <item value="Adds a security model and name to group name mapping to this VACM. Any already existing mapping for the security name and model will be silently replaced." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="505" />
+        <entry key="ENGLISH" value="506" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
