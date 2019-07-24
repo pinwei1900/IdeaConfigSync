@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="所以对数据库的数据状态进一步判断" />
       <item value="severity" />
       <item value="disk usage above threshold level1" />
       <item value="disk usage above threshold level2" />
@@ -31,7 +32,6 @@
       <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414. When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
       <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414.&#10;When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
       <item value="This concrete implementation of the SNMP-VIEW-BASED-ACM-MIB (RFC 3415). The configuration of the view access model can be changed programatically (see MutableVACM) or via SNMP but an initial configuration must be created programatically in order to allow any access to the agent via SNMP" />
-      <item value="Initialize transport mappings, message dispatcher, basic MIB modules, proxy forwarder, VACM and USM security, and custom MIB modules and objects provided by sub-classes." />
     </histories>
     <option name="languageScores">
       <map>
