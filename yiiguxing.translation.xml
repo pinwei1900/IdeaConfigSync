@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="single Nic Perf Data" />
       <item value="Web Portal documents have been falsified" />
       <item value="signal interrupt" />
       <item value="A Promise for the completion of which ever callback is executed." />
@@ -31,7 +32,6 @@
       <item value="Creates a RowStatus column with the specified column sub-identifier and maximum access of 'read-create'." />
       <item value="Register the basic MIB modules at the agent's MOServer." />
       <item value="Register additional managed objects at the agent's server." />
-      <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414. When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
     </histories>
     <option name="languageScores">
       <map>
