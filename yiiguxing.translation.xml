@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Web Portal documents have been falsified" />
+      <item value="signal interrupt" />
       <item value="A Promise for the completion of which ever callback is executed." />
       <item value="所以对数据库的数据状态进一步判断" />
       <item value="severity" />
@@ -11,7 +13,6 @@
       <item value="communication disconnect" />
       <item value="false if the waiting time detectably elapsed before return from the method, else true" />
       <item value="documents have been falsified" />
-      <item value="Web Portal documents have been falsified" />
       <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true." />
       <item value="set Alarm Eliminate Status" />
       <item value="alarm Probable Cause Code" />
@@ -31,12 +32,11 @@
       <item value="Register the basic MIB modules at the agent's MOServer." />
       <item value="Register additional managed objects at the agent's server." />
       <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414. When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
-      <item value="The USM class implements the User Based Security Model (USM) as defined in RFC3414.&#10;When a user is added or removed from the USM, a UsmUserEvent is fired and forwarded to registered listeners." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="ENGLISH" value="510" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
