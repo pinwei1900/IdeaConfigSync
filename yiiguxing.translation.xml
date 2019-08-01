@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="send Internal Conf" />
       <item value="single Nic Perf Data" />
       <item value="Web Portal documents have been falsified" />
       <item value="signal interrupt" />
@@ -31,12 +32,11 @@
       <item value="ss Route Batch Manager" />
       <item value="Creates a RowStatus column with the specified column sub-identifier and maximum access of 'read-create'." />
       <item value="Register the basic MIB modules at the agent's MOServer." />
-      <item value="Register additional managed objects at the agent's server." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="509" />
-        <entry key="ENGLISH" value="510" />
+        <entry key="CHINESE" value="510" />
+        <entry key="ENGLISH" value="511" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
