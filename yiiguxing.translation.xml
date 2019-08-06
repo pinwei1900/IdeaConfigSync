@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Enumeration for the message delivery mode. Can be persistent or non persistent. Use the method 'toInt' to get the appropriate value that is used the he AMQP protocol instead of the ordinal() value when passing into AMQP APIs." />
       <item value="Real Disk Raid Cfg Info" />
       <item value="Get the list of configured network interface names." />
       <item value="executed" />
@@ -31,11 +32,10 @@
       <item value="Infinite recursion" />
       <item value="Ott Conf Controller" />
       <item value="The Python plug-in provides smart editing for Python scripts. The feature set of the plugin corresponds to PyCharm IDE Professional Edition." />
-      <item value="Sub Network" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="513" />
+        <entry key="CHINESE" value="514" />
         <entry key="ENGLISH" value="514" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
