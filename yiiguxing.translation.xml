@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="signal interrupt" />
       <item value="Enumeration for the message delivery mode. Can be persistent or non persistent. Use the method 'toInt' to get the appropriate value that is used the he AMQP protocol instead of the ordinal() value when passing into AMQP APIs." />
       <item value="Real Disk Raid Cfg Info" />
       <item value="Get the list of configured network interface names." />
@@ -10,7 +11,6 @@
       <item value="send Internal Conf" />
       <item value="single Nic Perf Data" />
       <item value="Web Portal documents have been falsified" />
-      <item value="signal interrupt" />
       <item value="A Promise for the completion of which ever callback is executed." />
       <item value="所以对数据库的数据状态进一步判断" />
       <item value="severity" />
