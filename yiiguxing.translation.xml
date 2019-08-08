@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="alarm Severity" />
       <item value="syzhang" />
       <item value="signal interrupt" />
       <item value="Enumeration for the message delivery mode. Can be persistent or non persistent. Use the method 'toInt' to get the appropriate value that is used the he AMQP protocol instead of the ordinal() value when passing into AMQP APIs." />
@@ -31,12 +32,11 @@
       <item value="Cannot assign requested address: bind" />
       <item value="Invocation of init method failed; nested exception is com.sun.xml.internal.ws.server.ServerRtException: 服务器运行时错误: java.net.BindException: Cannot assign requested address: bind" />
       <item value="Infinite recursion" />
-      <item value="Ott Conf Controller" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
