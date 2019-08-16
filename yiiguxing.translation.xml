@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="standby" />
+      <item value="loadshare" />
       <item value="CDN Service Manage Soap Binding Stub" />
       <item value="alarm Severity" />
       <item value="syzhang" />
@@ -30,13 +32,11 @@
       <item value="radix" />
       <item value="the string representation of the unsigned long value represented by the argument in binary" />
       <item value="find By Url Prefix And Content Service Id" />
-      <item value="Cannot assign requested address: bind" />
-      <item value="Invocation of init method failed; nested exception is com.sun.xml.internal.ws.server.ServerRtException: 服务器运行时错误: java.net.BindException: Cannot assign requested address: bind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="515" />
-        <entry key="ENGLISH" value="516" />
+        <entry key="CHINESE" value="517" />
+        <entry key="ENGLISH" value="518" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
