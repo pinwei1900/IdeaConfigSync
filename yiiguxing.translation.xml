@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="set Csj Host Black List" />
+      <item value="set Csj Domain Black List" />
+      <item value="Big File Domain List" />
       <item value="standby" />
       <item value="loadshare" />
       <item value="CDN Service Manage Soap Binding Stub" />
@@ -29,14 +32,11 @@
       <item value="set Alarm Eliminate Status" />
       <item value="alarm Probable Cause Code" />
       <item value="while" />
-      <item value="radix" />
-      <item value="the string representation of the unsigned long value represented by the argument in binary" />
-      <item value="find By Url Prefix And Content Service Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="517" />
-        <entry key="ENGLISH" value="518" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
