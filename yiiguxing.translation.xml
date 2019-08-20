@@ -2,41 +2,41 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="set Csj Host Black List" />
-      <item value="set Csj Domain Black List" />
-      <item value="Big File Domain List" />
-      <item value="standby" />
-      <item value="loadshare" />
-      <item value="CDN Service Manage Soap Binding Stub" />
-      <item value="alarm Severity" />
-      <item value="syzhang" />
-      <item value="signal interrupt" />
-      <item value="Enumeration for the message delivery mode. Can be persistent or non persistent. Use the method 'toInt' to get the appropriate value that is used the he AMQP protocol instead of the ordinal() value when passing into AMQP APIs." />
-      <item value="Real Disk Raid Cfg Info" />
-      <item value="Get the list of configured network interface names." />
-      <item value="executed" />
-      <item value="North Interface soap url for super omc" />
-      <item value="send Internal Conf" />
-      <item value="single Nic Perf Data" />
-      <item value="Web Portal documents have been falsified" />
-      <item value="A Promise for the completion of which ever callback is executed." />
-      <item value="所以对数据库的数据状态进一步判断" />
-      <item value="severity" />
-      <item value="disk usage above threshold level1" />
-      <item value="disk usage above threshold level2" />
-      <item value="disk usage above threshold" />
-      <item value="communication disconnect" />
-      <item value="false if the waiting time detectably elapsed before return from the method, else true" />
-      <item value="documents have been falsified" />
-      <item value="Returns true if this task completed. Completion may be due to normal termination, an exception, or cancellation -- in all of these cases, this method will return true." />
-      <item value="set Alarm Eliminate Status" />
-      <item value="alarm Probable Cause Code" />
-      <item value="while" />
+      <item value="通知主机初始化软件包" />
+      <item value="通知主机安装软件包" />
+      <item value="通知主机下载软件包" />
+      <item value="IP白名单导入" />
+      <item value="下载IP白名单模板" />
+      <item value="删除白名单IP" />
+      <item value="修改IP白名单标识" />
+      <item value="添加IP白名单" />
+      <item value="启停配置" />
+      <item value="更新系统配置" />
+      <item value="修改统计周期任务" />
+      <item value="批量执行命令" />
+      <item value="添加主机命令" />
+      <item value="Fums升级" />
+      <item value="删除上传文件" />
+      <item value="上传文件" />
+      <item value="添加归档的测略" />
+      <item value="添加归档测略" />
+      <item value="修改VODLD应用配置" />
+      <item value="modifyvodldappconfig" />
+      <item value="VCC设备配置" />
+      <item value="Redirect Statistics" />
+      <item value="expor Unrrs Redirect Statistics" />
+      <item value="导出当前并发调度数据" />
+      <item value="SS/SLB节点信息配置" />
+      <item value="SLB节点信息配置" />
+      <item value="Redis信息配置" />
+      <item value="Unrrs策略配置" />
+      <item value="Unrrs主机名配置" />
+      <item value="set Unrrs Host Name Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="520" />
-        <entry key="ENGLISH" value="521" />
+        <entry key="CHINESE" value="568" />
+        <entry key="ENGLISH" value="568" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -44,7 +44,7 @@
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="1" />
-        <entry key="PORTUGUESE" value="1" />
+        <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
