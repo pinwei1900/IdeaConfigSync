@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="documents have been falsified" />
       <item value="A listing of project-local build profiles which will modify the build process when activated." />
       <item value="通知主机初始化软件包" />
       <item value="通知主机安装软件包" />
@@ -31,7 +32,6 @@
       <item value="SLB节点信息配置" />
       <item value="Redis信息配置" />
       <item value="Unrrs策略配置" />
-      <item value="Unrrs主机名配置" />
     </histories>
     <option name="languageScores">
       <map>
