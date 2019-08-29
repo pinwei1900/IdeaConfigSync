@@ -2,12 +2,14 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="webservice send config failed" />
+      <item value="webservice to shut down failed" />
+      <item value="Web Portal documents have been falsified" />
+      <item value="documents have been falsified" />
       <item value="alarm shield" />
       <item value="unique" />
       <item value="唯一" />
       <item value="clear Web Portal Alarms" />
-      <item value="Web Portal documents have been falsified" />
-      <item value="documents have been falsified" />
       <item value="A listing of project-local build profiles which will modify the build process when activated." />
       <item value="通知主机初始化软件包" />
       <item value="通知主机安装软件包" />
@@ -30,13 +32,11 @@
       <item value="修改VODLD应用配置" />
       <item value="modifyvodldappconfig" />
       <item value="VCC设备配置" />
-      <item value="Redirect Statistics" />
-      <item value="expor Unrrs Redirect Statistics" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
