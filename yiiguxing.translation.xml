@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="请确保url Prefix与content Service Id配置唯一" />
       <item value="set Disconnect Alarm Eliminate" />
       <item value="webservice send config failed" />
       <item value="webservice to shut down failed" />
@@ -31,7 +32,6 @@
       <item value="添加归档的测略" />
       <item value="添加归档测略" />
       <item value="修改VODLD应用配置" />
-      <item value="modifyvodldappconfig" />
     </histories>
     <option name="languageScores">
       <map>
