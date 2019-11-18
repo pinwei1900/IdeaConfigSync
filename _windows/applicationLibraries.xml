@@ -13,7 +13,7 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Remote Python 2.7.5 (sftp://root@10.96.155.170:22/usr/bin/python) interpreter library">
+    <library name="Remote Python 2.7.5 (sftp://root@10.96.155.60:22/usr/bin/python) interpreter library">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
