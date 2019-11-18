@@ -13,35 +13,6 @@
         <root url="jar://$APPLICATION_PLUGINS_DIR$/protobuf-jetbrains-plugin/lib/protobuf-java-3.6.1-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Python 2.7 interpreter library">
-      <CLASSES>
-        <root url="file://C:/Python27/DLLs" />
-        <root url="file://C:/Python27/Lib" />
-        <root url="file://C:/Python27/Lib/lib-tk" />
-        <root url="file://C:/Python27" />
-        <root url="file://C:/Python27/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-762174762" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://C:/Python27/DLLs" />
-        <root url="file://C:/Python27/Lib" />
-        <root url="file://C:/Python27/Lib/lib-tk" />
-        <root url="file://C:/Python27" />
-        <root url="file://C:/Python27/Lib/site-packages" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2019.1/system/python_stubs/-762174762" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="Remote Python 2.7.5 (sftp://root@10.96.155.170:22/usr/bin/python) interpreter library">
       <CLASSES />
       <JAVADOC />
