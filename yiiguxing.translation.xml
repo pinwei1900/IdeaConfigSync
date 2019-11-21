@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Web Portal documents have been falsified" />
       <item value="true if this lock should use a fair ordering policy" />
       <item value="pack at quarters" />
       <item value="alarm Shield Filter" />
@@ -18,7 +19,6 @@
       <item value="set Disconnect Alarm Eliminate" />
       <item value="webservice send config failed" />
       <item value="webservice to shut down failed" />
-      <item value="Web Portal documents have been falsified" />
       <item value="documents have been falsified" />
       <item value="alarm shield" />
       <item value="unique" />
@@ -36,7 +36,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="582" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="ENGLISH" value="583" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
