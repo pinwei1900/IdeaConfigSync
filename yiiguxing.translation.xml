@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="to indicate any signature" />
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent" />
       <item value="Web Portal documents have been falsified" />
       <item value="documents have been falsified" />
@@ -31,7 +32,6 @@
       <item value="通知主机下载软件包" />
       <item value="IP白名单导入" />
       <item value="下载IP白名单模板" />
-      <item value="删除白名单IP" />
     </histories>
     <option name="languageScores">
       <map>
