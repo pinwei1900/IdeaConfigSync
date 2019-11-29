@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_branch_f50/fums/02_gitcode/fums" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_branch_f601/fums/02_gitcode/agent_cmcc" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_branch_f601/fums/02_gitcode/fums" firstStartUp="false" />
   </component>
