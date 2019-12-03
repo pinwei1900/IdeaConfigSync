@@ -19,4 +19,11 @@
   <action id="ScrollPane-unitScrollRight">
     <mouse-shortcut keystroke="control button142" />
   </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
 </keymap>
