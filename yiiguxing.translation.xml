@@ -2,6 +2,13 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="巡檢内容" />
+      <item value="expression" />
+      <item value="表達式" />
+      <item value="周期類型" />
+      <item value="結束時間" />
+      <item value="開始時間" />
+      <item value="巡檢名" />
       <item value="synonym" />
       <item value="to indicate any signature" />
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent" />
@@ -25,18 +32,11 @@
       <item value="webservice to shut down failed" />
       <item value="alarm shield" />
       <item value="unique" />
-      <item value="唯一" />
-      <item value="clear Web Portal Alarms" />
-      <item value="A listing of project-local build profiles which will modify the build process when activated." />
-      <item value="通知主机初始化软件包" />
-      <item value="通知主机安装软件包" />
-      <item value="通知主机下载软件包" />
-      <item value="IP白名单导入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="586" />
-        <entry key="ENGLISH" value="587" />
+        <entry key="CHINESE" value="593" />
+        <entry key="ENGLISH" value="593" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
