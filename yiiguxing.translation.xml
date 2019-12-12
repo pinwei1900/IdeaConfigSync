@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="下发配置文件备份" />
       <item value="Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'alarmInspectTask' is expected to be of type 'com.fiberhome.fums.inspection.inspect.report.inspecttask.AlarmInspectTask' but was actually of type 'com.sun.proxy.$Proxy192'" />
       <item value="巡檢内容" />
       <item value="expression" />
@@ -31,11 +32,10 @@
       <item value="set Disconnect Alarm Eliminate" />
       <item value="webservice send config failed" />
       <item value="webservice to shut down failed" />
-      <item value="alarm shield" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="593" />
+        <entry key="CHINESE" value="594" />
         <entry key="ENGLISH" value="594" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
