@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="開始實現" />
+      <item value="設備類型" />
+      <item value="告警自愈" />
       <item value="Transient" />
       <item value="系统自愈" />
       <item value="dispense documents have been falsified" />
@@ -29,14 +32,11 @@
       <item value="告警配置修改" />
       <item value="detached entity passed to persist" />
       <item value="标准" />
-      <item value="alarm specific" />
-      <item value="告警逻辑分类" />
-      <item value="请确保url Prefix与content Service Id配置唯一" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="598" />
+        <entry key="ENGLISH" value="598" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
