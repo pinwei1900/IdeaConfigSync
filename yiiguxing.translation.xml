@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Chart Rendering Info" />
+      <item value="compression" />
+      <item value="encode Alpha" />
       <item value="開始實現" />
       <item value="設備類型" />
       <item value="告警自愈" />
@@ -29,14 +32,11 @@
       <item value="是否禁用contentid校验" />
       <item value="当前容量为B，已超过最大存储容量A" />
       <item value="超过结点最大存储值" />
-      <item value="告警配置修改" />
-      <item value="detached entity passed to persist" />
-      <item value="标准" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="598" />
-        <entry key="ENGLISH" value="598" />
+        <entry key="CHINESE" value="600" />
+        <entry key="ENGLISH" value="601" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
