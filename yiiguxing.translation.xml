@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="merge" />
       <item value="Chart Rendering Info" />
       <item value="compression" />
       <item value="encode Alpha" />
@@ -31,11 +32,10 @@
       <item value="dis health inspect script" />
       <item value="是否禁用contentid校验" />
       <item value="当前容量为B，已超过最大存储容量A" />
-      <item value="超过结点最大存储值" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="600" />
+        <entry key="CHINESE" value="601" />
         <entry key="ENGLISH" value="601" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
@@ -43,7 +43,7 @@
         <entry key="FILIPINO" value="1" />
         <entry key="CZECH" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SUNDANESE" value="3" />
