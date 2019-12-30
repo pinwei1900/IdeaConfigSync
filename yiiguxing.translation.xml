@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="void Calling &quot;setAttribute&quot; on thread-shared object" />
+      <item value="validate Response For ID" />
       <item value="store procedure" />
       <item value="告警专家库配置" />
       <item value="merge" />
@@ -30,13 +32,11 @@
       <item value="documents have been falsified" />
       <item value="true if this lock should use a fair ordering policy" />
       <item value="pack at quarters" />
-      <item value="alarm Shield Filter" />
-      <item value="dis health inspect script" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="602" />
-        <entry key="ENGLISH" value="603" />
+        <entry key="CHINESE" value="604" />
+        <entry key="ENGLISH" value="605" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
