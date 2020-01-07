@@ -1,5 +1,8 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://maven.apache.org/ASSEMBLY-COMPONENT/2.0.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/b64dc816_assembly-component-2.0.0.xsd" />
+    <resource url="http://maven.apache.org/ASSEMBLY/2.0.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
+    <resource url="http://maven.apache.org/DECORATION/1.8.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/436c0977_decoration-1.8.0.xsd" />
+    <resource url="http://maven.apache.org/TOOLCHAINS/1.1.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/f3826aea_toolchains-1.1.0.xsd" />
   </component>
 </application>
