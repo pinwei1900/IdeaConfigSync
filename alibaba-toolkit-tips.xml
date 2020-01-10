@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Downloads/ant-design-pro-master" firstStartUp="false" />
     <entry projectName="E:/workspace/apache-maven-3.6.3-src/apache-maven-3.6.3" firstStartUp="false" />
     <entry projectName="E:/workspace/git/angular-8-registration-login-example" firstStartUp="false" />
     <entry projectName="E:/workspace/gopath/src/github.com/gwuhaolin/lightsocks" firstStartUp="false" />
