@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Determine username" />
+      <item value="Determine" />
       <item value="need to externalize CliRequest" />
       <item value="Install color support. This method is called by Maven core, and calling it is not necessary in plugins." />
       <item value="tear Down" />
@@ -30,8 +32,6 @@
       <item value="開始時間" />
       <item value="巡檢名" />
       <item value="synonym" />
-      <item value="to indicate any signature" />
-      <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent" />
     </histories>
     <option name="languageScores">
       <map>
