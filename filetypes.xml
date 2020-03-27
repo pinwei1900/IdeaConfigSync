@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Log_Directory" type="PLAIN_TEXT" />
       <mapping pattern="HLJ_HLJ_IPTV_OMC_FIBERHOME_CDN-PM_IPTV_0015_20171123105758_0_0_0" type="PLAIN_TEXT" />
       <mapping ext="templ" type="PLAIN_TEXT" />
     </extensionMap>
