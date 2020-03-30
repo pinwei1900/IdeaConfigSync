@@ -1,9 +1,21 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="$USER_HOME$/Downloads/A.CTable-Frame-master/mybatis-enhance-actable" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Downloads/ant-design-pro-master" firstStartUp="false" />
+    <entry projectName="$USER_HOME$/Downloads/mybatis-auto-create-table-master (1)/mybatis-auto-create-table-master" firstStartUp="false" />
+    <entry projectName="E:/github/notes/blog/leetcode" firstStartUp="false" />
     <entry projectName="E:/workspace/apache-maven-3.6.3-src/apache-maven-3.6.3" firstStartUp="false" />
+    <entry projectName="E:/workspace/git/angular-8-registration-login-example" firstStartUp="false" />
     <entry projectName="E:/workspace/gopath/src/github.com/gwuhaolin/lightsocks" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/boc/code" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/branch/las_branch_FV6300发布版本/lasservice" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/branch/las_branch_FV6300发布版本/lasweb" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/lasservice" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/lasweb" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/trunk/lasservice" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/LAS/trunk/lasweb" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/elasticsearch-head-master" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_basic_20190415/fums/02_gitcode/agent_cmcc" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_basic_20190415/fums/02_gitcode/fums" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/fums_branch_f40/fums/02_gitcode/fums" firstStartUp="false" />
@@ -15,11 +27,25 @@
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/性能指标数据上报脚本/7.2　CDN性能指标/cdn-pm" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/fums/性能指标数据上报脚本/7.6.1 业务平台出口性能指标/iptv-link-pm" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/omc/nms/omc250_shanghai" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/omc/nms/分省脚本及文件维护/上海电信/上海QoE/shanghai-qoe-report" firstStartUp="false" />
     <entry projectName="E:/workspace/svn/fonsview_wh_svn/omc/nms/分省脚本及文件维护/性能指标数据采集上报脚本/7.6.2　业务平台观看统计指标/iptv-view-pm" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/omc/nms/分省脚本及文件维护/江苏联通/FV6300-CONTENT_VIEWLOG-V3.2.0-F001B04-GEN" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/wgelk/elkfront" firstStartUp="false" />
+    <entry projectName="E:/workspace/svn/fonsview_wh_svn/wgelk/elkservice" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/agent_cmcc" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/demotttt" firstStartUp="false" />
     <entry projectName="E:/workspace/test/fums" firstStartUp="false" />
     <entry projectName="E:/workspace/test/fums1202" firstStartUp="false" />
     <entry projectName="E:/workspace/test/fums5428" firstStartUp="false" />
     <entry projectName="E:/workspace/test/fums_basic_20190415/fums/02_gitcode/fums" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/fums_branch_f602/fums/02_gitcode/agent_cmcc" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/fums_branch_f602/fums/02_gitcode/fums" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/javaboy-code-samples-master/security_json" firstStartUp="false" />
     <entry projectName="E:/workspace/test/pdf" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/rebbittest" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/security" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/spring-security-dome-master" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/springdoc" firstStartUp="false" />
+    <entry projectName="E:/workspace/test/webdemo" firstStartUp="false" />
   </component>
 </application>

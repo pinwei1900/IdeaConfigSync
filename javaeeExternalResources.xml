@@ -4,5 +4,6 @@
     <resource url="http://maven.apache.org/ASSEMBLY/2.0.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/a7faf726_assembly-2.0.0.xsd" />
     <resource url="http://maven.apache.org/DECORATION/1.8.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/436c0977_decoration-1.8.0.xsd" />
     <resource url="http://maven.apache.org/TOOLCHAINS/1.1.0" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/f3826aea_toolchains-1.1.0.xsd" />
+    <resource url="http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/cf63db72_mybatis-generator-config_1_0.dtd" />
   </component>
 </application>
