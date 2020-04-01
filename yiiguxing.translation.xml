@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="CLUSTERED" />
       <item value="l cases count down to allow container to progress beyond startup" />
       <item value="not logged in so redirect to login page with the return url" />
       <item value="A callback for publisher confirmations." />
@@ -31,12 +32,11 @@
       <item value="系统自愈" />
       <item value="dispense documents have been falsified" />
       <item value="下发配置文件备份" />
-      <item value="Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'alarmInspectTask' is expected to be of type 'com.fiberhome.fums.inspection.inspect.report.inspecttask.AlarmInspectTask' but was actually of type 'com.sun.proxy.$Proxy192'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="610" />
-        <entry key="ENGLISH" value="611" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
