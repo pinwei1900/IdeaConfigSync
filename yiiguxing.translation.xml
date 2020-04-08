@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="视频流控制器" />
       <item value="CLUSTERED" />
       <item value="l cases count down to allow container to progress beyond startup" />
       <item value="not logged in so redirect to login page with the return url" />
@@ -31,11 +32,10 @@
       <item value="Transient" />
       <item value="系统自愈" />
       <item value="dispense documents have been falsified" />
-      <item value="下发配置文件备份" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
+        <entry key="CHINESE" value="612" />
         <entry key="ENGLISH" value="612" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
