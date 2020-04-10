@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="10.96.156.242" id="817dbeda-e9e7-4fba-8160-c28cd922c3e1" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="10.96.156.242" id="4a3c7804-9272-4228-a222-a8ab78674463" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
