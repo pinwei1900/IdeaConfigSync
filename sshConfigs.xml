@@ -6,6 +6,7 @@
       <sshConfig authType="PASSWORD" host="10.96.156.242" id="30bcf5f4-9ca2-4842-9abf-5ddacb8c1eb6" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="10.96.156.242" id="27de66a9-d006-481b-b978-bc484d631eac" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="10.96.156.242" id="e6d19890-fb7d-4cc3-864c-1cae2edd2393" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="10.96.156.242" id="8a54f52e-912b-42b6-ba92-f2a7d83ee5da" port="22" customName="Copy of project-level server '10.96.156.242'" nameFormat="CUSTOM" username="root" />
     </configs>
   </component>
 </application>
