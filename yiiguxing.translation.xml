@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Specifies that active entries are eligible for automatic refresh once a fixed duration has elapsed after the entry's creation, or the most recent replacement of its value." />
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent." />
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed" />
       <item value="视频流控制器" />
@@ -31,7 +32,6 @@
       <item value="開始實現" />
       <item value="設備類型" />
       <item value="告警自愈" />
-      <item value="Transient" />
     </histories>
     <option name="languageScores">
       <map>
