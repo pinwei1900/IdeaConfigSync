@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent." />
+      <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed" />
       <item value="视频流控制器" />
       <item value="CLUSTERED" />
       <item value="l cases count down to allow container to progress beyond startup" />
@@ -30,13 +32,11 @@
       <item value="設備類型" />
       <item value="告警自愈" />
       <item value="Transient" />
-      <item value="系统自愈" />
-      <item value="dispense documents have been falsified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="612" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="CHINESE" value="613" />
+        <entry key="ENGLISH" value="613" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
