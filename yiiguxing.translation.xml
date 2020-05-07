@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="请输入超时时间" />
+      <item value="单次请求的响应超时时间" />
       <item value="过滤关键字" />
       <item value="添加中心节点配置" />
       <item value="IF 6接口End Point" />
@@ -30,13 +32,11 @@
       <item value="io Dev Ratio" />
       <item value="store procedure" />
       <item value="告警专家库配置" />
-      <item value="merge" />
-      <item value="Chart Rendering Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="619" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="621" />
+        <entry key="ENGLISH" value="621" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
