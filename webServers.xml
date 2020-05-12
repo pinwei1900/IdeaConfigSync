@@ -1,12 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="42199563-f64e-4217-8256-1b906f1384a2" name="Copy of project-level server '10.96.156.242'" url="http://10.96.156.242">
-        <fileTransfer rootFolder="/root/cmsscript" accessType="SFTP" sshConfigId="84eb1f6f-e701-4a57-839e-88c41b5264de" sshConfig="Copy of project-level server '10.96.156.242'">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
+      <webServer id="32b4ca91-c2a7-437a-99f8-a74d2d5ad00c" name="10.96.156.242 (1)">
+        <fileTransfer accessType="SFTP" host="10.96.156.242" port="22" sshConfigId="73590605-08c5-4f9f-a5a7-77435fa85fa9" sshConfig="10.96.156.242" />
       </webServer>
     </option>
   </component>
