@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
       <item value="Strategy interface to get the potential servers to connect to." />
       <item value="create Address Resolver" />
       <item value="请输入超时时间" />
@@ -31,7 +32,6 @@
       <item value="tear Down" />
       <item value="TODO push all common bits back to plexus cli and prepare for transition to Guice. We don't need 50 ways to make CLIs" />
       <item value="Output runs cmd on the remote host and returns its standard output." />
-      <item value="io Dev Ratio" />
     </histories>
     <option name="languageScores">
       <map>
