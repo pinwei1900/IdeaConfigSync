@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Create a new broker connection, picking the first available address from the list. If automatic connection recovery is enabled, the connection returned by this method will be Recoverable. Future reconnection attempts will pick a random accessible address from the provided list." />
       <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
       <item value="Strategy interface to get the potential servers to connect to." />
       <item value="create Address Resolver" />
@@ -31,7 +32,6 @@
       <item value="Install color support. This method is called by Maven core, and calling it is not necessary in plugins." />
       <item value="tear Down" />
       <item value="TODO push all common bits back to plexus cli and prepare for transition to Guice. We don't need 50 ways to make CLIs" />
-      <item value="Output runs cmd on the remote host and returns its standard output." />
     </histories>
     <option name="languageScores">
       <map>
