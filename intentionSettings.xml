@@ -2,5 +2,6 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/ECMAScript 6/Introduce object or array destructuring" />
     <ignoreAction name="JavaScript/Replace with indexer access" />
+    <ignoreAction name="Java/Concurrency/Convert to atomic" />
   </component>
 </application>
