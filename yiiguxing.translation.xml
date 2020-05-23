@@ -2,6 +2,16 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="execution" />
+      <item value="The acknowledge mode: &quot;auto&quot;, &quot;manual&quot;, or &quot;none&quot;." />
+      <item value="Create a new CachingConnectionFactory given a host name and port." />
+      <item value="package protected API, made public for testing only" />
+      <item value="Enables or disables automatic connection recovery ." />
+      <item value="Returns true if automatic connection recovery is enabled, false otherwise" />
+      <item value="Create a new broker connection, picking the first available address from the list. If automatic connection recovery is enabled, the connection returned by this method will be Recoverable. Future reconnection attempts will pick a random accessible address from the provided list." />
+      <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
+      <item value="Strategy interface to get the potential servers to connect to." />
+      <item value="create Address Resolver" />
       <item value="请输入超时时间" />
       <item value="单次请求的响应超时时间" />
       <item value="过滤关键字" />
@@ -22,21 +32,11 @@
       <item value="Correlation Data" />
       <item value="Establishing SSL connection without server's identity verification is not recommended" />
       <item value="Incorrect table definition; there can be only one auto column and it must be defined as a key" />
-      <item value="Determine username" />
-      <item value="Determine" />
-      <item value="need to externalize CliRequest" />
-      <item value="Install color support. This method is called by Maven core, and calling it is not necessary in plugins." />
-      <item value="tear Down" />
-      <item value="TODO push all common bits back to plexus cli and prepare for transition to Guice. We don't need 50 ways to make CLIs" />
-      <item value="Output runs cmd on the remote host and returns its standard output." />
-      <item value="io Dev Ratio" />
-      <item value="store procedure" />
-      <item value="告警专家库配置" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="621" />
+        <entry key="CHINESE" value="623" />
+        <entry key="ENGLISH" value="624" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
