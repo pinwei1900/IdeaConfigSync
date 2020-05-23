@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="层" />
+      <item value="阶梯" />
+      <item value="楼梯" />
       <item value="实体" />
       <item value="Entety" />
       <item value="execution" />
@@ -29,14 +32,11 @@
       <item value="l cases count down to allow container to progress beyond startup" />
       <item value="not logged in so redirect to login page with the return url" />
       <item value="A callback for publisher confirmations." />
-      <item value="Only one ConfirmCallback is supported by each RabbitTemplate" />
-      <item value="active" />
-      <item value="Correlation Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="625" />
-        <entry key="ENGLISH" value="625" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="628" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
