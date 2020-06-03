@@ -2,8 +2,11 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
-      <item value="Inserts item x at position k, maintaining heap invariant by * promoting x up the tree until it is greater than or equal to * its parent, or is the root." />
-      <item value="OPERATOR" />
+      <item value="层" />
+      <item value="阶梯" />
+      <item value="楼梯" />
+      <item value="实体" />
+      <item value="Entety" />
       <item value="execution" />
       <item value="The acknowledge mode: &quot;auto&quot;, &quot;manual&quot;, or &quot;none&quot;." />
       <item value="Create a new CachingConnectionFactory given a host name and port." />
@@ -29,14 +32,11 @@
       <item value="l cases count down to allow container to progress beyond startup" />
       <item value="not logged in so redirect to login page with the return url" />
       <item value="A callback for publisher confirmations." />
-      <item value="Only one ConfirmCallback is supported by each RabbitTemplate" />
-      <item value="active" />
-      <item value="Correlation Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="626" />
-        <entry key="ENGLISH" value="627" />
+        <entry key="CHINESE" value="628" />
+        <entry key="ENGLISH" value="628" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -45,6 +45,7 @@
         <entry key="LATIN" value="1" />
         <entry key="LUXEMBOURGISH" value="2" />
         <entry key="ROMANIAN" value="2" />
+        <entry key="MALAGASY" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
         <entry key="SUNDANESE" value="3" />
