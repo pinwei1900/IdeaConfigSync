@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="* &lt;p&gt; It is rarely appropriate to use this method. It may be useful * for debugging or testing purposes, where it may help to reproduce * bugs due to race conditions. It may also be useful when designing * concurrency control constructs such as the ones in the * {@link java.util.concurrent.locks} package." />
+      <item value="Yield is a heuristic attempt to improve relative progression * between threads that would otherwise over-utilise a CPU. Its use * should be combined with detailed profiling and benchmarking to * ensure that it actually has the desired effect." />
+      <item value="* A hint to the scheduler that the current thread is willing to yield * its current use of a processor. The scheduler is free to ignore this * hint." />
       <item value="层" />
       <item value="阶梯" />
       <item value="楼梯" />
@@ -29,14 +32,11 @@
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed" />
       <item value="视频流控制器" />
       <item value="CLUSTERED" />
-      <item value="l cases count down to allow container to progress beyond startup" />
-      <item value="not logged in so redirect to login page with the return url" />
-      <item value="A callback for publisher confirmations." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="630" />
+        <entry key="ENGLISH" value="631" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
