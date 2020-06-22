@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Accumulate values under a key. It is similar to the put method except that if there is already an object stored under the key then a JSONArray is stored under the key to hold all of the accumulated values. If there is already a JSONArray, then the new value is appended to it. In contrast, the put method replaces the previous value." />
       <item value="主機抓包" />
       <item value="主机抓包" />
       <item value="* &lt;p&gt; It is rarely appropriate to use this method. It may be useful * for debugging or testing purposes, where it may help to reproduce * bugs due to race conditions. It may also be useful when designing * concurrency control constructs such as the ones in the * {@link java.util.concurrent.locks} package." />
@@ -31,12 +32,11 @@
       <item value="双中心开关" />
       <item value="Specifies that active entries are eligible for automatic refresh once a fixed duration has elapsed after the entry's creation, or the most recent replacement of its value." />
       <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent." />
-      <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="632" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="633" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
