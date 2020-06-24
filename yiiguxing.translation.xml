@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation." />
+      <item value="trying direct instantiation." />
+      <item value="The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
+      <item value="deprecated" />
       <item value="Accumulate values under a key. It is similar to the put method except that if there is already an object stored under the key then a JSONArray is stored under the key to hold all of the accumulated values. If there is already a JSONArray, then the new value is appended to it. In contrast, the put method replaces the previous value." />
       <item value="主機抓包" />
       <item value="主机抓包" />
@@ -28,15 +32,11 @@
       <item value="过滤关键字" />
       <item value="添加中心节点配置" />
       <item value="IF 6接口End Point" />
-      <item value="中心节点Id" />
-      <item value="双中心开关" />
-      <item value="Specifies that active entries are eligible for automatic refresh once a fixed duration has elapsed after the entry's creation, or the most recent replacement of its value." />
-      <item value="Performs any pending maintenance operations needed by the cache. Exactly which activities are performed -- if any -- is implementation-dependent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="633" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="637" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
