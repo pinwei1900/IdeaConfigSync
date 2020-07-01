@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="is process count not negative" />
+      <item value="decrease process count" />
       <item value="Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation." />
       <item value="trying direct instantiation." />
       <item value="The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary." />
@@ -30,13 +32,11 @@
       <item value="请输入超时时间" />
       <item value="单次请求的响应超时时间" />
       <item value="过滤关键字" />
-      <item value="添加中心节点配置" />
-      <item value="IF 6接口End Point" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="637" />
+        <entry key="CHINESE" value="638" />
+        <entry key="ENGLISH" value="639" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
