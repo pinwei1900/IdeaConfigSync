@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="next set ch time int" />
       <item value="No files or folders found to process" />
       <item value="excluded" />
       <item value="CDNDataTask.get_thread_num() may need to be overridden" />
@@ -31,12 +32,11 @@
       <item value="Create a new broker connection, picking the first available address from the list. If automatic connection recovery is enabled, the connection returned by this method will be Recoverable. Future reconnection attempts will pick a random accessible address from the provided list." />
       <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
       <item value="Strategy interface to get the potential servers to connect to." />
-      <item value="create Address Resolver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="642" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="644" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
