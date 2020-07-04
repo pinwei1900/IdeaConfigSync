@@ -47,7 +47,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Remote Python 2.7.5 (sftp://root@10.96.156.242:22/usr/bin/python) interpreter library">
+    <library name="Remote Python 2.7.5 (sftp://root@10.96.156.241:22/usr/bin/python) interpreter library">
       <CLASSES />
       <JAVADOC />
       <SOURCES />

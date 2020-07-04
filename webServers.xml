@@ -1,12 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="42199563-f64e-4217-8256-1b906f1384a2" name="Copy of project-level server '10.96.156.242'" url="http://10.96.156.242">
-        <fileTransfer rootFolder="/root/cmsscript" accessType="SFTP" sshConfigId="817dbeda-e9e7-4fba-8160-c28cd922c3e1" sshConfig="Copy of project-level server '10.96.156.242'">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
+      <webServer id="81bfe907-5f5e-4642-a29f-2323ce76d343" name="10.96.156.241" url="http://ww.baidu.com">
+        <fileTransfer accessType="SFTP" host="10.96.156.241" port="22" sshConfigId="73590605-08c5-4f9f-a5a7-77435fa85fa9" sshConfig="10.96.156.241" />
       </webServer>
     </option>
   </component>
