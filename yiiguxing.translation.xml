@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="下载主机抓包文件" />
       <item value="next set ch time int" />
       <item value="No files or folders found to process" />
       <item value="excluded" />
@@ -31,11 +32,10 @@
       <item value="Returns true if automatic connection recovery is enabled, false otherwise" />
       <item value="Create a new broker connection, picking the first available address from the list. If automatic connection recovery is enabled, the connection returned by this method will be Recoverable. Future reconnection attempts will pick a random accessible address from the provided list." />
       <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
-      <item value="Strategy interface to get the potential servers to connect to." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
+        <entry key="CHINESE" value="644" />
         <entry key="ENGLISH" value="644" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
