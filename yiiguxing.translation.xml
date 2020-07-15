@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="APP" />
+      <item value="STB INSPECT" />
+      <item value="RESPONSE" />
+      <item value="UPHOSTCFG" />
       <item value="下载主机抓包文件" />
       <item value="next set ch time int" />
       <item value="No files or folders found to process" />
@@ -28,15 +32,11 @@
       <item value="The acknowledge mode: &quot;auto&quot;, &quot;manual&quot;, or &quot;none&quot;." />
       <item value="Create a new CachingConnectionFactory given a host name and port." />
       <item value="package protected API, made public for testing only" />
-      <item value="Enables or disables automatic connection recovery ." />
-      <item value="Returns true if automatic connection recovery is enabled, false otherwise" />
-      <item value="Create a new broker connection, picking the first available address from the list. If automatic connection recovery is enabled, the connection returned by this method will be Recoverable. Future reconnection attempts will pick a random accessible address from the provided list." />
-      <item value="Returns the next element of this enumeration if this enumeration object has at least one more element to provide." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="644" />
+        <entry key="CHINESE" value="646" />
+        <entry key="ENGLISH" value="647" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -48,6 +48,7 @@
         <entry key="MALAGASY" value="1" />
         <entry key="PORTUGUESE" value="2" />
         <entry key="WELSH" value="1" />
+        <entry key="HUNGARIAN" value="1" />
         <entry key="SUNDANESE" value="3" />
         <entry key="INDONESIAN" value="1" />
       </map>
