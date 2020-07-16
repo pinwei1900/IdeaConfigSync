@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="系统管理用户被修改" />
+      <item value="主机遭到非法IP侵入" />
+      <item value="定时任务被非法修改" />
+      <item value="监控到文件非法变动" />
       <item value="documents have been falsified" />
       <item value="APP" />
       <item value="STB INSPECT" />
@@ -28,15 +32,11 @@
       <item value="阶梯" />
       <item value="楼梯" />
       <item value="实体" />
-      <item value="Entety" />
-      <item value="execution" />
-      <item value="The acknowledge mode: &quot;auto&quot;, &quot;manual&quot;, or &quot;none&quot;." />
-      <item value="Create a new CachingConnectionFactory given a host name and port." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="647" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="651" />
+        <entry key="ENGLISH" value="651" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
