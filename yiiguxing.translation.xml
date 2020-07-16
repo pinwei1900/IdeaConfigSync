@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="maxHistorySize" value="30" />
     <histories>
+      <item value="documents have been falsified" />
       <item value="APP" />
       <item value="STB INSPECT" />
       <item value="RESPONSE" />
@@ -31,12 +32,11 @@
       <item value="execution" />
       <item value="The acknowledge mode: &quot;auto&quot;, &quot;manual&quot;, or &quot;none&quot;." />
       <item value="Create a new CachingConnectionFactory given a host name and port." />
-      <item value="package protected API, made public for testing only" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="646" />
-        <entry key="ENGLISH" value="647" />
+        <entry key="CHINESE" value="647" />
+        <entry key="ENGLISH" value="648" />
         <entry key="ALBANIAN" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
